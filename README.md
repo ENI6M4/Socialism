@@ -40,7 +40,7 @@
 <br><a href="https://i.imgur.com/z4z08TS.jpg"> - Corporate Ownership Visualised </a>
 <br><a href="https://fair.org/home/the-incredible-belief-that-corporate-ownership-does-not-influence-media-content/"> - Corporate Ownership of the Press </a>
 <br><a href="https://www.youtube.com/watch?v=b6l6Ck4TKxo"> - The Age When Capitalism Went Too Far (For Libertarians) </a>
-<br><a href="https://www.thecanary.co/exclusive/2020/05/13/revealed-secretive-british-unit-planning-for-reconstruction-of-venezuela/amp/?__twitter_impression=true"> - Capitalism = Imperialism (Lenin) </a>
+<br><a href="https://www.thecanary.co/exclusive/2020/05/13/revealed-secretive-british-unit-planning-for-reconstruction-of-venezuela/amp/?__twitter_impression=true"> - Capitalism = Imperialism </a>
 <br><a href="https://youtube.com/watch?v=qX-P4mx1FLU"> - 10 Minute History Lesson For Neo-Liberals By Tony Benn (Same Struggles Today As 60 Years Ago) </a>
 <br><a href="https://www.youtube.com/watch?v=KFqjzZo_6Rw"> - Work Under Capitalism is Not Voluntary </a>
 <br><a href="https://cdn.discordapp.com/attachments/650742450721128466/655788893173710908/pubic.png"> - Deliberate Defunding of Public Services as Excuse to Privatise </a>
@@ -344,8 +344,8 @@
 <br><a href="https://cdn.discordapp.com/attachments/702533637026873404/702533885078143668/130AEF1531746AAD6AC03EF59F91E1A1_Killing_Hope_Blum_William-1.pdf"> - CIA Culling of Revolution *Masterpost </a>
 <br><a href="https://redd.it/95jr4q"> - Response To Anti-Soviet Claims </a>
 <br><a href="https://github.com/dessalines/essays/blob/master/us_atrocities.md"> - US Atrocities </a>
-<br><a href="https://gwydionwilliams.com/44-fascism-and-world-war-2/british-and-us-genocide/#_Toc61184876"> - Western Imperialist Atrocities </a>
-<br><a href="https://www.globalresearch.ca/us-has-killed-more-than-20-million-people-in-37-victim-nations-since-world-war-ii/5492051"> - Western Imperialist Atrocities </a>
+<br><a href="https://gwydionwilliams.com/44-fascism-and-world-war-2/british-and-us-genocide/#_Toc61184876"> - Western Imperialist Atrocities - 1 </a>
+<a href="https://www.globalresearch.ca/us-has-killed-more-than-20-million-people-in-37-victim-nations-since-world-war-ii/5492051"> - 2 </a>
 <br><a href="https://sputniknews.com/latam/201809101067895896-cuba-embargo-us-conflict/"> - Imperialist Sanctions - 1 </a>
 <a href="https://www.aljazeera.com/indepth/features/2015/06/bloqeo-55-years-obstructing-cuban-people-150612090553160.html"> - 2 </a>
 <a href="https://money.cnn.com/2018/06/12/news/economy/north-korea-sanctions-explainer/index.html"> - 3 </a>
@@ -503,8 +503,8 @@
 <a href="https://cdn.discordapp.com/attachments/717722858393960451/719559465736732753/Leaning.png"> - 2 </a>
 <a href="https://cdn.discordapp.com/attachments/717722858393960451/719559409180737536/Roadto2.png"> - 3 </a>
 <br>
-<br><a href="https://www.youtube.com/watch?v=-X5si3DA63w"> - Free Speech </a>
-<br><a href="https://youtu.be/0mNQ2SpHkNI"> - Free speech </a>
+<br><a href="https://www.youtube.com/watch?v=-X5si3DA63w"> - Free Speech - 1 </a>
+<a href="https://youtu.be/0mNQ2SpHkNI"> - 2 </a>
 <br><a href="https://blogs.uct.ac.za/memory/2019/05/unbanned-the-films-south-africans-were-not-allowed-to-see/"> - Apartheid Censorship </a>
 <br><a href="https://www.youtube.com/watch?v=8Pl8Mss_mPQ"> - The Comrade King </a>
 <br><a href="https://www.youtube.com/watch?v=Bk7Vjd_o9i8"> - Open Borders? </a>
@@ -753,7 +753,8 @@
 <a href="https://imgur.com/a/vRVcX8D"> --- Wealth Inequality vs West </a>
 <a href="https://www.quora.com/How-does-Chinas-economy-really-work-In-many-discussions-people-tend-to-argue-that-China-is-under-a-communist-government-but-essentially-has-a-capitalist-market"> --- How Does China's Economy Work? </a>
 <br>
-<a href="https://www.unz.com/article/tiananmen-square-1989-revisited/"> --- Tianamen Square </a>
+<a href="https://www.youtube.com/watch?v=sqPI8xlnrwg"> --- Tianamen Square - 1 </a>
+<a href="https://www.unz.com/article/tiananmen-square-1989-revisited/"> - 2 </a>
 <a href="https://www.youtube.com/watch?v=b-nl0Hklwvg"> --- Hong Kong Protests? </a>
 <a href="https://www.scmp.com/comment/opinion/article/3091438/us-has-been-exposed-funding-last-years-hong-kong-protests#click=https://t.co/DRlt1Y2FLu"> - US Funding </a>
 <br>
@@ -825,12 +826,18 @@
 <a href="https://www.youtube.com/watch?v=AM0faLccYuQ"> --- Real DPRK Economic Data </a>
 <br>
 <a href="https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=PRK"> --- DPRK Environmentalism and Fight Against Climate Change </a>
+<a href="https://leftistcritic.wordpress.com/2017/03/08/elections-in-the-socialist-motherland-democracy-in-the-dprk/"> --- DPRK Democracy </a>
 <a href="https://www.youtube.com/watch?v=ktE_3PrJZO0&app=desktop"> --- DPRK "Defectors" </a>
+<a href="https://www.youtube.com/watch?v=6YtTd31I15g"> --- Homegrown Outcasts
 <a href="https://en.wikipedia.org/wiki/List_of_Western_Bloc_defectors"> --- Western Bloc Defectors </a>
 <br>
 <a href="https://www.scmp.com/week-asia/politics/article/3019439/secret-cia-files-reveal-plans-meddling-south-koreas-first"> --- CIA Meddling in South Korean Elections </a>
 <a href="https://amp.dw.com/en/south-korea-court-orders-party-with-pro-north-korea-views-be-disbanded/a-18140824"> --- South Korea Court Orders Party With Pro-DPRK Views Be Disbanded </a>
+<a href="https://en.wikipedia.org/wiki/Bodo_League_massacre"> --- Bodo League Massacre </a>
 <a href="http://www.medium.com/@w.aldrich/the-50-s-in-south-korea-what-happened-60f629ac3272"> --- 1950s Korea, What Happened </a>
+<a href="https://www.youtube.com/watch?v=9vuhi18fn7k"> --- ROK Kills Man Defecting to North </a>
+<a href="https://www.youtube.com/watch?v=nSd48emp0lI"> --- My Brothers and Sisters in the North Documentary </a>
+<br>
 <a href="https://www.quora.com/What-would-happen-if-North-Korea-and-South-Korea-reunited?share=1"> --- What Would happen if Korea Reunited? </a>
 <br>
 <br>*Kim Jong Un
@@ -1168,6 +1175,7 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <br>
 <p style="text-align:center;">
 <a href="https://www.reddit.com/r/socialism/comments/5929aw/ten_books_that_arent_about_communism_that_every/"> --- Ten Books that Aren't About Communism That Everyone Should Read </a>
+<a href="https://jiminykrix.wordpress.com/2016/09/14/how-to-learn-everything-a-communist-ought-to-know-from-the-beginning/"> --- Extra Reading List </a>
 <br>
 <a href="https://markavery.info/books/inglorious-conflict-uplands-published-30-july/"> --- Mark Avery, Inglorious </a>
 <a href="https://bob-berzins.co.uk/"> --- Bob-Berzins </a>
@@ -1280,6 +1288,7 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <br><a href="https://www.youtube.com/watch?v=ibVpDhW6kDQ"> - Charlie Chaplin The Great Dictator Speech </a>
 <br><a href="https://gyazo.com/aa9205e2dcdbbbd7c69ad853a1b19802"> - Socialist States </a>
 <br><a href="https://www.rt.com/usa/us-american-communist-community/"> - Communist Commune </a>
+<br><a href="https://mobile.twitter.com/biggestjoel/status/1239285333126189059"> - Cool People </a>
 <br><a href="https://www.youtube.com/watch?v=Ffmg6i0lv_k"> - Importance of Education </a>
 <br><a href="https://www.youtube.com/playlist?list=PLwGzY25TNHPC_SsXFcIH-ba0nWuNbHOM6"> - Soviet Storm (Documentary Series) </a>
 <br><a href="https://www.youtube.com/watch?v=QnMjW8hCFB8"> - Evo Morales "The unity of the people will be the defeat of the empire" </a>
