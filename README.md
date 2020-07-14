@@ -598,6 +598,7 @@
 <a href="https://ia800805.us.archive.org/13/items/GDR1986/GDR%201986.pdf"> --- DDR Basic Info </a>
 <a href="https://ia800805.us.archive.org/13/items/GDR1986/GDR%201986.pdf"> --- DDR in Depth </a>
 <a href="http://www.digizeitschriften.de/dms/toc/?PPN=PPN514402644"> --- DDR in Depth Every Year </a>
+<a href="https://cdn.discordapp.com/attachments/429730153032187924/431111832229380096/unknown.png"> --- GDP
 <br>
 <a href="http://www.country-data.com/frd/cs/gxtoc.html#gx0001"> --- DDR (From US State Perspective) </a>
 <a href="https://archive.org/stream/PittmanGDR#page/n5/mode/2up"> --- DDR (From US Journalist's Perspective) </a>
