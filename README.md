@@ -2,7 +2,7 @@
 
 <html>
 <head>
-     <title> Why Socialism </title>
+<title> Why Socialism </title>
 </head>
 <body style="background-color:red;
       color:white;
