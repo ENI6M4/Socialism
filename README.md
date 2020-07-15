@@ -2,20 +2,19 @@
 
 <html>
 <head>
-     <title>Why Socialism</title>
+     <title> Why Socialism </title>
 </head>
-<body
-	style="background-color:red;
-	color:white;
-	font-size:15px;">
-	  <header style="text-align:center;">
+<body style="background-color:red;
+      color:white;
+      font-size:15px;">
+      <header style="text-align:center;">
 
 <h1> Communism = "Stateless, Classless, Moneyless Society Operating On Virtue 'From Each According to His Ability, to Each According to His Needs'" 
 <a href="https://media.discordapp.net/attachments/692927141792448573/704091602238308422/comm.png?width=774&height=600"> Socialism = </a> </h1>
 
 	  </header>
 	  
-<h2 style="text-align:center;"> Books/Articles/Videos - Socialism:</h2>
+<h2 style="text-align:center;"> Books/Articles/Videos - Socialism: </h2>
 
 <br>
 
@@ -153,7 +152,9 @@
 <br><a href="https://www.thetimes.co.uk/article/congos-miners-dying-to-feed-worlds-hunger-for-electric-cars-jcrvj37vr"> - Green Capitalism? </a>
 <br><a href="https://www.youtube.com/watch?time_continue=5654&v=Zk11vI-7czE&feature=emb_title"> - Green Capitalism Documentary </a>
 <br><a href="https://www.nature.com/articles/s41467-020-16941-y">  - Environmentalism Needs Social Justice </a>
-<br><a href="https://m.youtube.com/watch?v=XR6mjpZrJrE"> - Militant Environmentalism </a>
+<br><a href="https://m.youtube.com/watch?v=XR6mjpZrJrE"> - Militant Environmentalism - 1 </a>
+<a href="https://www.youtube.com/watch?v=-mtusYyzvmo"> - 2 </a>
+<a href="https://www.youtube.com/watch?v=OvUVzvt_jtg"> - 3 </a>
 <br><a href="https://jacobinmag.com/2020/03/green-new-deal-politics-consumption/"> - Green New Deal? </a>
 <br>
 <br><a href="https://cdn.discordapp.com/attachments/717722858393960451/719590643692994634/EZEBllSXgAU1wLs.png"> - Enlightened Centrism? </a>
@@ -368,10 +369,11 @@
 <br><a href="https://www.marxists.org/archive/olgin/1935/trotskyism/04.htm"> - Trotskyism - 1 </a>
 <a href="https://www.youtube.com/watch?v=Az9O-eD-lhk"> - 2 </a>
 <br><a href="https://www.marxists.org/history/etol/critiques/sullivan/As-soon-as-this-pub-closes.pdf"> - Trot Splits </a>
-<br><a href="https://www.youtube.com/watch?v=DZCu3mpfBFw"> - Caleb Maupin - "Democratic Socialism" </a>
-<br><a href="https://m.youtube.com/watch?v=xgKPyIj8Q60"> - Caleb Maupin - The Synthetic Left </a>
-<br><a href="https://www.youtube.com/watch?v=UAvHbWOU2Ik"> - Caleb Maupin - Suits and Optimism </a>
-<br><a href="https://youtube.com/watch?v=Io7pvjA9X74"> - Caleb Maupin Chats With the Iron Curtain podcast </a>
+<br><a href="https://www.youtube.com/watch?v=DZCu3mpfBFw"> - "Democratic Socialism" </a>
+<br><a href="https://m.youtube.com/watch?v=xgKPyIj8Q60"> - The Synthetic Left - 1 </a>
+<a href="https://www.youtube.com/watch?v=oiTY4PDJUuo"> - 2 </a>
+<br><a href="https://www.youtube.com/watch?v=UAvHbWOU2Ik"> - Suits and Optimism </a>
+<br><a href="https://youtube.com/watch?v=Io7pvjA9X74"> - Caleb Maupin Chats With the Iron Curtain Podcast </a>
 <br>
 <br><a href="https://www.marxists.org/reference/archive/stalin/works/1906/12/x01.htm"> - Anarchism Or Socialism </a>
 <br><a href="https://cdn.discordapp.com/attachments/384045127649329153/425788308077936660/29425298_1930988963879968_5665848422259752960_o.png"> - Anarchists </a>
@@ -584,6 +586,11 @@
 <br><a href="https://redflag.org.au/node/7023"> --- Chelsea Manning </a>
 <br><a href="https://www.pbs.org/newshour/show/stretch-north-dakota-highway-witnesses-oils-boom-bust"> --- North Dakota and Boom Bust </a>
 <br><a href="https://www.youtube.com/watch?v=elNKZ4niERY"> --- Israeli Annexations </a>
+<br><a href="https://www.youtube.com/watch?v=FgtOXEJYm08"> --- Rwandan Genocide - 1 </a>
+<a href="https://blackagendareport.com/rwanda_absolutist_human_rights_watch"> - 2 </a>
+<br><a href="https://en.wikipedia.org/wiki/De_Beers#Industrial_diamonds"> --- De Beers Diamonds </a>
+<br><a href="https://www.youtube.com/watch?v=N5kWu1ifBGU"> --- Diamonds </a>
+<br><a href="https://upload.wikimedia.org/wikipedia/commons/a/ab/Tree_map_export_2009_Botswana.jpeg"> --- Botswana </a>
 </p>
 
 <h2 style="text-align:center;"> - DDR </h2>
@@ -605,7 +612,7 @@
 <a href="http://www.country-data.com/cgi-bin/query/r-5104.html"> --- Material Conditions of the DDR </a>
 <a href="https://archive.org/stream/HowDoPeopleLiveInTheGDR/How%20do%20people%20live%20in%20the%20GDR#page/n3/mode/2up"> --- Living Standards in the DDR </a>
 <br>
-<a href="https://www.youtube.com/watch?v=WzzQCTOlhNk"> -﻿-- DDR: Properous Workers State </a>
+<a href="https://www.youtube.com/watch?v=WzzQCTOlhNk"> --- DDR: Properous Workers State </a>
 <a href="https://www.telegraph.co.uk/expat/expatnews/6373531/Womens-love-lives-were-better-in-East-Germany-before-the-Berlin-Wall-fell.html"> --- Womens Love Lives Were Bettere in East Germany Before The Berlin Wall Fell
 <a href="https://www.youtube.com/watch?v=9cMccZG-dGc&has_verified=1"> --- Do Communists Have Better Sex? </a>
 <br>
@@ -763,6 +770,7 @@
 <a href="https://mobile.twitter.com/OohTheChilliOil/status/1278265815100465152"> --- Xighurs </a>
 <a href="https://www.youtube.com/watch?v=Wb-MNi8E-TA&app=desktop"> --- Re-education Camps </a>
 <a href="https://thediplomat.com/2016/08/chinas-nightmare-xinjiang-jihadists-go-global/"> --- Islamic Extremism </a>
+<a href="https://mobile.twitter.com/gobloid3/status/1281404596922060800"> --- Adrian Zenz </a>
 <br>
 <a href="https://twitter.com/Juliet_y_Sierra/status/1258742834632560640?s=20"> --- China Today </a>
 <a href="https://www.quora.com/Is-China-proof-that-socialism-can-work-if-they-use-Lenins-NEP?share=1"> --- Socialism in China </a>
@@ -776,6 +784,7 @@
 <a href="https://www.mintpressnews.com/china-clean-energy/248092/"> --- Environmentalism </a>
 <a href="https://qph.fs.quoracdn.net/main-qimg-7fdd93cefdbc87a7b5988c9f4a961cf2"> --- China Emissions? </a>
 <a href="https://qph.fs.quoracdn.net/main-qimg-b3fde0c33f62e609af07bc8714041f11"> --- China Emissions? </a>
+<a href="https://www.youtube.com/watch?v=whbyuy2nHBg"> --- Wet Markets </a>
 <br>
 <a href="https://www.quora.com/Is-there-any-possibility-that-the-COVID-19-did-not-originate-in-China-Or-definitely-in-China-Is-there-any-scientific-evidence-proof-so-far"> --- Covid-19 Origin? </a>
 <a href="https://www.scmp.com/news/china/science/article/3076284/coronavirus-vaccine-trials-chinese-volunteers-recount-their"> --- Corona Virus Vaccine </a>
@@ -896,6 +905,7 @@
 <br>
 <a href="https://morningstaronline.co.uk/article/arthur-scargill-pays-tribute-unswerving-jack-charlton-miners-strike-solidarity"> --- Jack Charlton </a>
 <a href="https://drive.google.com/drive/folders/1VAouo6J0NAvpj4Omk_p4ebrId9e5cUF_"> --- Irish Colonisation </a>
+<a href="https://cdn.discordapp.com/attachments/718179491452682260/732918023035551754/Ec9ZRjSXkAAkE3s.png"> --- Tax Haven </a>
 <a href="https://www.irishtimes.com/news/politics/pandemic-will-cause-divisive-inequality-varadkar-warns-1.4293005?mode=amp"> --- Varadker Warns About Coming Inequality </a>
 <br>
 <br>*Irish Communism
