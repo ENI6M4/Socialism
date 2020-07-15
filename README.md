@@ -3,7 +3,6 @@
 <html>
 <head>
      <title> Why Socialism </title>
-</head>
 <body style="background-color:red;
       color:white;
       font-size:15px;">
@@ -13,6 +12,7 @@
 <a href="https://media.discordapp.net/attachments/692927141792448573/704091602238308422/comm.png?width=774&height=600"> Socialism = </a> </h1>
 
 	  </header>
+	  </head>
 	  
 <h2 style="text-align:center;"> Books/Articles/Videos - Socialism: </h2>
 
