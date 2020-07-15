@@ -279,7 +279,7 @@
 <br><a href="https://cdn.discordapp.com/attachments/718108119733108816/719898456180654170/cih7VX13IXANE6oQ_Muk4HmArATnKB7L_ukYC09KcxHULZ8f1kdaIVi8RkKjveVLEED0gDh9yDDD2As800-nd.png"> - USSR Following WW2 </a>
 <br><a href="https://cdn.discordapp.com/attachments/397521810674941954/688431866910736421/bugpeople.maoist_20200213_103304_0.jpg"> - Soviet Elections </a>
 <br>
-<br><a href="https://gowans.wordpress.com/2013/12/23/seven-myths-about-the-ussr/"> Seven Myths About the USSR Debunked </a>
+<br><a href="https://gowans.wordpress.com/2013/12/23/seven-myths-about-the-ussr/"> - Seven Myths About the USSR Debunked </a>
 <br><a href="https://sci-hub.tw/https://www.jstor.org/stable/pdf/40402359.pdf?seq=1#page_scan_tab_contents"> - Health In the USSR </a>
 <br><a href="http://medicalency.com/bolnitsy-v-sssr.htm"> - Soviet Healthcare System </a>
 <br><a href="https://www.marxists.org/archive/newsholme/1933/red-medicine/index.htm"> - Red Medecine </a>
@@ -319,7 +319,7 @@
 <br><a href="https://www.youtube.com/watch?v=SsdLDFtbdrA"> - Chernobyl - 1 </a>
 <a href="https://www.youtube.com/watch?v=BfJ1fhmPPmM"> - 2 </a>
 <a href="https://www.youtube.com/watch?v=y5dV3IuNWvU"> - 3 </a>
-<br><a href="https://www.forbes.com/sites/michaelshellenberger/2019/06/06/why-hbos-chernobyl-gets-nuclear-so-wrong"> - Chernobyl </a>
+<a href="https://www.forbes.com/sites/michaelshellenberger/2019/06/06/why-hbos-chernobyl-gets-nuclear-so-wrong"> - 4 </a>
 <br><a href="https://communismarchive.files.wordpress.com/2017/10/grover-furr-the-mystery-of-the-katyn-massacre_-the-evidence-the-solution-2018-erythros-press-and-media.pdf"> - Katyn Massacre </a>
 <br><a href="https://mltheory.files.wordpress.com/2017/06/khrushchev-lied.pdf"> - Khrushchev Lied </a>
 <br><a href="https://mltheory.files.wordpress.com/2017/06/grover_furr_blood_lies_the_evidence_that_every_b-ok-org.pdf"> - Khrushchev's Lies </a>
@@ -416,11 +416,11 @@
 <br><a href="https://www.capitolhillseattle.com/2020/06/welcome-to-free-capitol-hill-capitol-hill-autonomous-zone-forms-around-emptied-east-precinct/"> Capital Hill Autonomous Zone </a>
 <br><a href="http://www.marxist.com/the-growing-outbreak-of-discontent-in-the-us-military.htm?fbclid=IwAR1ZEQEVo9BoNK-pIYQHLv6rKgYl2qOVx1pQx0sJ0c2QFD8hXjggtwKdrJw"> - Growing Outbreak Among US Soldiers </a>
 <br><a href="https://www.teenvogue.com/story/black-lives-matter-revolution-coopt"> - BLM Revolution </a>
-<br><a href="https://i.redd.it/0pd9wg3dmqx11.png"> - Good Trotsky Quote About Need For Guiding Organisation </a>
+<br><a href="https://i.redd.it/0pd9wg3dmqx11.png"> - Trotsky On Need For Guiding Organisation </a>
 <br><a href="https://www.youtube.com/watch?v=j3OcNXpeX08"> - BLM Corporate Hypocrisy </a>
 <br><a href="https://mobile.twitter.com/Tees4Europe/status/1270090755512635398"> - White Privelage </a>
 <br><a href="https://www.youtube.com/watch?v=hfqEf1z70jM"> - Lessons From Minneapolis Uprising </a>
-<br><a href="https://web.archive.org/web/20190803220924/https://soundcloud.com/siriusxmcomedy/george-carlin-rats-squealers-previously-unreleased-material"> - George Carlin, On Police Brutality </a>
+<br><a href="https://web.archive.org/web/20190803220924/https://soundcloud.com/siriusxmcomedy/george-carlin-rats-squealers-previously-unreleased-material"> - George Carlin, Police Brutality </a>
 <br><a href="https://mobile.twitter.com/J0hnnyXm4s/status/1275271166509416448"> - Police Disrespect of Fred Hampton's Grave </a>
 <br><a href="https://twitter.com/i/status/1276995624588709888"> - Rioting </a>
 <br><a href="https://crimethinc.com/2020/06/28/stonewall-means-riot-right-now-what-the-queer-uprisings-of-1969-share-with-the-george-floyd-protests-of-2020"> - Lessons From Stonewall </a>
@@ -1230,8 +1230,8 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <p style="text-align:center;">
 <a href="https://marxist.space/"> --- Marxist.Space </a>
 <a href="https://www.marxists.org/"> --- Marxists.org </a>
-<a href="https://www.quora.com/topic/Marxist-Leninist-1"> --- Marxist-Leninist </a>
-<a href="https://www.quora.com/q/marxismleninismmaoism"> --- MLMism </a>
+<a href="https://www.quora.com/topic/Marxist-Leninist-1"> --- ML </a>
+<a href="https://www.quora.com/q/marxismleninismmaoism"> --- MLM </a>
 <a href="https://www.quora.com/q/anticapitalism"> --- Anti-Capitalism </a>
 <a href="https://www.quora.com/profile/Godfree-Roberts?share=1"> --- Godfree Roberts </a>
 <a href="https://www.quora.com/profile/Alexander-Finnegan?share=1"> --- Alexander Finnegan </a>
@@ -1334,9 +1334,8 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <br>
 <br>**NEEDED - SOCIAL DEMOCRATS SELLING OUT REVOLUTION (COMMUNISTS) IN GERMANY
 <br>**NEEDED - POLINKAZH PRAGER UNIVERSITY MENTION OF HOW AMAZON COULD BE NATIONALISED IN A PLANNED ECONOMY
-<br>**NEEDED - MALCOLM X ON LIBERAL FAUX VICTORIES TO APPEASE THE OPPRESSED MASSES
 <br>**NEEDED - IRRATIONALITY OF CAPITALISM - STOCK MARKET, TWITTER CAT GIRL MEMES, BOOM BUST CYCLE
-<br>**NEEDED - GOOD ACAB EXPLANATION
+<br>**NEEDED - PRINCIPLED ACAB EXPLANATION
 
 </body>
 
