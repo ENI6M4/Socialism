@@ -3,6 +3,7 @@
 <html>
 <head>
      <title> Why Socialism </title>
+</head>
 <body style="background-color:red;
       color:white;
       font-size:15px;">
@@ -11,8 +12,8 @@
 <h1> Communism = "Stateless, Classless, Moneyless Society Operating On Virtue 'From Each According to His Ability, to Each According to His Needs'" 
 <a href="https://media.discordapp.net/attachments/692927141792448573/704091602238308422/comm.png?width=774&height=600"> Socialism = </a> </h1>
 
-	  </header>
-	  </head>
+</header>
+	  
 	  
 <h2 style="text-align:center;"> Books/Articles/Videos - Socialism: </h2>
 
