@@ -1072,8 +1072,8 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="https://twitter.com/UserConspicuous/status/1270167910099685377"> --- Seto Kaiba </a>
 <a href="https://www.youtube.com/watch?v=sbD1XDhKr8U"> --- Liberals </a>
 <a href="https://youtu.be/jYcxvnh4YtM"> --- Malcolm X on Liberals </a>
+<br>	
 <a href="https://pbs.twimg.com/media/EaUij2SXgAIyAwN?format=jpg&name=900x900"> --- Orwell </a>
-<br>
 <a href="https://media.discordapp.net/attachments/397521616222814218/657402857414197249/image0.png"> --- All Roads Lead To Stalin </a>
 <a href="https://i.redd.it/034pgzqyfuy41.jpg"> --- Stalin </a>
 <a href="https://pbs.twimg.com/media/EaJJDchXgAAjKl4.jpg:small"> --- Laziness = Praxis </a>
@@ -1183,7 +1183,7 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="https://www.youtube.com/watch?v=pgAu5cCQXP0"> --- Bring Back The Guillotine by Lil Guillotine </a>
 </p>
 
-<h2 style="text-align:center;"> - Extra books </h2>
+<h2 style="text-align:center;"> - Extra Books </h2>
 <br>
 <p style="text-align:center;">
 <a href="https://www.reddit.com/r/socialism/comments/5929aw/ten_books_that_arent_about_communism_that_every/"> --- Ten Books that Aren't About Communism That Everyone Should Read </a>
@@ -1226,7 +1226,7 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="https://www.reddit.com/r/ANI_COMMUNISM/"> r/ANI_COMMUNISM </a>
 </p>
 
-<h2 style="text-align:center;"> - ML spaces </h2>
+<h2 style="text-align:center;"> - ML Resources </h2>
 <br>
 <p style="text-align:center;">
 <a href="https://marxist.space/"> --- Marxist.Space </a>
@@ -1292,7 +1292,7 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="https://player.fm/series/i4c-trouble-with-daly-and-wallace"> --- I4C </a>
 </p>
 
-<h2 style="text-align:center;"> - Feel good </h2>
+<h2 style="text-align:center;"> - Feel Good </h2>
 <br>
 <p style="text-align:center;">
 <br><a href="https://www.reddit.com/r/socialism/comments/fhiwzx/heres_some_feelgood_for_your_day/"> - Here's Some Feel-Good For Your Day </a>
