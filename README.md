@@ -188,7 +188,7 @@
 <p style="text-align:center;">
 <br><a href="https://media.discordapp.net/attachments/692927141792448573/704091602238308422/comm.png?width=774&height=600"> - Socialism vs Capitalism </a>
 <br>
-<br><a href="https://youtu.be/MjwL1mSrPLA"> - Every Anti-Communist Argument Ever Debunked </a>
+<br><a href="https://youtu.be/MjwL1mSrPLA"> - Every Anti-Communist Argument Ever Debunked * </a>
 <br>
 <br><a href="https://docs.google.com/document/u/0/d/1Gxwhh-vdeB--47HM-20cEVRC9eAMhrapbNf0Sk8VSOs/mobilebasic#h.ur837r9iv7j5"> - Anti-Communist Arguments Debunked *Masterpost </a>
 <br><a href="https://cdn.discordapp.com/attachments/702533637026873404/702533885078143668/130AEF1531746AAD6AC03EF59F91E1A1_Killing_Hope_Blum_William-1.pdf"> - CIA Culling of Revolution *Masterpost </a>
@@ -810,8 +810,7 @@
 <a href="https://cdn.discordapp.com/attachments/704362078844223588/729818002417123409/deng_evaluation_3-4.png"> - 2 </a>
 <a href="https://cdn.discordapp.com/attachments/704362078844223588/729818005571108874/deng_evaluation_5-6.png"> - 3 </a>
 <a href="https://cdn.discordapp.com/attachments/704362078844223588/729818007974576158/deng_evaluation_7.png"> - 4 </a>
-<br>
-<a href="http://en.people.cn/dengxp/vol2/text/b1470.html"> --- Deng </a>
+<a href="http://en.people.cn/dengxp/vol2/text/b1470.html"> - 5 </a>
 <a href="http://book.theorychina.org/upload/835b93ad-37d3-4c9c-8ba3-ca59badb506c/"> --- DXT </a>
 <a href="https://mobile.twitter.com/StalinismCEO/status/1186699194121228288"> --- Marxism </a>
 <br>
