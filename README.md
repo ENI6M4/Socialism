@@ -264,7 +264,7 @@
 <br><a href="https://pbs.twimg.com/media/Eb1moDXXsAAryAB?format=jpg&name=large"> - USSR Infographic </a>
 <br>
 <br><a href="https://www.youtube.com/watch?v=Okz2YMW1AwY"> - Soviet Union: Democratic or Totalitarian? </a>
-<br><a href="https://www.youtube.com/watch?v=HMOdDQQVZ6U"> - Establishment Historian Admits USSR Didn't Kill Tens of Millions </a>
+<br><a href="https://www.youtube.com/watch?v=HMOdDQQVZ6U"> - USSR Didn't Kill Tens of Millions (Historians) </a>
 <br><a href="https://media.discordapp.net/attachments/717722858393960451/718085299267436634/84avfq2911w21.png?width=558&height=662"> - Gulags </a>
 <br><a href="https://www.youtube.com/watch?v=efU4opfSwQY&t=80s"> - Gulags (CIA Playing Themselves) </a>
 <br><a href="http://gis.huri.harvard.edu/historical-atlas/the-great-famine/famine-web-map.html"> - Holodomor? - 1 </a>
@@ -401,7 +401,7 @@
 <h2 style="text-align:center;"> - Revolution Impossible? </h2>
 <br>
 <p style="text-align:center;">
-<br>(Minneapolis following murder of George Floyd)
+<br>(Minneapolis Following Murder of George Floyd)
 <br><a href="https://cdn.discordapp.com/attachments/384045127649329153/716291650686550036/received_949101762210615.jpeg"> - CPI In Minneapolis </a>
 <br><a href="https://www.reddit.com/r/socialism/comments/dgoapj/the_real_looting_in_this_country_takes_place_in/"> - Looting? </a>
 <br><a href="https://redd.it/gvdg5s"> - Minneapolis vs Hong Kong </a>
@@ -414,7 +414,7 @@
 <br><a href="https://twitter.com/johncardillo/status/1268635034124247045"> - Police Resigning in High Numbers </a>
 <br><a href="https://mobile.twitter.com/IwriteOK/status/1266225500847931393?p=v"> - Americans Now Know Police Stations Can Be Burned </a>
 <br><a href="https://cdn.discordapp.com/attachments/449335833816858624/719965147157889075/EaFHpQfUEAAR-fw.png"> - Autonomous Zone in Seattle </a>
-<br><a href="https://www.capitolhillseattle.com/2020/06/welcome-to-free-capitol-hill-capitol-hill-autonomous-zone-forms-around-emptied-east-precinct/"> Capital Hill Autonomous Zone </a>
+<br><a href="https://www.capitolhillseattle.com/2020/06/welcome-to-free-capitol-hill-capitol-hill-autonomous-zone-forms-around-emptied-east-precinct/"> - Capital Hill Autonomous Zone </a>
 <br><a href="http://www.marxist.com/the-growing-outbreak-of-discontent-in-the-us-military.htm?fbclid=IwAR1ZEQEVo9BoNK-pIYQHLv6rKgYl2qOVx1pQx0sJ0c2QFD8hXjggtwKdrJw"> - Growing Outbreak Among US Soldiers </a>
 <br><a href="https://www.teenvogue.com/story/black-lives-matter-revolution-coopt"> - BLM Revolution </a>
 <br><a href="https://i.redd.it/0pd9wg3dmqx11.png"> - Trotsky On Need For Guiding Organisation </a>
@@ -532,9 +532,9 @@
 <br><a href="https://101.visualizingpalestine.org/visuals/zionist-colonization-palestine"> - Palestine </a>
 <br><a href="https://www.quora.com/Isnt-Jim-Clyburn-a-bad-example-for-Blacks-directing-them-back-toward-slavery"> "Isn't Jim Clyburn a Bad Example For Blacks Directing Them Back to Slavery?" </a>
 <br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xngur6-wkaefO20Rm4O2U2lD"> - Crime Stats </a>
-<br><a href="https://www.unz.com/article/the-iq-gap-is-no-longer-a-black-and-white-issue/"> - Race and IQ </a>
-<br><a href="https://www.youtube.com/watch?v=dNo-A55rJ8s"> - Race and IQ (short) </a>
-<br><a href="https://www.youtube.com/watch?v=UBc7qBS1Ujo"> - Race and IQ (long) </a>
+<br><a href="https://www.unz.com/article/the-iq-gap-is-no-longer-a-black-and-white-issue/"> - Race and IQ - 1 </a>
+<a href="https://www.youtube.com/watch?v=dNo-A55rJ8s"> - 2 </a>
+<a href="https://www.youtube.com/watch?v=UBc7qBS1Ujo"> - 3 </a>
 <br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xnjFm0zLxn9uJU9MwpXWDLQ6"> - Racism and White Supremacy </a>
 <br><a href="https://www.bbc.com/news/magazine-31556802"> - IQ - 1 </a>
 <a href="https://www.bloomberg.com/view/articles/2018-03-06/humanity-keeps-getting-smarter"> - 2</a>
@@ -580,7 +580,7 @@
 <br><a href="https://www.globalresearch.ca/hillary-emails-reveal-nato-killed-gaddafi-to-stop-libyan-creation-of-gold-backed-currency/5594742"> --- Gaddafi </a>
 <br><a href="https://www.youtube.com/watch?v=mlz3-OzcExI"> --- Clinton on Gaddafi </a>
 <br><a href="https://www.youtube.com/watch?v=bUhZmO6P0NU"> --- Gaddafi Interview </a>
-<br><a href="https://theintercept.com/2020/06/08/the-nyt-admits-key-falsehoods-that-drove-last-years-coup-in-bolivia-falsehoods-peddled-by-the-u-s-its-media-and-the-nyt/"> - Bolivia Coup </a>
+<br><a href="https://theintercept.com/2020/06/08/the-nyt-admits-key-falsehoods-that-drove-last-years-coup-in-bolivia-falsehoods-peddled-by-the-u-s-its-media-and-the-nyt/"> --- Bolivia Coup </a>
 <br><a href="https://mobile.twitter.com/BrianMteleSUR/status/1278337380458483717"> --- Lula Deposition </a>
 <br><a href="https://m.youtube.com/watch?v=mVXYH9tRknc"> --- Mike Prysner Speech </a>
 <br><a href="https://mobile.twitter.com/failedevolution/status/1200795848961150978"> ---- Julian Assange </a>
@@ -769,6 +769,7 @@
 <br>
 <a href="https://www.youtube.com/watch?v=Hv9jCeqNL0Y"> --- Does China Kill Xighurs? </a>
 <a href="https://mobile.twitter.com/OohTheChilliOil/status/1278265815100465152"> --- Xighurs </a>
+<a href="https://www.quora.com/Why-is-China-turning-Kashgar-Xinjiang-into-a-state-run-prison-Is-this-not-a-blatant-violation-of-human-rights-the-Chinese-constitution-so-protects"> --- Xighur "Genocide" (3rd Answer) </a>
 <a href="https://www.youtube.com/watch?v=Wb-MNi8E-TA&app=desktop"> --- Re-education Camps </a>
 <a href="https://thediplomat.com/2016/08/chinas-nightmare-xinjiang-jihadists-go-global/"> --- Islamic Extremism </a>
 <a href="https://mobile.twitter.com/gobloid3/status/1281404596922060800"> --- Adrian Zenz </a>
@@ -783,13 +784,15 @@
 <a href="https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68"> --- The Long Game </a>
 <br>
 <a href="https://www.mintpressnews.com/china-clean-energy/248092/"> --- Environmentalism </a>
-<a href="https://qph.fs.quoracdn.net/main-qimg-7fdd93cefdbc87a7b5988c9f4a961cf2"> --- China Emissions? </a>
-<a href="https://qph.fs.quoracdn.net/main-qimg-b3fde0c33f62e609af07bc8714041f11"> --- China Emissions? </a>
+<a href="https://qph.fs.quoracdn.net/main-qimg-7fdd93cefdbc87a7b5988c9f4a961cf2"> --- China Emissions? - 1 </a>
+<a href="https://qph.fs.quoracdn.net/main-qimg-b3fde0c33f62e609af07bc8714041f11"> - 2 </a>
 <a href="https://www.youtube.com/watch?v=whbyuy2nHBg"> --- Wet Markets </a>
 <br>
+<a href="https://qph.fs.quoracdn.net/main-qimg-682bbced6f0662f9d7575c0b6f5516a5"> --- Covid-19 Deaths </a>
 <a href="https://www.quora.com/Is-there-any-possibility-that-the-COVID-19-did-not-originate-in-China-Or-definitely-in-China-Is-there-any-scientific-evidence-proof-so-far"> --- Covid-19 Origin? </a>
 <a href="https://www.scmp.com/news/china/science/article/3076284/coronavirus-vaccine-trials-chinese-volunteers-recount-their"> --- Corona Virus Vaccine </a>
 <a href="https://www.thetimes.co.uk/article/chinese-vaccine-makers-hail-success-of-antibody-trials-tpdvx873l"> --- Corona Virus Vaccine </a>
+<a href="https://mobile.twitter.com/qiaocollective/status/1282489881088929792/photo/1"> --- Healthcare </a>
 <br>
 <a href="https://cdn.discordapp.com/attachments/407345200969547777/724619683411656814/4vvtuanqhc651.png"> --- Chinese Kids Aspirations </a>
 <a href="https://hbr.org/2015/09/huawei-a-case-study-of-when-profit-sharing-works"> --- Huawei </a>
@@ -797,36 +800,34 @@
 <br>
 <a href="https://i.redd.it/zaizrdq063251.jpg"> --- Chinese "Censorship" </a>
 <a href="https://edition.cnn.com/2020/06/11/tech/twitter-manipulation-account-removal/index.html"> --- US Censorship of China </a>
-<a href="https://qph.fs.quoracdn.net/main-qimg-682bbced6f0662f9d7575c0b6f5516a5"> --- Covid-19 Deaths </a>
 <br>
 <a href="https://timesofindia.indiatimes.com/india/neither-has-anyone-intruded-into-indian-territory-nor-has-anyone-taken-over-any-post-pm-modi/articleshow/76470868.cms"> --- Indian Invasion? </a>
 <a href="https://www.youtube.com/watch?v=GDl9ecICIYg"> --- The Coming War On China </a>
 <a href="https://qph.fs.quoracdn.net/main-qimg-510b9974978d5f962580406f247c1011"> --- US Bases Near China </a>
 <br>
 <a href="https://www.learningfromchina.net/china-is-most-promising-hope-for-third-world-fidel/"> --- Fidel On China </a>
-<a href="https://cdn.discordapp.com/attachments/704362078844223588/729817988727046204/deng_evaluation_1-2.png"> --- Deng 1 </a>
-<a href="https://cdn.discordapp.com/attachments/704362078844223588/729818002417123409/deng_evaluation_3-4.png"> --- 2 </a>
-<a href="https://cdn.discordapp.com/attachments/704362078844223588/729818005571108874/deng_evaluation_5-6.png"> --- 3 </a>
-<a href="https://cdn.discordapp.com/attachments/704362078844223588/729818007974576158/deng_evaluation_7.png"> --- 4 </a>
-<br>
-<a href="https://www.youtube.com/playlist?list=PLIuVy5356xnhT_sXylKTU4SHyM-vLz8Pt"> --- China Playlist </a>
-<a href="https://revolutionaryleftradio.libsyn.com/in-defense-of-china-as-a-socialist-state-w-ajit-singh"> --- In Defence of China as a Socialist State </a>
-<br>
-<a href="https://www.youtube.com/watch?v=TgpQxVCekgw"> --- Selection and Election: How China Chooses It's Leaders </a>
-<a href="https://www.quora.com/Given-Chinas-meritocratic-system-whats-the-probability-for-China-to-get-a-bad-leader"> --- What's the Probability China Gets a Bad Leader? (2nd answer) </a>
-<br>
-<a href="https://www.quora.com/Why-is-China-turning-Kashgar-Xinjiang-into-a-state-run-prison-Is-this-not-a-blatant-violation-of-human-rights-the-Chinese-constitution-so-protects"> --- Xighur Genocide (3rd answer) </a>
-<a href="https://www.quora.com/Why-does-China-have-democracy-at-a-CCP-executive-level-but-not-for-normal-people"> --- Chinese Democracy </a>
-<br>
-<a href="https://www.youtube.com/watch?v=BeMfSulfSsM"> --- American Reacts to Chinese Media, Poverty Elimination </a>
-<br>
-<a href="https://www.quora.com/How-did-Xi-Jinping-stop-corruption-and-change-China-for-the-better"> --- How Did Xi Stop Corruption and Change China For the Better? </a>
-<a href="https://www.scmp.com/economy/china-economy/article/3092339/china-approves-plan-boost-prominence-state-firms-despite"> --- SOE Increase </a>
-<a href="https://www.quora.com/What-is-President-Xi-Jing-Pings-salary"> --- Xi Jinpings Salary </a>
+<a href="https://cdn.discordapp.com/attachments/704362078844223588/729817988727046204/deng_evaluation_1-2.png"> --- Deng - 1 </a>
+<a href="https://cdn.discordapp.com/attachments/704362078844223588/729818002417123409/deng_evaluation_3-4.png"> - 2 </a>
+<a href="https://cdn.discordapp.com/attachments/704362078844223588/729818005571108874/deng_evaluation_5-6.png"> - 3 </a>
+<a href="https://cdn.discordapp.com/attachments/704362078844223588/729818007974576158/deng_evaluation_7.png"> - 4 </a>
 <br>
 <a href="http://en.people.cn/dengxp/vol2/text/b1470.html"> --- Deng </a>
 <a href="http://book.theorychina.org/upload/835b93ad-37d3-4c9c-8ba3-ca59badb506c/"> --- DXT </a>
 <a href="https://mobile.twitter.com/StalinismCEO/status/1186699194121228288"> --- Marxism </a>
+<br>
+<a href="https://www.youtube.com/playlist?list=PLIuVy5356xnhT_sXylKTU4SHyM-vLz8Pt"> --- China Playlist </a>
+<a href="https://revolutionaryleftradio.libsyn.com/in-defense-of-china-as-a-socialist-state-w-ajit-singh"> --- In Defence of China as a Socialist State </a>
+<br>
+<a href="https://www.quora.com/Why-does-China-have-democracy-at-a-CCP-executive-level-but-not-for-normal-people"> --- Chinese Democracy </a>
+<a href="https://www.youtube.com/watch?v=TgpQxVCekgw"> --- Selection and Election: How China Chooses It's Leaders </a>
+<a href="https://www.quora.com/Given-Chinas-meritocratic-system-whats-the-probability-for-China-to-get-a-bad-leader"> --- What's the Probability China Gets a Bad Leader? (2nd Answer) </a>
+<br>
+<a href="https://www.youtube.com/watch?v=BeMfSulfSsM"> --- American Reacts to Chinese Media, Poverty Elimination </a>
+<a href="https://www.trotskyistplatform.com/workplace-safety-now-better-in-china-than-in-australia/"> --- Workplace Safety </a>
+<a href="https://www.scmp.com/economy/china-economy/article/3092339/china-approves-plan-boost-prominence-state-firms-despite"> --- SOE Increase </a>
+<br>
+<a href="https://www.quora.com/How-did-Xi-Jinping-stop-corruption-and-change-China-for-the-better"> --- How Did Xi Stop Corruption and Change China For the Better? </a>
+<a href="https://www.quora.com/What-is-President-Xi-Jing-Pings-salary"> --- Xi Jinpings Salary </a>
 </p>
 
 <h2 style="text-align:center;"> - DPRK </h2>
@@ -1115,6 +1116,7 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="https://www.youtube.com/watch?v=D9rbHpA_6W4"> --- Media - 1 </a>
 <a href="https://www.youtube.com/watch?v=_fHfgU8oMSo"> - 2 </a>
 <a href="https://mobile.twitter.com/LukasMukasPukas/status/1281493733842788352"> --- Media and Amazon </a>
+<a href="https://cdn.discordapp.com/attachments/721041141210022029/733101141214101534/IMG_20200714_141436_502.jpg"> --- 4 Day Work Week
 </p>
 
 <h2 style="text-align:center;"> - Games </h2>
