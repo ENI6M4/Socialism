@@ -23,7 +23,8 @@
 <br>
 <p style="text-align:center;">
 <br><a href="https://economictimes.indiatimes.com/news/international/business/global-economy-to-plunge-into-worst-recession-since-ww-ii-world-bank/articleshow/76267007.cms"> - Imminent Recession </a>
-<br><a href="https://www.usich.gov/tools-for-action/map/"> - Homelessness </a>
+<br><a href="https://www.usich.gov/tools-for-action/map/"> - Homelessness - 1 </a>
+<a href="https://mobile.twitter.com/UniteThePoor/status/1283765486585618432"> - 2 </a>
 <br><a href="https://storage.googleapis.com/cym-ie/wp-content/uploads/2020/06/12135555/b2.jpg"> - Income Inequality </a>
 <br><a href="https://redd.it/bacr2l"> - Wealth of Billionaires </a>
 <br><a href="https://www.youtube.com/watch?v=QPKKQnijnsM"> - Wealth Inequality in America </a>
@@ -577,6 +578,7 @@
 <p style="text-align:center;">
 <br><a href="https://mobile.twitter.com/NathanJRobinson/status/1279952893148356608"> --- Normal View of US Imperialism </a>
 <br>
+<br><a href="https://pbs.twimg.com/media/Ectrd5AUwAAPJH8?format=jpg&name=small"> --- Cold War Hypocrisy </a>
 <br><a href="https://www.globalresearch.ca/hillary-emails-reveal-nato-killed-gaddafi-to-stop-libyan-creation-of-gold-backed-currency/5594742"> --- Gaddafi </a>
 <br><a href="https://www.youtube.com/watch?v=mlz3-OzcExI"> --- Clinton on Gaddafi </a>
 <br><a href="https://www.youtube.com/watch?v=bUhZmO6P0NU"> --- Gaddafi Interview </a>
@@ -587,6 +589,9 @@
 <br><a href="https://redflag.org.au/node/7023"> --- Chelsea Manning </a>
 <br><a href="https://www.pbs.org/newshour/show/stretch-north-dakota-highway-witnesses-oils-boom-bust"> --- North Dakota and Boom Bust </a>
 <br><a href="https://www.youtube.com/watch?v=elNKZ4niERY"> --- Israeli Annexations </a>
+<br><a href="https://www.thenation.com/article/archive/declaration-of-war/"> --- White Supremacy </a>
+<br><a href="https://www.theguardian.com/us-news/2016/may/15/cia-operative-nelson-mandela-1962-arrest"> --- Nelson Mandela - 1 </a>
+<a href="https://i.redd.it/r9174ryk5pa11.jpg"> - 2 </a>
 <br><a href="https://www.youtube.com/watch?v=FgtOXEJYm08"> --- Rwandan Genocide - 1 </a>
 <a href="https://blackagendareport.com/rwanda_absolutist_human_rights_watch"> - 2 </a>
 <br><a href="https://en.wikipedia.org/wiki/De_Beers#Industrial_diamonds"> --- De Beers Diamonds </a>
@@ -756,7 +761,8 @@
 <p style="text-align:center;">
 <a href="https://docs.google.com/document/d/16iw83noTdWvDiECaITX83rGhP_lros8QdBTrNnCoe6c/edit#"> --- Myths About China Debunked *Masterpost </a>
 <a href="https://cym.ie/education/#china"> --- China *Masterpost </a>
-<a href="https://www.quora.com/How-did-Mao-manage-to-kill-78-million-people/answer/Godfree-Roberts"> --- Mao </a>
+<a href="https://www.quora.com/How-did-Mao-manage-to-kill-78-million-people/answer/Godfree-Roberts"> --- Mao - 1 </a>
+<a href="https://labouraffairsmagazine.com/recent-issues/2019-11-magazine/2019-11/"> - 2 </a>
 <br>
 <a href="https://dengxiaopingworks.wordpress.com/2013/03/18/to-uphold-socialism-we-must-eliminate-poverty/"> --- Dengism </a>
 <a href="https://imgur.com/a/vRVcX8D"> --- Wealth Inequality vs West </a>
@@ -776,6 +782,7 @@
 <br>
 <a href="https://twitter.com/Juliet_y_Sierra/status/1258742834632560640?s=20"> --- China Today </a>
 <a href="https://www.quora.com/Is-China-proof-that-socialism-can-work-if-they-use-Lenins-NEP?share=1"> --- Socialism in China </a>
+<a href="https://www.youtube.com/watch?v=pezX6p5xpW4"> --- Is China Imperialist? </a>
 <a href="https://www.unz.com/article/selling-democracy-to-china/"> --- Chinese Democracy? </a>
 <a href="https://www.youtube.com/watch?v=iNnTpaN3Z8I"> --- DOTP </a>
 <br>
@@ -786,6 +793,7 @@
 <a href="https://www.mintpressnews.com/china-clean-energy/248092/"> --- Environmentalism </a>
 <a href="https://qph.fs.quoracdn.net/main-qimg-7fdd93cefdbc87a7b5988c9f4a961cf2"> --- China Emissions? - 1 </a>
 <a href="https://qph.fs.quoracdn.net/main-qimg-b3fde0c33f62e609af07bc8714041f11"> - 2 </a>
+<a href="https://mobile.twitter.com/Chollima_Report/status/1283440212056604672"> - 3 </a>
 <a href="https://www.youtube.com/watch?v=whbyuy2nHBg"> --- Wet Markets </a>
 <br>
 <a href="https://qph.fs.quoracdn.net/main-qimg-682bbced6f0662f9d7575c0b6f5516a5"> --- Covid-19 Deaths </a>
@@ -802,7 +810,8 @@
 <a href="https://edition.cnn.com/2020/06/11/tech/twitter-manipulation-account-removal/index.html"> --- US Censorship of China </a>
 <br>
 <a href="https://timesofindia.indiatimes.com/india/neither-has-anyone-intruded-into-indian-territory-nor-has-anyone-taken-over-any-post-pm-modi/articleshow/76470868.cms"> --- Indian Invasion? </a>
-<a href="https://www.youtube.com/watch?v=GDl9ecICIYg"> --- The Coming War On China </a>
+<a href="https://www.youtube.com/watch?v=GDl9ecICIYg"> --- The Coming War On China - 1 </a>
+<a href="https://mobile.twitter.com/isgoodrum/status/1283104474181931008"> - 2 </a>
 <a href="https://qph.fs.quoracdn.net/main-qimg-510b9974978d5f962580406f247c1011"> --- US Bases Near China </a>
 <br>
 <a href="https://www.learningfromchina.net/china-is-most-promising-hope-for-third-world-fidel/"> --- Fidel On China </a>
@@ -811,6 +820,7 @@
 <a href="https://cdn.discordapp.com/attachments/704362078844223588/729818005571108874/deng_evaluation_5-6.png"> - 3 </a>
 <a href="https://cdn.discordapp.com/attachments/704362078844223588/729818007974576158/deng_evaluation_7.png"> - 4 </a>
 <a href="http://en.people.cn/dengxp/vol2/text/b1470.html"> - 5 </a>
+<a href="https://www.docdroid.net/AnYQB3a/chinas-great-adjustment-odt#page=5"> - 6 </a>
 <a href="http://book.theorychina.org/upload/835b93ad-37d3-4c9c-8ba3-ca59badb506c/"> --- DXT </a>
 <a href="https://mobile.twitter.com/StalinismCEO/status/1186699194121228288"> --- Marxism </a>
 <br>
@@ -825,6 +835,10 @@
 <a href="https://www.trotskyistplatform.com/workplace-safety-now-better-in-china-than-in-australia/"> --- Workplace Safety </a>
 <a href="https://www.scmp.com/economy/china-economy/article/3092339/china-approves-plan-boost-prominence-state-firms-despite"> --- SOE Increase </a>
 <br>
+<a href="https://mobile.twitter.com/nise_yoshimi/status/1281880878470197248"> --- Xi - 1 </a>
+<a href="https://mobile.twitter.com/bayareas415/status/1283043749426352131"> - 2 </a>
+<a href="https://mobile.twitter.com/Bodhishevik/status/1283062573047447553"> - 3 </a>
+<a href="https://mobile.twitter.com/Bodhishevik/status/1283131374560567296"> - 4 </a>
 <a href="https://www.quora.com/How-did-Xi-Jinping-stop-corruption-and-change-China-for-the-better"> --- How Did Xi Stop Corruption and Change China For the Better? </a>
 <a href="https://www.quora.com/What-is-President-Xi-Jing-Pings-salary"> --- Xi Jinpings Salary </a>
 </p>
@@ -838,6 +852,7 @@
 <br>
 <a href="https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=PRK"> --- DPRK Environmentalism and Fight Against Climate Change </a>
 <a href="https://leftistcritic.wordpress.com/2017/03/08/elections-in-the-socialist-motherland-democracy-in-the-dprk/"> --- DPRK Democracy </a>
+<a href="https://tjen-folket.no/index.php/en/2020/05/14/the-august-incident-the-fight-against-the-right-opportunist-line-in-the-workers-party-of-korea/"> --- WPK </a>
 <a href="https://www.youtube.com/watch?v=ktE_3PrJZO0&app=desktop"> --- DPRK "Defectors" </a>
 <a href="https://www.youtube.com/watch?v=6YtTd31I15g"> --- Homegrown Outcasts
 <a href="https://en.wikipedia.org/wiki/List_of_Western_Bloc_defectors"> --- Western Bloc Defectors </a>
@@ -907,6 +922,7 @@
 <a href="https://morningstaronline.co.uk/article/arthur-scargill-pays-tribute-unswerving-jack-charlton-miners-strike-solidarity"> --- Jack Charlton </a>
 <a href="https://drive.google.com/drive/folders/1VAouo6J0NAvpj4Omk_p4ebrId9e5cUF_"> --- Irish Colonisation </a>
 <a href="https://cdn.discordapp.com/attachments/718179491452682260/732918023035551754/Ec9ZRjSXkAAkE3s.png"> --- Tax Haven </a>
+	<a href="https://mobile.twitter.com/WSMIreland/status/1282222660647256065"> --- Fash
 <a href="https://www.irishtimes.com/news/politics/pandemic-will-cause-divisive-inequality-varadkar-warns-1.4293005?mode=amp"> --- Varadker Warns About Coming Inequality </a>
 <br>
 <br>*Irish Communism
@@ -953,12 +969,12 @@
 <p style="text-align:center;">
 <br><a href="https://www.theguardian.com/commentisfree/2019/oct/15/encryption-lose-privacy-us-uk-australia-facebook"> - E2E Encryption </a>
 <br><a href="https://www.youtube.com/watch?v=JDsMA466vEw"> - Digital Security </a>
-<br><a href="https://redd.it/g53gg0"> - F(L)OSS = Communism </a>
-<br><a href="https://i.redd.it/lrr7gqj0e7451.jpg"> - F(L)OSS = Communism </a>
+<br><a href="https://redd.it/g53gg0"> - F(L)OSS = Communism - 1 </a>
+<a href="https://i.redd.it/lrr7gqj0e7451.jpg"> - 2 </a>
 <br><a href="https://www.ocsmag.com/2019/02/27/free-softwares-radical-past/"> - Free Software's Radical Past </a>
 <br><a href="https://lipu.dgold.eu/original-sin.html"> - The Original Sin of Free Software </a>
-<br><a href="https://www.privacytools.io/"> - Look For Free and Open Source Alternatives </a>
-<br><a href="https://alternativeto.net/"> - Look For Free and Open Source Alternatives </a>
+<br><a href="https://www.privacytools.io/"> - Look For Free and Open Source Alternatives - 1 </a>
+<a href="https://alternativeto.net/"> - 2 </a>
 <br><a href="https://cryptpad.fr/sheet/#/2/sheet/edit/JqwwL2OEoidv-JkCNPpDhg84/"> - Open Source Alternatives Spreadsheet </a>
 <br><a href="https://github.com/luong-komorebi/Awesome-Linux-Software"> - Preferably Switch to Linux </a>
 <br><a href="https://github.com/awesome-selfhosted/awesome-selfhosted"> - Preferably Self Host </a>
@@ -1034,6 +1050,8 @@
 <br> - "How in the hell could a man enjoy being awakened at 6:30 a.m. by an alarm clock, leap out of bed, dress, force-feed, shit, piss, brush teeth and hair, and fight traffic to get to a place where essentially you make lots of money for somebody else and were asked to be grateful for the opportunity to do so? - Charles Bukowski, Factotum, 1975
 <br>
 <br> - "If machines produce everything we need, the outcome will depend on how things are distributed," he wrote. "Everyone can enjoy a life of luxurious leisure if the machine-produced wealth is shared, or most people can end up miserably poor if the machine-owners successfully lobby against wealth redistribution, so far, the trend seems to be toward the second option, with technology driving ever-increasing inequality" - Stephen Hawking
+<br>
+<br> - ''To place Russian communism on the same moral level with Nazi fascism, because both are totalitarian, is, at best, superficial, in the worse case it is fascism. He who insists on this equality may be a democrat; in truth and in his heart, he is already a fascist, and will surely fight fascism with insincerity and appearance, but with complete hatred only communism.'' -Thomas Mann
 <br>
 <br> -  "Poverty is not socialism. To be rich is glorious" - Deng Xiaoping
 <br>
@@ -1115,6 +1133,7 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="https://www.youtube.com/watch?v=D9rbHpA_6W4"> --- Media - 1 </a>
 <a href="https://www.youtube.com/watch?v=_fHfgU8oMSo"> - 2 </a>
 <a href="https://mobile.twitter.com/LukasMukasPukas/status/1281493733842788352"> --- Media and Amazon </a>
+<a href="https://pbs.twimg.com/media/EdA8kpOXYAA8GrX?format=jpg&name=small"> --- Laws </a>
 <a href="https://cdn.discordapp.com/attachments/721041141210022029/733101141214101534/IMG_20200714_141436_502.jpg"> --- 4 Day Work Week
 </p>
 
@@ -1299,6 +1318,7 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <br><a href="https://www.reddit.com/r/socialism/comments/fhiwzx/heres_some_feelgood_for_your_day/"> - Here's Some Feel-Good For Your Day </a>
 <br><a href="https://mobile.twitter.com/SrslyWrong/status/1008558825803112448"> - How to Deal With Enemies </a>
 <br><a href="https://www.youtube.com/watch?v=ibVpDhW6kDQ"> - Charlie Chaplin The Great Dictator Speech </a>
+	<br><a href="https://pbs.twimg.com/media/Ecs4qKEXkAISDZh?format=jpg&name=small"> - "Marxist College Indoctrination" </a>
 <br><a href="https://gyazo.com/aa9205e2dcdbbbd7c69ad853a1b19802"> - Socialist States </a>
 <br><a href="https://www.rt.com/usa/us-american-communist-community/"> - Communist Commune </a>
 <br><a href="https://mobile.twitter.com/biggestjoel/status/1239285333126189059"> - Cool People </a>
