@@ -751,7 +751,8 @@
 <h2 style="text-align:center;"> - Vietnam </h2>
 <br>
 <p style="text-align:center;">
-<a href="https://www.youtube.com/watch?v=mMubOw5H-yo"> --- Socialism in Vietnam </a>
+<a href="https://journalworker.wordpress.com/2020/07/10/the-tremendous-but-secret-success-of-socialist-vietnam/"> --- Socialism in Vietnam - 1 </a>
+<a href="https://www.youtube.com/watch?v=mMubOw5H-yo"> - 2 </a>
 <a href="https://www.youtube.com/watch?v=taDiYqwQZdg"> --- USSR and Vietnam </a>
 <a href="https://www.bbc.com/news/world-asia-53196009"> --- How Vietnamese People Rushed To Save Patient 91 </a>
 </p>
@@ -763,6 +764,7 @@
 <a href="https://cym.ie/education/#china"> --- China *Masterpost </a>
 <a href="https://www.quora.com/How-did-Mao-manage-to-kill-78-million-people/answer/Godfree-Roberts"> --- Mao - 1 </a>
 <a href="https://labouraffairsmagazine.com/recent-issues/2019-11-magazine/2019-11/"> - 2 </a>
+<a href="https://ash.harvard.edu/files/ash/files/final_policy_brief_7.6.2020.pdf"> - Chinese Public Opinion </a>
 <br>
 <a href="https://dengxiaopingworks.wordpress.com/2013/03/18/to-uphold-socialism-we-must-eliminate-poverty/"> --- Dengism </a>
 <a href="https://imgur.com/a/vRVcX8D"> --- Wealth Inequality vs West </a>
@@ -812,6 +814,8 @@
 <a href="https://timesofindia.indiatimes.com/india/neither-has-anyone-intruded-into-indian-territory-nor-has-anyone-taken-over-any-post-pm-modi/articleshow/76470868.cms"> --- Indian Invasion? </a>
 <a href="https://www.youtube.com/watch?v=GDl9ecICIYg"> --- The Coming War On China - 1 </a>
 <a href="https://mobile.twitter.com/isgoodrum/status/1283104474181931008"> - 2 </a>
+<a href="https://www.globaltimes.cn/content/1189358.shtml"> - 3 </a>
+<a href="https://communism.lemmy.ml/pictrs/image/FSn3tBAKao.png"> - 4 </a>
 <a href="https://qph.fs.quoracdn.net/main-qimg-510b9974978d5f962580406f247c1011"> --- US Bases Near China </a>
 <br>
 <a href="https://www.learningfromchina.net/china-is-most-promising-hope-for-third-world-fidel/"> --- Fidel On China </a>
@@ -896,8 +900,8 @@
 <a href="https://www.youtube.com/watch?v=PKTQqgckVz8"> --- Leo </a>
 <a href="https://twitter.com/i/status/1257990555423866880"> --- Green Party </a>
 <br>
-<a href="https://mobile.twitter.com/mobrien1975/status/1257990555423866880?p=v"> --- Blueshirts On Bikes </a>
-<a href="https://cdn.discordapp.com/attachments/574959437131808790/726777704526905374/106113072_3096820853739634_8062789758823254852_n.jpg"> --- Blueshirts On Bikes </a>
+<a href="https://mobile.twitter.com/mobrien1975/status/1257990555423866880?p=v"> --- Blueshirts On Bikes - 1 </a>
+<a href="https://cdn.discordapp.com/attachments/574959437131808790/726777704526905374/106113072_3096820853739634_8062789758823254852_n.jpg"> - 2 </a>
 <a href="https://mobile.twitter.com/paulmurphy_TD/status/1272529506675326977"> --- FF/FG/Green Government </a>
 <a href="https://www.theguardian.com/world/2019/nov/04/irish-pm-leo-varadkar-under-fire-for-extolling-benefits-of-climate-crisis"> --- FG "Science" </a>
 <a href="https://mobile.twitter.com/paddycosgrave/status/1272792731425923073"> --- FG Covid-19 Response </a>
@@ -922,7 +926,7 @@
 <a href="https://morningstaronline.co.uk/article/arthur-scargill-pays-tribute-unswerving-jack-charlton-miners-strike-solidarity"> --- Jack Charlton </a>
 <a href="https://drive.google.com/drive/folders/1VAouo6J0NAvpj4Omk_p4ebrId9e5cUF_"> --- Irish Colonisation </a>
 <a href="https://cdn.discordapp.com/attachments/718179491452682260/732918023035551754/Ec9ZRjSXkAAkE3s.png"> --- Tax Haven </a>
-	<a href="https://mobile.twitter.com/WSMIreland/status/1282222660647256065"> --- Fash
+<a href="https://mobile.twitter.com/WSMIreland/status/1282222660647256065"> --- Fash </a>
 <a href="https://www.irishtimes.com/news/politics/pandemic-will-cause-divisive-inequality-varadkar-warns-1.4293005?mode=amp"> --- Varadker Warns About Coming Inequality </a>
 <br>
 <br>*Irish Communism
@@ -933,7 +937,7 @@
 <a href="https://www.youtube.com/watch?v=js0FR8GkBEo"> --- The Limerick Soviet </a>
 <a href="https://www.youtube.com/watch?v=QwcnvJmIOAo"> --- History of the Limerick Soviet </a>
 <br>
-<a href="https://mobile.twitter.com/ConnollyYM"> CYM Twitter </a> ; <a href="https://cym.ie/"> CYM </a>
+<a href="https://mobile.twitter.com/ConnollyYM"> --- CYM Twitter </a> ; <a href="https://cym.ie/"> CYM </a>
 <a href="https://mobile.twitter.com/irelandcp"> CPI Twitter </a> ; <a href="https://communistpartyofireland.ie/stair-en.html"> CPI </a>
 <a href="https://mobile.twitter.com/VoiceSocialist"> Socialist Voice Twitter </a>  ; <a href="https://socialistvoice.ie/"> Socialist Voice </a>
 <a href="https://mobile.twitter.com/LasairDhearg"> Lasair Dhearg </a> ; <a href="https://www.lasairdhearg.com/"> Lasair Dhearg </a>
@@ -1328,6 +1332,7 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <br><a href="https://se7en.ws/the-us-army-is-losing-the-war-in-discord/?lang=en"> - US Army Discord Beaten Back </a>
 <br><a href="https://communism.lemmy.ml/post/4808"> - Lemmy (Communist Reddit) </a>
 <br><a href="https://arstechnica.com/information-technology/2020/07/the-remote-british-village-that-built-one-of-the-uks-fastest-internet-networks/3/"> - Community Self-Development </a>
+<br><a href="https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer"> - Socialism's DIY Computer </a>
 <br><a href="https://en.wikipedia.org/wiki/Project_Cybersyn"> - Project Cybersyn </a>
 <br><a href="https://en.wikipedia.org/wiki/OGAS"> - OGAS </a>
 <br><a href="https://en.wikipedia.org/wiki/Antonov_An-225_Mriya"> - Antonov An-225 Mriya </a>
