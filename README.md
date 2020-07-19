@@ -121,7 +121,8 @@
 <br>
 <br><a href="https://mobile.twitter.com/lefthandle/status/1267279221539459072"> - The Necessity of Marxism </a>
 <br><a href="https://www.youtube.com/watch?v=qihG6AGjkRk"> - How To Fix the Housing Crisis </a>
-<br><a href="https://youtube.com/watch?v=IYkLVU5UGM8"> - Video Games and Capitalism </a>
+<br><a href="https://youtube.com/watch?v=IYkLVU5UGM8"> - Video Games and Capitalism - 1 </a>
+<a href="https://www.youtube.com/watch?v=AL6F2E3sHVw"> - 2 </a>
 <br><a href="https://www.youtube.com/watch?v=4QKnrZmvlaA"> - Art and Capital </a>
 <br><a href="https://theweek.com/speedreads/627278/florence-same-wealthiest-families-600-years"> - Concentration of Wealth </a>
 <br><a href="https://www.youtube.com/watch?v=YKRBgCmgm-c"> - The myth of Incentive Under Capitalism </a>
@@ -266,7 +267,13 @@
 <br>
 <br><a href="https://www.youtube.com/watch?v=Okz2YMW1AwY"> - Soviet Union: Democratic or Totalitarian? </a>
 <br><a href="https://www.youtube.com/watch?v=HMOdDQQVZ6U"> - USSR Didn't Kill Tens of Millions (Historians) </a>
-<br><a href="https://media.discordapp.net/attachments/717722858393960451/718085299267436634/84avfq2911w21.png?width=558&height=662"> - Gulags </a>
+<br><a href="https://media.discordapp.net/attachments/717722858393960451/718085299267436634/84avfq2911w21.png?width=558&height=662"> - Gulags - 1 </a>
+<a href="https://cdn.discordapp.com/attachments/710599832519049256/734455487675891773/Gulag_population.jpg"> - 2 </a>
+<a href="https://cdn.discordapp.com/attachments/710599832519049256/734456692435320912/Gulag_sentencing_length.jpg"> - 3 </a>
+<a href="https://cdn.discordapp.com/attachments/710599832519049256/734456695689838592/Gulag_stats.png"> - 4 </a>
+<a href="https://cdn.discordapp.com/attachments/710599832519049256/734456699699724328/later_Gulag_stats.png"> - 5 </a> (<a href="https://cdn.discordapp.com/attachments/710599832519049256/734454692020617296/image0.jpg"> Contrast to Ireland </a>)
+	
+	
 <br><a href="https://www.youtube.com/watch?v=efU4opfSwQY&t=80s"> - Gulags (CIA Playing Themselves) </a>
 <br><a href="http://gis.huri.harvard.edu/historical-atlas/the-great-famine/famine-web-map.html"> - Holodomor? - 1 </a>
 <a href="https://colonelcassad.livejournal.com/3929565.html"> - 2 </a>
@@ -521,6 +528,7 @@
 <br>
 <br>*response
 <br><a href="https://www.youtube.com/watch?v=ahRLBkuTW8w"> - Are you rational? Are you open minded? </a>
+<br><a href="https://theintercept.com/2020/07/15/george-floyd-protests-police-far-right-antifa/"> - "System Threat" </a>
 <br><a href="https://www.youtube.com/watch?v=7G17Qf5nrLw"> - The Truth About Nationalism </a>
 <br><a href="https://www.youtube.com/watch?v=cXZ6BZzQeCQ"> - What is white Supremacy? </a>
 <br><a href="https://www.youtube.com/watch?v=j4pZLH9Ro54"> - Identity Politics Divides the Left? </a>
@@ -579,24 +587,28 @@
 <br><a href="https://mobile.twitter.com/NathanJRobinson/status/1279952893148356608"> --- Normal View of US Imperialism </a>
 <br>
 <br><a href="https://pbs.twimg.com/media/Ectrd5AUwAAPJH8?format=jpg&name=small"> --- Cold War Hypocrisy </a>
-<br><a href="https://www.globalresearch.ca/hillary-emails-reveal-nato-killed-gaddafi-to-stop-libyan-creation-of-gold-backed-currency/5594742"> --- Gaddafi </a>
+<br><a href="https://www.globalresearch.ca/hillary-emails-reveal-nato-killed-gaddafi-to-stop-libyan-creation-of-gold-backed-currency/5594742"> --- Gaddafi - 1 </a>
+<a href="https://mobile.twitter.com/Underground_RT/status/1283785830230876160"> - 2 </a>
 <br><a href="https://www.youtube.com/watch?v=mlz3-OzcExI"> --- Clinton on Gaddafi </a>
 <br><a href="https://www.youtube.com/watch?v=bUhZmO6P0NU"> --- Gaddafi Interview </a>
 <br><a href="https://theintercept.com/2020/06/08/the-nyt-admits-key-falsehoods-that-drove-last-years-coup-in-bolivia-falsehoods-peddled-by-the-u-s-its-media-and-the-nyt/"> --- Bolivia Coup </a>
 <br><a href="https://mobile.twitter.com/BrianMteleSUR/status/1278337380458483717"> --- Lula Deposition </a>
-<br><a href="https://m.youtube.com/watch?v=mVXYH9tRknc"> --- Mike Prysner Speech </a>
-<br><a href="https://mobile.twitter.com/failedevolution/status/1200795848961150978"> ---- Julian Assange </a>
-<br><a href="https://redflag.org.au/node/7023"> --- Chelsea Manning </a>
 <br><a href="https://www.pbs.org/newshour/show/stretch-north-dakota-highway-witnesses-oils-boom-bust"> --- North Dakota and Boom Bust </a>
 <br><a href="https://www.youtube.com/watch?v=elNKZ4niERY"> --- Israeli Annexations </a>
 <br><a href="https://www.thenation.com/article/archive/declaration-of-war/"> --- White Supremacy </a>
 <br><a href="https://www.theguardian.com/us-news/2016/may/15/cia-operative-nelson-mandela-1962-arrest"> --- Nelson Mandela - 1 </a>
 <a href="https://i.redd.it/r9174ryk5pa11.jpg"> - 2 </a>
+<a href="https://mobile.twitter.com/redfishstream/status/1284480591698812929"> - 3 </a>
 <br><a href="https://www.youtube.com/watch?v=FgtOXEJYm08"> --- Rwandan Genocide - 1 </a>
 <a href="https://blackagendareport.com/rwanda_absolutist_human_rights_watch"> - 2 </a>
 <br><a href="https://en.wikipedia.org/wiki/De_Beers#Industrial_diamonds"> --- De Beers Diamonds </a>
 <br><a href="https://www.youtube.com/watch?v=N5kWu1ifBGU"> --- Diamonds </a>
 <br><a href="https://upload.wikimedia.org/wikipedia/commons/a/ab/Tree_map_export_2009_Botswana.jpeg"> --- Botswana </a>
+<br>
+<br><a href="https://m.youtube.com/watch?v=mVXYH9tRknc"> --- Mike Prysner Speech </a>
+<br><a href="https://mobile.twitter.com/failedevolution/status/1200795848961150978"> ---- Julian Assange </a>
+<br><a href="https://redflag.org.au/node/7023"> --- Chelsea Manning </a>
+<br><a href="http://glenngreenwald.net/"> --- Glenn Greenwald </a>
 </p>
 
 <h2 style="text-align:center;"> - DDR </h2>
@@ -805,7 +817,8 @@
 <a href="https://mobile.twitter.com/qiaocollective/status/1282489881088929792/photo/1"> --- Healthcare </a>
 <br>
 <a href="https://cdn.discordapp.com/attachments/407345200969547777/724619683411656814/4vvtuanqhc651.png"> --- Chinese Kids Aspirations </a>
-<a href="https://hbr.org/2015/09/huawei-a-case-study-of-when-profit-sharing-works"> --- Huawei </a>
+<a href="https://hbr.org/2015/09/huawei-a-case-study-of-when-profit-sharing-works"> --- Huawei - 1 </a>
+<a href="https://www.reuters.com/article/us-huawei-india-idUSKBN1WT25H"> - 2 </a>
 <a href="https://www.forbes.com/sites/raykwong/2011/07/25/friends-dont-let-friends-become-chinese-billionaires/#84731e52ddae"> --- Billionaires </a>
 <br>
 <a href="https://i.redd.it/zaizrdq063251.jpg"> --- Chinese "Censorship" </a>
@@ -890,34 +903,35 @@
 <br>*Irish Government Corruption Over the Years, Lately Preventing Disclosure of Information
 <br>
 <br><a href="https://medium.com/@zackbreslin/the-irish-ruling-class-who-are-they-what-do-they-want-how-do-they-get-233290bcfca7"> --- Who Are the Irish Ruling Class and What Do They Want </a>
-<a href="https://www.youtube.com/watch?v=8sVyc9o8p2Q"> --- Housing Crisis </a>
+<a href="https://www.youtube.com/watch?v=8sVyc9o8p2Q"> --- Housing Crisis - 1 </a>
+<a href="https://media.discordapp.net/attachments/717738815556419614/719722211212001330/unknown.png"> - 2 </a>
 <a href="http://aramarkproperty.ie/"> --- Housing  Crisis, But Not For the Few </a>
-<a href="https://media.discordapp.net/attachments/717738815556419614/719722211212001330/unknown.png"> --- Housing Crisis </a>
 <a href="https://www.rte.ie/news/2018/1122/1012550-future_jobs_summit/"> --- Sand Economy </a>
 <a href="https://twitter.com/i/status/1266064268853641219"> --- Black and Irish Struggle Similarities (80's) </a>
 <a href="http://www.irishstatutebook.ie/eli/1939/act/13/section/30/enacted/en/html#:~:text=%E2%80%94(1)%20A%20member%20of,about%20to%20commit%20or%20being"> --- Offences Against the State Act </a>
-<a href="https://cdn.discordapp.com/attachments/449335833816858624/719930246081806467/Screenshot_20200609-160513_WhatsApp.jpg"> --- Blueshirts </a>
-<a href="https://www.youtube.com/watch?v=PKTQqgckVz8"> --- Leo </a>
-<a href="https://twitter.com/i/status/1257990555423866880"> --- Green Party </a>
 <br>
-<a href="https://mobile.twitter.com/mobrien1975/status/1257990555423866880?p=v"> --- Blueshirts On Bikes - 1 </a>
-<a href="https://cdn.discordapp.com/attachments/574959437131808790/726777704526905374/106113072_3096820853739634_8062789758823254852_n.jpg"> - 2 </a>
-<a href="https://mobile.twitter.com/paulmurphy_TD/status/1272529506675326977"> --- FF/FG/Green Government </a>
+<a href="https://cdn.discordapp.com/attachments/449335833816858624/719930246081806467/Screenshot_20200609-160513_WhatsApp.jpg"> --- Blueshirts - 1 </a>
+<a href="https://cdn.discordapp.com/attachments/384045127649329153/722158212954193930/blueshirt_wankers.mp4"> - 2 </a>
+<a href="https://pbs.twimg.com/media/EakttxgWkAEsFBU.png:small"> - 3 </a>
+<a href="https://twitter.com/ginosocialist/status/1273528268998787072?s=21"> --- FG (Israel) </a>
 <a href="https://www.theguardian.com/world/2019/nov/04/irish-pm-leo-varadkar-under-fire-for-extolling-benefits-of-climate-crisis"> --- FG "Science" </a>
 <a href="https://mobile.twitter.com/paddycosgrave/status/1272792731425923073"> --- FG Covid-19 Response </a>
+<a href="https://www.youtube.com/watch?v=PKTQqgckVz8"> --- My Lovely Leo </a>
+<a href="https://www.independent.ie/irish-news/courts/students-who-hacked-the-fine-gael-website-hand-over-5000-each-29643575.html"> --- Students Who Hacked FG Website </a>
+<br>
+<a href="https://twitter.com/i/status/1257990555423866880"> --- Green Party </a>
+<a href="https://mobile.twitter.com/mobrien1975/status/1257990555423866880?p=v"> --- Blueshirts On Bikes - 1 </a>
+<a href="https://cdn.discordapp.com/attachments/574959437131808790/726777704526905374/106113072_3096820853739634_8062789758823254852_n.jpg"> - 2 </a>
+<a href="https://cdn.discordapp.com/attachments/717827541053866014/726194760049754296/mmw796orob751.png"> --- FF </a>
+<a href="https://mobile.twitter.com/paulmurphy_TD/status/1272529506675326977"> --- FF/FG/Green Government </a>
 <a href="https://twitter.com/ImperialistWl/status/1254014041267359749"> --- Sinn Fein </a>
 <a href="https://mobile.twitter.com/cbolgerr/status/1228695668111347715"> --- Sinn Fein "Mandate" To Govern? (2020 Election) </a>
-<a href="https://twitter.com/ginosocialist/status/1273528268998787072?s=21"> --- FG (Israel) </a>
 <a href="https://twitter.com/Buailtin/status/1269963688284426245?s=19"> --- Racism Still Exists </a>
 <a href="https://www.facebook.com/risesocialists/videos/258676998755407/"> --- Offences Against the State Act </a>
 <br>
 <a href="https://www.yumpu.com/en/document/read/63485175/as-the-virus-recedes-the-economic-disaster-begins-to-unfold"> --- Covid-19 </a>
-<a href="https://www.independent.ie/irish-news/courts/students-who-hacked-the-fine-gael-website-hand-over-5000-each-29643575.html"> --- Students Who Hacked FG Website </a>
-<a href="https://cdn.discordapp.com/attachments/384045127649329153/722158212954193930/blueshirt_wankers.mp4"> --- Blueshirt Wankers </a>
-<a href="https://pbs.twimg.com/media/EakttxgWkAEsFBU.png:small"> --- YFG </a>
-<a href="https://cdn.discordapp.com/attachments/717827541053866014/726194760049754296/mmw796orob751.png"> --- FF </a>
-<a href="https://twitter.com/CMacCaba/status/1276416206791196672"> --- Class Bias in Courts </a>
-<a href="https://cdn.discordapp.com/attachments/718179491452682260/726250244559601754/EbbFPTXXkAAOGrz.png"> --- Class Bias </a>
+<a href="https://twitter.com/CMacCaba/status/1276416206791196672"> --- Class Bias in Courts - 1 </a>
+<a href="https://cdn.discordapp.com/attachments/718179491452682260/726250244559601754/EbbFPTXXkAAOGrz.png"> - 2 </a>
 <a href="https://www.independent.ie/business/personal-finance/health-insurance/appalling-fury-at-charges-of-between-75-and-250-for-covid-tests-before-patients-can-attend-private-hospitals-39338290.html"> --- Outrageous Charge For Covid Tests </a>
 <a href="https://cdn.discordapp.com/attachments/573858264584814592/726405465541443604/unknown.png"> --- Alan Kelly "Excellent" (Mr Burns) </a>
 <a href="https://pbs.twimg.com/media/EZR1OqnWsAEuPzk?format=jpg&name=small"> --- Travelling Community Treatment </a>
@@ -986,6 +1000,7 @@
 <br><a href="https://radicalreflections.podbean.com/e/digital-relations-under-socialism/"> - Digital Relations Under Socialism </a>
 <br><a href="https://vimeo.com/295351535"> - Political Hacking </a>
 <br><a href="https://www.vice.com/en_us/article/wxqx8q/snowden-tech-workers-are-complicit-in-how-their-companies-hurt-society"> - Tech Workers </a>
+<br><a href="https://vsru.org/about.html"> - VSRU </a>
 <br><a href="https://repair.eu/"> - Right to Repair </a>
 <br><a href="https://directory.fsf.org/wiki/Main_Page"> - FSF </a>
 <br><a href="https://www.reddit.com/r/StallmanWasRight/"> r/StallmanWasRight </a>
@@ -1024,6 +1039,8 @@
 <br>
 <p style="text-align:center; color:navy;">
 <br><a href="https://cdn.discordapp.com/attachments/449335833816858624/721743937726840923/quote-the-modern-revisionists-and-reactionaries-call-us-stalinists-thinking-that-they-insult-enver-h.png"> - On The Honour of Being Called "Stalinists" </a>
+<br>
+<br><a href=https://pbs.twimg.com/media/EdOvh9QWkAAeCgm?format=jpg&name=900x900"> Harmless Icons </a>
 <br>
 <br><a href="https://i.redd.it/yego9vkdxwh41.jpg"> - Albert Einstein On the Media </a>
 <br>
@@ -1322,9 +1339,10 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <br><a href="https://www.reddit.com/r/socialism/comments/fhiwzx/heres_some_feelgood_for_your_day/"> - Here's Some Feel-Good For Your Day </a>
 <br><a href="https://mobile.twitter.com/SrslyWrong/status/1008558825803112448"> - How to Deal With Enemies </a>
 <br><a href="https://www.youtube.com/watch?v=ibVpDhW6kDQ"> - Charlie Chaplin The Great Dictator Speech </a>
-	<br><a href="https://pbs.twimg.com/media/Ecs4qKEXkAISDZh?format=jpg&name=small"> - "Marxist College Indoctrination" </a>
+<br><a href="https://pbs.twimg.com/media/Ecs4qKEXkAISDZh?format=jpg&name=small"> - "Marxist College Indoctrination" </a>
 <br><a href="https://gyazo.com/aa9205e2dcdbbbd7c69ad853a1b19802"> - Socialist States </a>
 <br><a href="https://www.rt.com/usa/us-american-communist-community/"> - Communist Commune </a>
+<br><a href="https://mobile.twitter.com/notbourgeois/status/1284388574851477507"> - "Your Using a Mobile Phone Right Now!, Gotcha " - </a>
 <br><a href="https://mobile.twitter.com/biggestjoel/status/1239285333126189059"> - Cool People </a>
 <br><a href="https://www.youtube.com/watch?v=Ffmg6i0lv_k"> - Importance of Education </a>
 <br><a href="https://www.youtube.com/playlist?list=PLwGzY25TNHPC_SsXFcIH-ba0nWuNbHOM6"> - Soviet Storm (Documentary Series) </a>
