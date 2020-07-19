@@ -124,6 +124,7 @@
 <br><a href="https://www.youtube.com/watch?v=qihG6AGjkRk"> -- How To Fix the Housing Crisis </a>
 <br><a href="https://youtube.com/watch?v=IYkLVU5UGM8"> -- Video Games and Capitalism - 1 </a>
 <a href="https://www.youtube.com/watch?v=AL6F2E3sHVw"> - 2 </a>
+<br><a href="https://www.youtube.com/watch?v=lCvzAi0TEBw"> - Private vs Personal Property </a>
 <br><a href="https://www.youtube.com/watch?v=4QKnrZmvlaA"> -- Art and Capital </a>
 <br><a href="https://theweek.com/speedreads/627278/florence-same-wealthiest-families-600-years"> -- Concentration of Wealth </a>
 <br><a href="https://www.youtube.com/watch?v=YKRBgCmgm-c"> -- The myth of Incentive Under Capitalism </a>
@@ -346,6 +347,11 @@
 <br><a href="https://cdn.discordapp.com/attachments/449335833816858624/723960893741989938/image0.jpg"> -- Referendum On the Preservation of the USSR </a>
 <br><a href="https://www.youtube.com/watch?v=N7Z-D4eybZI"> -- When "Freedom" Came To Russia </a>
 <br><a href="https://prnt.sc/rzanqa"> -- Ukraine GDP </a>
+<br><a href="https://lh3.googleusercontent.com/6dxVDa6yBkAJpglSjJto6xMW12MkiKwF68fFjAccdKm0jnj-cOVkNhDAOriJEMxlKjPzJwBMuMGIpFP3IxvUSGd01HeCmBqEqVHHBJMqLwHnDBXFqMipwgdvy6BNKV496A=s800"> -- Eastern Bloc GDP </a>
+<br><a href="https://www.reddit.com/r/communism/comments/cu8rug/masterpost_on_the_socialist_federal_republic_of/"> -- Yugoslavia - 1 </a>
+<a href="https://www.youtube.com/watch?v=GEzOgpMWnVs&t"> - 2 </a>
+<a href="https://medium.com/@RobertArlan/the-dismemberment-of-yugoslavia-20-yearson-60a47c535653"> - 3 </a>
+<a href="https://web.archive.org/web/20000823153251/http://www.strafverteidiger-berlin.de/forum/kerntke.htm"> - 4 </a>
 <br><a href="https://www.rt.com/russia/414254-share-of-russians-who-regret/"> -- Soviet Nostalgia </a>
 </p>
 
@@ -609,6 +615,7 @@
 <br><a href="https://m.youtube.com/watch?v=mVXYH9tRknc"> -- Mike Prysner Speech </a>
 <br><a href="https://mobile.twitter.com/failedevolution/status/1200795848961150978"> -- Julian Assange </a>
 <br><a href="https://redflag.org.au/node/7023"> -- Chelsea Manning </a>
+	<br><a href="https://www.youtube.com/watch?v=0j_78aMYWIs"> -- Aaron Swartz </a>
 <br><a href="http://glenngreenwald.net/"> -- Glenn Greenwald </a>
 </p>
 
