@@ -129,7 +129,7 @@
 <br><a href="https://theweek.com/speedreads/627278/florence-same-wealthiest-families-600-years"> -- Concentration of Wealth </a>
 <br><a href="https://www.youtube.com/watch?v=YKRBgCmgm-c"> -- The myth of Incentive Under Capitalism </a>
 <br><a href="https://www.youtube.com/watch?v=PWOcP-bXuO8"> -- The myth of Choice: How Junk-Food Marketers Target Our Kids </a>
-<br><a href="https://www.youtube.com/watch?v=YYoJ_DNxBhI"> - The Illusion of Choice in Supermarkets - 1 </a>
+<br><a href="https://www.youtube.com/watch?v=YYoJ_DNxBhI"> -- The Illusion of Choice in Supermarkets - 1 </a>
 <a href="https://www.youtube.com/watch?v=ekWMIndt6cA"> - 2 </a>
 <br><a href="https://www.youtube.com/watch?v=YYQb0fthNfI"> -- David Harvey on the Crisis of Capitalism Today (2009) </a>
 <br><a href="https://www.youtube.com/watch?v=50ZebmQq51Q&app=desktop"> -- Education For Obedience </a>
@@ -181,7 +181,7 @@
 <br><a href="https://www.youtube.com/watch?v=liT7e5M6XfY"> -- "Cultural Marxism" Debunked </a>
 <br><a href="https://www.google.com/amp/s/amp.theguardian.com/books/2019/jan/09/the-murder-of-rosa-luxemburg-by-klaus-gietinger-review"> -- Social Democrats Selling Out Revolution </a>
 <br>
-<br><a href="https://mobile.twitter.com/Survation/status/1279056897056870400"> -- 4 Day Week </a>
+<br><a href="https://mobile.twitter.com/Survation/status/1279056897056870400"> -- Four Day Week </a>
 <br><a href="https://www.marxists.org/archive/lafargue/1883/lazy/ch01.htm"> -- The Right To Be Lazy, By Paul Lafargue </a>
 <br><a href="https://www.strike.coop/bullshit-jobs/"> -- The Phenomenon of Bullshit Jobs, By David Graeber </a>
 <br><a href="https://www.disenz.net/en/david-graeber-on-harmful-jobs-odious-debt-and-fascists-who-believe-in-global-warming/"> -- Harmful Jobs, Odious Debt and Eco-Fascists </a>
@@ -280,6 +280,7 @@
 <br><a href="http://gis.huri.harvard.edu/historical-atlas/the-great-famine/famine-web-map.html"> -- Holodomor? - 1 </a>
 <a href="https://colonelcassad.livejournal.com/3929565.html"> - 2 </a>
 <br><a href="https://www.youtube.com/watch?v=wflMmNTXqKk&app=desktop"> -- The Real Death Toll of Communism (From a Radlib Perspective) </a>
+<br><a href="https://www.youtube.com/watch?v=3b6ips6fXF0"> -- "If Socialism's So Good Why Do People Flee It?" </a>
 <br><a href="https://eurasiangeopolitics.com/ussr-maps/ussr-natgeo/#main"> -- Peoples of the Soviet Union </a>
 <br><a href="https://www.youtube.com/watch?v=fxF4HDscMsY&t=833s"> -- HG Well's, Stalin Interview </a>
 <br><a href="https://cdn.discordapp.com/attachments/717722858393960451/719539210742267934/main-qimg-b91d5e67759c6b4418444d3e41f858c5.png"> -- Molotov-Ribbentrop Pact </a>
@@ -343,6 +344,7 @@
 <a href="http://revolutionarydemocracy.org/rdv20n1/afghanistan.htm"> - 2 </a>
 <br><a href="https://www.marxists.org/archive/lenin/works/1917/tasks/ch08.htm#v24zz99h-071-GUESS"> -- Lenin On the Environment </a>
 <br><a href="https://drive.google.com/file/d/13QiQYmG65Vlr7ncIJI44ynMIWwOzWOWR/view"> -- Stalin's Environmentalism </a>
+<br><a href="https://medium.com/@dashthered/where-do-tanks-come-from-8723ff77d83b"> -- "Tankie" </a>
 <br><a href="https://www.invent-the-future.org/2018/06/why-doesnt-the-soviet-union-exist-any-more/"> -- Why Doesn't the Soviet Union Exist Any More? </a>
 <br><a href="https://cdn.discordapp.com/attachments/449335833816858624/723960893741989938/image0.jpg"> -- Referendum On the Preservation of the USSR </a>
 <br><a href="https://www.youtube.com/watch?v=N7Z-D4eybZI"> -- When "Freedom" Came To Russia </a>
@@ -416,13 +418,13 @@
 <h2 style="text-align:center;"> - Revolution Impossible? </h2>
 <br>
 <p style="text-align:center;">
-<br>(Minneapolis Following Murder of George Floyd)
+<br>* (Minneapolis Following Murder of George Floyd)
 <br><a href="https://cdn.discordapp.com/attachments/384045127649329153/716291650686550036/received_949101762210615.jpeg"> -- CPI In Minneapolis </a>
 <br><a href="https://www.reddit.com/r/socialism/comments/dgoapj/the_real_looting_in_this_country_takes_place_in/"> -- Looting? </a>
 <br><a href="https://redd.it/gvdg5s"> -- Minneapolis vs Hong Kong </a>
 <br><a href="https://www.reddit.com/r/socialism/comments/guov1o/my_take_on_the_acab_movement/"> -- ACAB Explained </a>
 <br><a href="https://github.com/2020PB/police-brutality"> -- Police Brutality - 1 </a>
-<a href="https://www.reddit.com/r/socialism/comments/hpi0at/mods_from_rnews_deleted_this_comment_containing/"> -- 2 </a>
+<a href="https://www.reddit.com/r/socialism/comments/hpi0at/mods_from_rnews_deleted_this_comment_containing/"> - 2 </a>
 <br><a href="https://github.com/dessalines/killed-by-police-frontend"> -- Killed By Police Frontend </a>
 <br><a href="https://cdn.discordapp.com/attachments/449335833816858624/715456319154290698/17d41e7.jpg"> -- American Cops Running Out of Ammo </a>
 <br><a href="https://twitter.com/MetroATLDSA/status/1266552696607252480"> -- Cops Outnumbered 4:1 </a>
@@ -533,7 +535,7 @@
 <br>
 <br><a href="https://www.youtube.com/watch?v=darxphvk058"> -- The Function of Fascism </a>
 <br>
-<br>*response
+<br>* Response
 <br><a href="https://www.youtube.com/watch?v=ahRLBkuTW8w"> -- Are you rational? Are you open minded? </a>
 <br><a href="https://theintercept.com/2020/07/15/george-floyd-protests-police-far-right-antifa/"> -- "System Threat" </a>
 <br><a href="https://www.youtube.com/watch?v=7G17Qf5nrLw"> -- The Truth About Nationalism </a>
@@ -596,6 +598,7 @@
 <br><a href="https://pbs.twimg.com/media/Ectrd5AUwAAPJH8?format=jpg&name=small"> -- Cold War Hypocrisy </a>
 <br><a href="https://www.globalresearch.ca/hillary-emails-reveal-nato-killed-gaddafi-to-stop-libyan-creation-of-gold-backed-currency/5594742"> -- Gaddafi - 1 </a>
 <a href="https://mobile.twitter.com/Underground_RT/status/1283785830230876160"> - 2 </a>
+<a href="https://www.reddit.com/r/communism/comments/hsdb9n/information_on_muammar_algaddafi/"> - 3 </a>
 <br><a href="https://www.youtube.com/watch?v=mlz3-OzcExI"> -- Clinton on Gaddafi </a>
 <br><a href="https://www.youtube.com/watch?v=bUhZmO6P0NU"> -- Gaddafi Interview </a>
 <br><a href="https://theintercept.com/2020/06/08/the-nyt-admits-key-falsehoods-that-drove-last-years-coup-in-bolivia-falsehoods-peddled-by-the-u-s-its-media-and-the-nyt/"> -- Bolivia Coup </a>
@@ -761,7 +764,7 @@
 <a href="https://eu.usatoday.com/story/news/world/2018/01/09/cuba-has-lung-cancer-vaccine-many-u-s-patients-cant-get-without-breaking-law/1019093001/"> -- Cuban Lung Cancer Vaccine </a>
 <a href="https://www.youtube.com/watch?v=MUYS1EVutmg"> -- Cuban Doctors </a>
 <br>
-<br>*West vs Cuban Doctors
+<br>* West vs Cuban Doctors
 <br>
 <a href="https://www.imt.ie/news/ireland-has-just-2-7-doctors-per-1000-capita-11-11-2015/"> -- Doctors Per 1000 People in Ireland </a>
 <a href="https://www.telesurenglish.net/news/cuba-cuban-doctors-highest-number-in-history-20190723-0009.html"> -- Doctors Per 1000 People in Cuba </a>
@@ -786,7 +789,7 @@
 <a href="https://labouraffairsmagazine.com/recent-issues/2019-11-magazine/2019-11/"> - 2 </a>
 <a href="https://ash.harvard.edu/files/ash/files/final_policy_brief_7.6.2020.pdf"> -- Chinese Public Opinion </a>
 <br>
-<a href="https://dengxiaopingworks.wordpress.com/2013/03/18/to-uphold-socialism-we-must-eliminate-poverty/"> -- Dengism </a>
+<a href="https://dengxiaopingworks.wordpress.com/2013/03/18/to-uphold-socialism-we-must-eliminate-poverty/"> -- Poverty Elimination </a>
 <a href="https://imgur.com/a/vRVcX8D"> -- Wealth Inequality vs West </a>
 <a href="https://www.quora.com/How-does-Chinas-economy-really-work-In-many-discussions-people-tend-to-argue-that-China-is-under-a-communist-government-but-essentially-has-a-capitalist-market"> -- How Does China's Economy Work? </a>
 <br>
@@ -796,20 +799,24 @@
 <a href="https://www.scmp.com/comment/opinion/article/3091438/us-has-been-exposed-funding-last-years-hong-kong-protests#click=https://t.co/DRlt1Y2FLu"> - US Funding </a>
 <br>
 <a href="https://www.youtube.com/watch?v=Hv9jCeqNL0Y"> -- Does China Kill Xighurs? </a>
-<a href="https://mobile.twitter.com/OohTheChilliOil/status/1278265815100465152"> -- Xighurs </a>
-<a href="https://www.quora.com/Why-is-China-turning-Kashgar-Xinjiang-into-a-state-run-prison-Is-this-not-a-blatant-violation-of-human-rights-the-Chinese-constitution-so-protects"> -- Xighur "Genocide" (3rd Answer) </a>
+<a href=https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic"> -- Xighurs - 1 </a>
+<a href="https://mobile.twitter.com/OohTheChilliOil/status/1278265815100465152"> - 2 </a>
+<a href="https://www.quora.com/Why-is-China-turning-Kashgar-Xinjiang-into-a-state-run-prison-Is-this-not-a-blatant-violation-of-human-rights-the-Chinese-constitution-so-protects"> - 3 </a>
 <a href="https://www.youtube.com/watch?v=Wb-MNi8E-TA&app=desktop"> -- Re-education Camps </a>
 <a href="https://thediplomat.com/2016/08/chinas-nightmare-xinjiang-jihadists-go-global/"> -- Islamic Extremism </a>
 <a href="https://mobile.twitter.com/gobloid3/status/1281404596922060800"> -- Adrian Zenz </a>
 <br>
-<a href="https://twitter.com/Juliet_y_Sierra/status/1258742834632560640?s=20"> -- China Today </a>
+<a href="https://twitter.com/Juliet_y_Sierra/status/1258742834632560640?s=20"> -- China Today - 1 </a>
+<a href="https://thecommunists.org/2019/03/05/news/theory/chinese-forum-discusses-humanitys-shared-future/"> - 2 </a>
 <a href="https://www.quora.com/Is-China-proof-that-socialism-can-work-if-they-use-Lenins-NEP?share=1"> -- Socialism in China </a>
 <a href="https://www.youtube.com/watch?v=pezX6p5xpW4"> -- Is China Imperialist? </a>
-<a href="https://www.unz.com/article/selling-democracy-to-china/"> -- Chinese Democracy? </a>
+<a href="https://www.unz.com/article/selling-democracy-to-china/"> -- Chinese Democracy? - 1 </a>
+<a href="https://mobile.twitter.com/victorywiilcome/status/1282783278618103808"> - 2 </a>
 <a href="https://www.youtube.com/watch?v=iNnTpaN3Z8I"> -- DOTP </a>
 <br>
 <a href="https://www.theodysseyonline.com/most-what-hear-about-china-red-scare-yellow-peril-propaganda"> -- Red Scare Propaganda </a>
-<a href="https://web.archive.org/web/20190707103231/https://stalinsmoustache.org/2019/04/29/book-outline-socialism-with-chinese-characteristics/"> -- SWCC </a>
+<a href="https://web.archive.org/web/20190707103231/https://stalinsmoustache.org/2019/04/29/book-outline-socialism-with-chinese-characteristics/"> -- SWCC - 1 </a>
+<a href="https://drive.google.com/drive/folders/1kPCMCxMkZTFY5GmJ8mvVtjyoDL6SmzQk"> - 2 </a>
 <a href="https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68"> -- The Long Game </a>
 <br>
 <a href="https://www.mintpressnews.com/china-clean-energy/248092/"> -- Environmentalism </a>
@@ -837,6 +844,9 @@
 <a href="https://mobile.twitter.com/isgoodrum/status/1283104474181931008"> - 2 </a>
 <a href="https://www.globaltimes.cn/content/1189358.shtml"> - 3 </a>
 <a href="https://communism.lemmy.ml/pictrs/image/FSn3tBAKao.png"> - 4 </a>
+<a href="https://mobile.twitter.com/_tanwho_/status/1283859940235452428"> - 5 </a>
+<a href="https://mobile.twitter.com/_tanwho_/status/1283063759121063937"> - 6 </a>
+<a href="https://mobile.twitter.com/_tanwho_/status/1283447167550619649"> - 7 </a>
 <a href="https://qph.fs.quoracdn.net/main-qimg-510b9974978d5f962580406f247c1011"> -- US Bases Near China </a>
 <br>
 <a href="https://www.learningfromchina.net/china-is-most-promising-hope-for-third-world-fidel/"> -- Fidel On China </a>
@@ -846,11 +856,14 @@
 <a href="https://cdn.discordapp.com/attachments/704362078844223588/729818007974576158/deng_evaluation_7.png"> - 4 </a>
 <a href="http://en.people.cn/dengxp/vol2/text/b1470.html"> - 5 </a>
 <a href="https://www.docdroid.net/AnYQB3a/chinas-great-adjustment-odt#page=5"> - 6 </a>
-<a href="http://book.theorychina.org/upload/835b93ad-37d3-4c9c-8ba3-ca59badb506c/"> -- DXT </a>
+<a href="https://mobile.twitter.com/_tanwho_/status/1283187392476741633"> - 7 </a>
+<a href="http://book.theorychina.org/upload/835b93ad-37d3-4c9c-8ba3-ca59badb506c/"> -- DXT - 1 </a>
+<a href="https://mobile.twitter.com/_tanwho_/status/1284128670093910016"> - 2 </a>
 <a href="https://mobile.twitter.com/StalinismCEO/status/1186699194121228288"> -- Marxism </a>
 <br>
 <a href="https://www.youtube.com/playlist?list=PLIuVy5356xnhT_sXylKTU4SHyM-vLz8Pt"> -- China Playlist </a>
-<a href="https://revolutionaryleftradio.libsyn.com/in-defense-of-china-as-a-socialist-state-w-ajit-singh"> -- In Defence of China as a Socialist State </a>
+<a href="https://revolutionaryleftradio.libsyn.com/in-defense-of-china-as-a-socialist-state-w-ajit-singh"> -- In Defence of China as a Socialist State - 1 </a>
+<a href="https://medium.com/@rainershea612/china-is-capitalist-is-an-anti-marxist-position-to-take-cdf62e458ee0"> - 2 </a>
 <br>
 <a href="https://www.quora.com/Why-does-China-have-democracy-at-a-CCP-executive-level-but-not-for-normal-people"> -- Chinese Democracy </a>
 <a href="https://www.youtube.com/watch?v=TgpQxVCekgw"> -- Selection and Election: How China Chooses It's Leaders </a>
@@ -891,7 +904,7 @@
 <br>
 <a href="https://www.quora.com/What-would-happen-if-North-Korea-and-South-Korea-reunited?share=1"> -- What Would happen if Korea Reunited? </a>
 <br>
-<br>*Kim Jong Un
+<br>* Kim Jong Un
 <br>
 <a href="https://www.express.co.uk/news/world/1273869/kim-jong-un-dead-north-korea-kim-jong-un-health-latest-kim-jong-un-dead-reports"> -- Western Overexaggeration </a>
 <a href="https://cdn.discordapp.com/attachments/575238909575954432/703706430833688636/EWJXurQWAAMM9vr.png"> -- Western Hysteria </a>
@@ -1045,6 +1058,8 @@
 <h2 style="text-align:center;"> - Quotes </h2>
 <br>
 <p style="text-align:center; color:navy;">
+<br><a href="https://i.redd.it/ai47amxe1nb51.png"> -- Why Socialism Quotes </a>
+<br>
 <br><a href="https://cdn.discordapp.com/attachments/449335833816858624/721743937726840923/quote-the-modern-revisionists-and-reactionaries-call-us-stalinists-thinking-that-they-insult-enver-h.png"> -- On The Honour of Being Called "Stalinists" </a>
 <br>
 <br><a href=https://pbs.twimg.com/media/EdOvh9QWkAAeCgm?format=jpg&name=900x900"> -- Harmless Icons </a>
