@@ -1415,6 +1415,7 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <br><a href="https://www.youtube.com/watch?v=DIFvYHBGtmE"> -- 10 Soviet Union Engineering Achievements </a>
 <br><a href="https://www.youtube.com/watch?v=ZZlxhz_xtM8"> -- Sputnik </a>
 <br><a href="https://www.youtube.com/watch?v=Sgj9Jv8W-YY"> -- Soviet Super Cars </a>
+<br><a href="https://mobile.twitter.com/danthomascomedy/status/1284808430167957504?p=v"> -- Soviet Bus Stops </a>
 <br><a href="https://en.wikipedia.org/wiki/Ostern"> -- Ostern (Genre) </a>
 <br><a href="https://www.youtube.com/watch?v=j3H0FjgACjM"> -- Hymn DOS Virus </a>
 <br><a href="https://sputniknews.com/russia/201809031067720827-musk-rockets-soviet-tech/"> -- SpaceX Rockets Based Off of Soviet Tech </a>
