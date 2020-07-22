@@ -310,7 +310,8 @@
 <br><a href="https://www.youtube.com/watch?v=2GvDyJobHTM"> -- Soviet People/Media Perception of Us (CIA Playing Themselves) </a>
 <br><a href="https://www.youtube.com/watch?v=ZR4sE8YIztU"> -- Soviet Teens on US Interview </a>
 <br><a href="https://www.smithsonianmag.com/smart-news/soviet-russia-had-a-better-record-of-training-women-in-stem-than-america-does-today-180948141/"> -- USSR Feminism and Equality - 1 </a>
-<a href="https://www.youtube.com/watch?v=v=Gf3zWUq2m/"> - 2 </a>
+<a href="https://www.economist.com/europe/2019/07/18/why-half-the-scientists-in-some-eastern-european-countries-are-women"> - 2 </a>
+<a href="https://www.youtube.com/watch?v=v=Gf3zWUq2m/"> - 3 </a>
 <br><a href="https://russiapedia.rt.com/of-russian-origin/dacha/"> -- Dachas (Holiday Homes) </a>
 <br>
 <br><a href="https://www.bannedthought.net/International/RIM/AWTW/1999-25/PolPot_eng25.htm"> -- Pol Pot (The One Exception) </a>
