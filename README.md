@@ -73,6 +73,8 @@
 <br><a href="https://www.youtube.com/watch?v=TOx74VLSwVQ"> -- Capitalist Alienation (Explained Through Animal Crossing) </a>
 <br><a href="https://www.youtube.com/watch?v=ec-wDiI-Y1Q&app=desktop"> -- Why You Hate Mondays </a>
 <br><a href="https://www.youtube.com/watch?v=rPeBEcsmWTY"> -- Capitalist Realism, Mental Illness and Control of Societies </a>
+<br><a href="https://academyanalyticarts.org/uren-psychiatry-capitalism"> -- Psychiatry - 1 </a>	
+<a href="https://www.youtube.com/watch?v=5WTMODQ1FKI&app=desktop"> - 2 </a>	
 <br><a href="https://pbs.twimg.com/media/EMudRUXWoAEMYho.jpg:small"> -- "Hustle" Culture is a Scam </a>
 <br><a href="https://jacobinmag.com/2020/03/coronavirus-covid-tech-firms-telehealth/"> -- Research Hoarding </a>
 <br><a href="https://www.youtube.com/watch?v=hIXhnWUmMvw"> -- Surveillance capitalism </a>
@@ -156,7 +158,8 @@
 <br>
 <br><a href="https://newint.org/features/2019/07/01/long-read-progress-and-its-discontents"> -- "Things Have Never Been Better" </a>
 <br><a href="https://www.technologyreview.com/s/614892/keynes-was-wrong-gen-z-will-have-it-worse/?utm_campaign=site_visitor.unpaid.engagement&utm_source=reddit&utm_medium=social_share&utm_content=2020-01-11"> -- Keynes Was Wrong: Gen Z Will Have It Worse </a>
-<br><a href="https://www.youtube.com/watch?v=oYodY6o172A"> -- Our "Democracy" </a>
+<br><a href="https://www.youtube.com/watch?v=oYodY6o172A"> -- Our "Democracy" - 1 </a>
+<a href="https://www.youtube.com/watch?v=5hERCRUGsRI"> - 2 </a>
 <br><a href="https://www.youtube.com/watch?v=luB9VUsXRs8"> -- Crony Capitalism? </a>
 <br><a href="https://www.youtube.com/watch?v=prDyCFLZEg0"> -- Capitalism, a Love Story </a>
 <br><a href="https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm"> -- Imperalism: Central to Capitalism </a>
@@ -299,7 +302,8 @@
 <br><a href="https://en.wikipedia.org/wiki/Hoare%E2%80%93Laval_Pact"> -- Laval Pact </a>
 <br><a href="https://pbs.twimg.com/media/EXhtW3bWsAUOWOo.jpg:large"> -- WW2 Allied Contributions </a>
 <br><a href="https://cdn.discordapp.com/attachments/718108119733108816/719898456180654170/cih7VX13IXANE6oQ_Muk4HmArATnKB7L_ukYC09KcxHULZ8f1kdaIVi8RkKjveVLEED0gDh9yDDD2As800-nd.png"> -- USSR Following WW2 </a>
-<br><a href="https://cdn.discordapp.com/attachments/397521810674941954/688431866910736421/bugpeople.maoist_20200213_103304_0.jpg"> -- Soviet Elections </a>
+<br><a href="https://cdn.discordapp.com/attachments/397521810674941954/688431866910736421/bugpeople.maoist_20200213_103304_0.jpg"> -- Soviet Elections - 1 </a>
+<a href="https://cdn.discordapp.com/attachments/733464100180590612/735930531719675904/mxc3A2F2Fmatrix.org2FYqpXGhZMSpubIxTlWfXPKzRr.png"> - 2 </a>
 <br>
 <br><a href="https://gowans.wordpress.com/2013/12/23/seven-myths-about-the-ussr/"> -- Seven Myths About the USSR Debunked </a>
 <br><a href="https://sci-hub.tw/https://www.jstor.org/stable/pdf/40402359.pdf?seq=1#page_scan_tab_contents"> -- Health In the USSR </a>
@@ -388,9 +392,11 @@
 <br><a href="https://pbs.twimg.com/media/EbbK695XgAAdbXi?format=jpg&name=4096x4096"> -- Fossil Fuel Dependence </a>
 <br>
 <br><a href="https://youtube.com/watch?v=OCCFQymA-jM"> -- "Workers, Don't Unite" </a>
+<br><a href="https://www.youtube.com/watch?v=NK1tfkESPVY&app=desktop"> -- Central Intelligence Agency </a>
 <br><a href="https://www.youtube.com/watch?v=4BG0VdanUTs"> -- More Millenials Should Be Socialists </a>
 <br><a href="https://en.wikipedia.org/wiki/Congress_for_Cultural_Freedom"> -- Congress For Cultural Freedom </a>
-<br><a href="https://en.wikipedia.org/wiki/COINTELPRO"> -- COINTELPRO </a>
+<br><a href="https://en.wikipedia.org/wiki/COINTELPRO"> -- COINTELPRO - 1 </a>
+<a href="https://www.youtube.com/watch?v=uFST1udI8jM"> - 2 </a>
 <br><a href="https://en.wikipedia.org/wiki/Orwell%27s_list"> -- Orwell's List </a>
 <br><a href="https://youtu.be/9TXEMH3Z-Jo"> -- The Real George Orwell </a>
 <br><a href="https://en.wikipedia.org/wiki/Communist_Control_Act_of_1954"> -- Communist Control Act of 1954 </a>
@@ -629,7 +635,8 @@
 <br><a href="https://www.thenation.com/article/archive/declaration-of-war/"> -- White Supremacy </a>
 <br><a href="https://www.theguardian.com/us-news/2016/may/15/cia-operative-nelson-mandela-1962-arrest"> -- Nelson Mandela - 1 </a>
 <a href="https://i.redd.it/r9174ryk5pa11.jpg"> - 2 </a>
-<a href="https://mobile.twitter.com/redfishstream/status/1284480591698812929"> - 3 </a>
+<a href="https://mobile.twitter.com/FOL_Liberation/status/1285245017917992960"> - 3 </a>
+<a href="https://mobile.twitter.com/redfishstream/status/1284480591698812929"> - 4 </a>
 <br><a href="https://www.youtube.com/watch?v=FgtOXEJYm08"> -- Rwandan Genocide - 1 </a>
 <a href="https://blackagendareport.com/rwanda_absolutist_human_rights_watch"> - 2 </a>
 <br><a href="https://en.wikipedia.org/wiki/De_Beers#Industrial_diamonds"> -- De Beers Diamonds </a>
@@ -643,6 +650,7 @@
 <br><a href="https://redflag.org.au/node/7023"> -- Chelsea Manning </a>
 <br><a href="https://www.youtube.com/watch?v=0j_78aMYWIs"> -- Aaron Swartz </a>
 <br><a href="http://glenngreenwald.net/"> -- Glenn Greenwald </a>
+<br><a href="https://thegrayzone.com/"> -- The Grayzone </a>
 </p>
 
 <h2 style="text-align:center;"> - DDR </h2>
@@ -820,15 +828,19 @@
 <br>
 <a href="https://www.youtube.com/watch?v=sqPI8xlnrwg"> -- Tianamen Square - 1 </a>
 <a href="https://www.unz.com/article/tiananmen-square-1989-revisited/"> - 2 </a>
-<a href="https://www.youtube.com/watch?v=b-nl0Hklwvg"> -- Hong Kong Protests? </a>
+<a href="https://www.youtube.com/watch?v=b-nl0Hklwvg"> -- Hong Kong Protests? - 1 </a>
+<a href="https://www.newsweek.com/exclusive-more-hong-kong-say-us-threat-china-poll-1519710"> - 2 </a>
 <a href="https://www.scmp.com/comment/opinion/article/3091438/us-has-been-exposed-funding-last-years-hong-kong-protests#click=https://t.co/DRlt1Y2FLu"> - US Funding </a>
 <br>
-<a href="https://www.youtube.com/watch?v=Hv9jCeqNL0Y"> -- Does China Kill Xighurs? </a>
-<a href="https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic"> -- Xighurs - 1 </a>
-<a href="https://mobile.twitter.com/OohTheChilliOil/status/1278265815100465152"> - 2 </a>
-<a href="https://www.moroccoworldnews.com/2019/07/278860/arab-muslim-majority-countries-china-mistreatment-uighurs/"> - 3 </a>
-<a href="https://www.reddit.com/r/Sino/comments/hvfg56/latest_uyghur_prisoners_videos_actually_a_bunch/"> - 4 </a>
-<a href="https://www.quora.com/Why-is-China-turning-Kashgar-Xinjiang-into-a-state-run-prison-Is-this-not-a-blatant-violation-of-human-rights-the-Chinese-constitution-so-protects"> - 5 </a>
+	
+<a href="https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic"> -- Xighurs *Masterpost </a>	
+<a href="https://www.youtube.com/watch?v=Hv9jCeqNL0Y"> - 1 </a>
+<a href="https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic"> - 2 </a>
+<a href="https://mobile.twitter.com/OohTheChilliOil/status/1278265815100465152"> - 3 </a>
+<a href="https://www.moroccoworldnews.com/2019/07/278860/arab-muslim-majority-countries-china-mistreatment-uighurs/"> - 4 </a>
+<a href="https://www.reddit.com/r/Sino/comments/hvfg56/latest_uyghur_prisoners_videos_actually_a_bunch/"> - 5 </a>
+<a href="https://www.quora.com/Why-is-China-turning-Kashgar-Xinjiang-into-a-state-run-prison-Is-this-not-a-blatant-violation-of-human-rights-the-Chinese-constitution-so-protects/answer/Godfree-Roberts"> - 6 </a>
+<a href="https://observers.france24.com/en/20200103-how-fake-images-uighur-persecution-are-hurting-cause"> - 7 </a>
 <a href="https://www.youtube.com/watch?v=Wb-MNi8E-TA&app=desktop"> -- Re-education Camps </a>
 <a href="https://thediplomat.com/2016/08/chinas-nightmare-xinjiang-jihadists-go-global/"> -- Islamic Extremism </a>
 <a href="https://mobile.twitter.com/gobloid3/status/1281404596922060800"> -- Adrian Zenz </a>
@@ -904,9 +916,9 @@
 <a href="https://www.unz.com/article/selling-democracy-to-china/"> - 2 </a>
 <a href="https://old.reddit.com/r/Sino/wiki/faq/democracy"> - 3 </a>
 <a href="https://mobile.twitter.com/victorywiilcome/status/1282783278618103808"> - 4 </a>											
-<a href="https://www.quora.com/Why-does-China-have-democracy-at-a-CCP-executive-level-but-not-for-normal-people"> - 5 </a>
+<a href="https://www.quora.com/Why-does-China-have-democracy-at-a-CCP-executive-level-but-not-for-normal-people/answer/Godfree-Roberts"> - 5 </a>
 <a href="https://www.youtube.com/watch?v=TgpQxVCekgw"> -- Selection and Election: How China Chooses It's Leaders </a>
-<a href="https://www.quora.com/Given-Chinas-meritocratic-system-whats-the-probability-for-China-to-get-a-bad-leader"> -- What's the Probability China Gets a Bad Leader? </a>
+<a href="https://www.quora.com/Given-Chinas-meritocratic-system-whats-the-probability-for-China-to-get-a-bad-leader/answer/Godfree-Roberts"> -- What's the Probability China Gets a Bad Leader? </a>
 <br>
 <a href="https://www.youtube.com/watch?v=BeMfSulfSsM"> -- American Reacts to Chinese Media, Poverty Elimination </a>
 <a href="https://www.trotskyistplatform.com/workplace-safety-now-better-in-china-than-in-australia/"> -- Workplace Safety </a>
@@ -1422,6 +1434,7 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <br><a href="https://arstechnica.com/information-technology/2020/07/the-remote-british-village-that-built-one-of-the-uks-fastest-internet-networks/3/"> -- Community Self-Development </a>
 <br><a href="https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer"> -- Socialism's DIY Computer </a>
 <br><a href="https://en.wikipedia.org/wiki/Project_Cybersyn"> -- Project Cybersyn </a>
+<br><a href="https://www.sciencedirect.com/topics/neuroscience/cybernetics"> -- Cybernetics </a>
 <br><a href="https://en.wikipedia.org/wiki/OGAS"> -- OGAS </a>
 <br><a href="https://en.wikipedia.org/wiki/Antonov_An-225_Mriya"> -- Antonov An-225 Mriya </a>
 <br><a href="https://www.msn.com/en-gb/news/other/worlds-largest-plane-lands-at-irish-airport-to-deliver-ppe-to-combat-covid-19/vi-BB15ukRW"> -- Largest Plane Lands at Shannon Airport To Deliver PPE (From China) </a>
