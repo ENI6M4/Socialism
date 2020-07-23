@@ -85,7 +85,7 @@
 <br><a href="https://www.youtube.com/watch?v=m3lFF6FC2rE"> -- Privatisation of Space </a>
 <br><a href="https://www.reddit.com/r/socialism/comments/8cek3y/goldman_sachs_analyst_curing_patients_not_a/"> -- Goldman Sachs Analyst: Curing Patients Not a Sustainable Business Model </a>	
 <br><a href="https://images-ext-1.discordapp.net/external/Ge_g3VpDcEQXWy9oGuGxcieqNGbOAatksFhg39s1nyA/%3Fauto%3Dwebp%26s%3Dbe4479ff6e72f9832c75117831475c987918c2bb/https/preview.redd.it/gjwe6bdvrgf41.jpg?width=696&height=662"> -- Big Pharma - 1 </a>
-<br><a href="https://www.vox.com/2019/4/3/18293950/why-is-insulin-so-expensive"> - 2 </a>
+<a href="https://www.vox.com/2019/4/3/18293950/why-is-insulin-so-expensive"> - 2 </a>
 <br><a href="https://mises.org/wire/patent-and-penicillin"> -- Penicillin Patent </a>
 <br><a href="https://www.acs.org/content/acs/en/education/whatischemistry/landmarks/flemingpenicillin.html#wwii-penicillin-commercial-production"> -- Penicillin History </a>
 <br><a href="https://www.mobileworldlive.com/blog/penicillin-the-antidote-to-patent-wars/"> -- Penicillin Antidote to Patent Wars </a>	
