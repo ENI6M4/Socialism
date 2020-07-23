@@ -143,6 +143,7 @@
 <br><a href="https://www.rebelnews.ie/2020/07/21/tendency-rate-profit-fall/"> -- Tendency For Rate of Profit to Fall </a>
 <br><a href="https://graphitepublications.com/collectively-learned-individualism/"> -- Individualism vs Collectivism </a>
 <br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xngYjP604681TbMwqwPdbn-B"> -- Education For the Right </a>
+<br><a href="https://pastebin.com/raw/gKXZX3UC"> -- Adam Smith </a>
 <br><a href="https://player.fm/series/the-blindboy-podcast/abstract-art-and-the-cia"> -- Blindboy podcast: Abstract Art and the CIA </a>
 <br><a href="https://github.com/chobeat/awesome-critical-tech-reading-list"> -- Critical Tech Reading List </a>
 </p>
@@ -157,6 +158,7 @@
 <br><a href="https://www.technologyreview.com/s/614892/keynes-was-wrong-gen-z-will-have-it-worse/?utm_campaign=site_visitor.unpaid.engagement&utm_source=reddit&utm_medium=social_share&utm_content=2020-01-11"> -- Keynes Was Wrong: Gen Z Will Have It Worse </a>
 <br><a href="https://www.youtube.com/watch?v=oYodY6o172A"> -- Our "Democracy" </a>
 <br><a href="https://www.youtube.com/watch?v=luB9VUsXRs8"> -- Crony Capitalism? </a>
+<br><a href="https://www.youtube.com/watch?v=prDyCFLZEg0"> -- Capitalism, a Love Story </a>
 <br><a href="https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm"> -- Imperalism: Central to Capitalism </a>
 <br><a href="https://www.youtube.com/watch?v=unKNNiYQFp4"> -- Manufacturing Consent </a>
 <br><a href="https://www.thetimes.co.uk/article/congos-miners-dying-to-feed-worlds-hunger-for-electric-cars-jcrvj37vr"> -- Green Capitalism? </a>
@@ -172,14 +174,15 @@
 <br><a href="https://www.youtube.com/watch?v=77VaJMFWuiE"> -- Nordic Model? </a>
 <br><a href="https://www.youtube.com/playlist?list=PLbnLysSug0vQ5qdifZ4N0CzrYyal4RQ8S"> -- Social democracy? (Playlist) </a>
 <br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xnja3ZyAd2mN_3E7lse9B4XV"> -- UBI? </a>
-<br><a href="https://www.greanvillepost.com/2020/06/27/caleb-maupin-debunks-libertarianism/"> -- Libertarianism? </a>
+<br><a href="https://www.greanvillepost.com/2020/06/27/caleb-maupin-debunks-libertarianism/"> -- Libertarianism? - 1 </a>
+<a href="https://www.youtube.com/watch?v=ONFtZukHUPM"> - 2 </a>
 <br>
 <br><a href="https://search.snopyta.org/image_proxy?url=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.6L6RpJOf3T37aqiAH5ZxMAHaEV%26pid%3D15.1&h=5f87a01d7658e48c07333cac78fd72ce0826d82eea0962a583886f0aaf4a247e"> -- Bullingdon Club, Our Rulers/Elite </a>
 <br><a href="https://www.itv.com/news/2019-07-18/boris-and-the-bullingdon-club-where-are-they-now"> -- Boris Johnson Era Bullingdon Club, Where Are They Now? </a>
 <br><a href="https://thetab.com/uk/oxford/2013/09/09/pictured-the-bullingdon-club-alive-and-awful-10781"> -- Bullingdon Club, Alive and Well </a>
 <br><a href="https://twitter.com/markcurtis30/status/1205816403317657600"> -- Corbyn Humiliation </a>
 <br><a href="https://novaramedia.com/2020/04/12/its-going-to-be-a-long-night-how-members-of-labours-senior-management-campaigned-to-lose/"> -- How Labour Campaigned To Lose </a>
-<br><a href="https://jacobinmag.com/2020/06/keir-starmer-rebecca-long-bailey-sacked-labour"> - RLB Sacked </a>
+<br><a href="https://jacobinmag.com/2020/06/keir-starmer-rebecca-long-bailey-sacked-labour"> -- RLB Sacked </a>
 <br><a href="https://cdn.discordapp.com/attachments/523190958121287680/725814076088778903/200329-Labour-Report-Final.pdf.pdf"> -- Leaked Labour Final Report </a>
 <br><a href="https://t.co/MrUCFKumZx?amp=1"> -- Jeremy Corbyn </a>
 <br><a href="https://invidio.us/watch?v=nn-Qr6rrr_I"> -- Bastardisation of Socialism </a>
@@ -223,6 +226,7 @@
 <br><a href="https://climateandcapitalism.com/2019/10/01/why-socialism-is-the-only-realistic-solution-to-climate-change/"> -- Climate Change/Environment and Socialism </a>
 <br><a href="https://www.youtube.com/watch?v=uylnpj6zLWw"> -- Innovation and Socialism - 1 </a>
 <a href="https://www.youtube.com/watch?v=mio9BVNQDaI"> - 2 </a>
+<br><a href="https://cosmonaut.blog/2020/07/22/food-capitalism-and-the-necessity-of-a-socialist-program/"> -- Food Production </a>
 <br><a href="https://www.youtube.com/watch?v=NC0ULJFsrsA"> -- Myth of Marxism: We Will Lose Our Individuality Under Communism? </a>
 <br>
 <br><a href="https://www.youtube.com/watch?v=OqYcpeQwtL4"> -- Human Nature Argument Debunked </a>
@@ -346,9 +350,9 @@
 <br><a href="https://communismarchive.files.wordpress.com/2017/10/grover-furr-trotskye28099s-_amalgams__-trotskye28099s-lies-the-moscow-trials-as-evidence-the-dewey-commission.-trotskye28099s-conspiracies-of-the-1930s-volume-one-erythros-press-and-medi.pdf"> -- Trotsky's Lies </a>
 <br><a href="https://msuweb.montclair.edu/~furrg/research/beria_andreev_malenkov012939eng.html"> -- Yezhov </a>
 <br><a href="https://drive.google.com/file/d/0B_dCRDZKs338NHRTUHZxZkdjZWs/view"> -- Decision Making </a>
-<br><a href="http://isj.org.uk/the-bolsheviks-and-islam/"> - Religion - 1 </a>
+<br><a href="http://isj.org.uk/the-bolsheviks-and-islam/"> -- Religion - 1 </a>
 <a href="https://www.marxists.org/reference/archive/stalin/works/1920/11/13.htm"> - 2 </a>
-<br><a href="https://youtu.be/Z6x1ml0yj4M"> - Islamic Revival - 1 </a>
+<br><a href="https://youtu.be/Z6x1ml0yj4M"> -- Islamic Revival - 1 </a>
 <a href="http://revolutionarydemocracy.org/rdv20n1/afghanistan.htm"> - 2 </a>
 <br><a href="https://www.marxists.org/archive/lenin/works/1917/tasks/ch08.htm#v24zz99h-071-GUESS"> -- Lenin On the Environment </a>
 <br><a href="https://drive.google.com/file/d/13QiQYmG65Vlr7ncIJI44ynMIWwOzWOWR/view"> -- Stalin's Environmentalism </a>
@@ -435,6 +439,7 @@
 <br><a href="https://github.com/2020PB/police-brutality"> -- Police Brutality - 1 </a>
 <a href="https://www.reddit.com/r/socialism/comments/hpi0at/mods_from_rnews_deleted_this_comment_containing/"> - 2 </a>
 <br><a href="https://github.com/dessalines/killed-by-police-frontend"> -- Killed By Police Frontend </a>
+<br><a href="https://dev.lemmy.ml/post/34341"> -- Ongoing Protests (15GB) </a>
 <br><a href="https://cdn.discordapp.com/attachments/449335833816858624/715456319154290698/17d41e7.jpg"> -- American Cops Running Out of Ammo </a>
 <br><a href="https://twitter.com/MetroATLDSA/status/1266552696607252480"> -- Cops Outnumbered 4:1 </a>
 <br><a href="https://twitter.com/johncardillo/status/1268635034124247045"> -- Police Resigning in High Numbers </a>
@@ -450,6 +455,7 @@
 <br><a href="https://web.archive.org/web/20190803220924/https://soundcloud.com/siriusxmcomedy/george-carlin-rats-squealers-previously-unreleased-material"> -- George Carlin, Police Brutality </a>
 <br><a href="https://mobile.twitter.com/J0hnnyXm4s/status/1275271166509416448"> -- Police Disrespect of Fred Hampton's Grave </a>
 <br><a href="https://twitter.com/i/status/1276995624588709888"> -- Rioting </a>
+<br><a href="https://www.theguardian.com/world/2017/may/11/accelerationism-how-a-fringe-philosophy-predicted-the-future-we-live-in"> -- Accelerationism </a>
 <br><a href="https://crimethinc.com/2020/06/28/stonewall-means-riot-right-now-what-the-queer-uprisings-of-1969-share-with-the-george-floyd-protests-of-2020"> -- Lessons From Stonewall </a>
 <br>
 <br><a href="https://socialistra.org/"> -- Socialist Rifle Association </a>
@@ -804,6 +810,8 @@
 <a href="https://cym.ie/education/#china"> -- China *Masterpost </a>
 <a href="https://www.quora.com/How-did-Mao-manage-to-kill-78-million-people/answer/Godfree-Roberts"> -- Mao - 1 </a>
 <a href="https://labouraffairsmagazine.com/recent-issues/2019-11-magazine/2019-11/"> - 2 </a>
+<a href="https://www.marxists.org/history/erol/ncm-5/cpc-policy.pdf"> - 3 </a>
+<a href="https://www.marxists.org/reference/archive/mao/selected-works/volume-4/mswv4_65.htm"> - 4 </a>
 <a href="https://ash.harvard.edu/files/ash/files/final_policy_brief_7.6.2020.pdf"> -- Chinese Public Opinion </a>
 <br>
 <a href="https://dengxiaopingworks.wordpress.com/2013/03/18/to-uphold-socialism-we-must-eliminate-poverty/"> -- Poverty Elimination </a>
@@ -830,10 +838,6 @@
 <a href="https://i.redd.it/58lbdmfor4b51.jpg"> - 3 </a>
 <a href="https://www.quora.com/Is-China-proof-that-socialism-can-work-if-they-use-Lenins-NEP?share=1"> -- Socialism in China </a>
 <a href="https://www.youtube.com/watch?v=pezX6p5xpW4"> -- Is China Imperialist? </a>
-<a href="https://imgur.com/j0GuZmA"> -- Chinese Democracy? - 1 </a>
-<a href="https://www.unz.com/article/selling-democracy-to-china/"> - 2 </a>
-<a href="https://old.reddit.com/r/Sino/wiki/faq/democracy"> - 3 </a>
-<a href="https://mobile.twitter.com/victorywiilcome/status/1282783278618103808"> - 4 </a>
 <a href="https://www.youtube.com/watch?v=iNnTpaN3Z8I"> -- DOTP </a>
 <br>
 <a href="https://www.theodysseyonline.com/most-what-hear-about-china-red-scare-yellow-peril-propaganda"> -- Red Scare Propaganda </a>
@@ -887,15 +891,22 @@
 <a href="https://mobile.twitter.com/_tanwho_/status/1283187392476741633"> - 7 </a>
 <a href="http://book.theorychina.org/upload/835b93ad-37d3-4c9c-8ba3-ca59badb506c/"> -- DXT - 1 </a>
 <a href="https://mobile.twitter.com/_tanwho_/status/1284128670093910016"> - 2 </a>
+<a href="https://cdn.discordapp.com/attachments/723885844229914655/735491093994536990/image0.jpg"> - 3 </a>
+<a href="https://cdn.discordapp.com/attachments/723885844229914655/734793173229895720/image0.jpg"> - 4 </a>
 <a href="https://mobile.twitter.com/StalinismCEO/status/1186699194121228288"> -- Marxism </a>
 <br>
 <a href="https://www.youtube.com/playlist?list=PLIuVy5356xnhT_sXylKTU4SHyM-vLz8Pt"> -- China Playlist </a>
 <a href="https://revolutionaryleftradio.libsyn.com/in-defense-of-china-as-a-socialist-state-w-ajit-singh"> -- In Defence of China as a Socialist State - 1 </a>
 <a href="https://medium.com/@rainershea612/china-is-capitalist-is-an-anti-marxist-position-to-take-cdf62e458ee0"> - 2 </a>
 <br>
-<a href="https://www.quora.com/Why-does-China-have-democracy-at-a-CCP-executive-level-but-not-for-normal-people"> -- Chinese Democracy </a>
+														
+<a href="https://imgur.com/j0GuZmA"> -- Chinese Democracy? - 1 </a>
+<a href="https://www.unz.com/article/selling-democracy-to-china/"> - 2 </a>
+<a href="https://old.reddit.com/r/Sino/wiki/faq/democracy"> - 3 </a>
+<a href="https://mobile.twitter.com/victorywiilcome/status/1282783278618103808"> - 4 </a>											
+<a href="https://www.quora.com/Why-does-China-have-democracy-at-a-CCP-executive-level-but-not-for-normal-people"> - 5 </a>
 <a href="https://www.youtube.com/watch?v=TgpQxVCekgw"> -- Selection and Election: How China Chooses It's Leaders </a>
-<a href="https://www.quora.com/Given-Chinas-meritocratic-system-whats-the-probability-for-China-to-get-a-bad-leader"> -- What's the Probability China Gets a Bad Leader? (2nd Answer) </a>
+<a href="https://www.quora.com/Given-Chinas-meritocratic-system-whats-the-probability-for-China-to-get-a-bad-leader"> -- What's the Probability China Gets a Bad Leader? </a>
 <br>
 <a href="https://www.youtube.com/watch?v=BeMfSulfSsM"> -- American Reacts to Chinese Media, Poverty Elimination </a>
 <a href="https://www.trotskyistplatform.com/workplace-safety-now-better-in-china-than-in-australia/"> -- Workplace Safety </a>
@@ -938,10 +949,10 @@
 <br>* Kim Jong Un
 <br>
 <a href="https://www.express.co.uk/news/world/1273869/kim-jong-un-dead-north-korea-kim-jong-un-health-latest-kim-jong-un-dead-reports"> -- Western Overexaggeration </a>
-<a href="https://cdn.discordapp.com/attachments/575238909575954432/703706430833688636/EWJXurQWAAMM9vr.png"> -- Western Hysteria </a>
-<a href="https://cdn.discordapp.com/attachments/575238909575954432/703706447854305385/EWJXvvOXQAEHR_v.png"> -- Western Hysteria </a>
-<a href="https://twitter.com/Meddle98/status/1254098813620543494"> -- Western Hysteria </a>
-<a href="https://cdn.discordapp.com/attachments/575238909575954432/703706657649328210/EWeKohLWAAAXd_g.png"> -- Western Hysteria </a>
+<a href="https://cdn.discordapp.com/attachments/575238909575954432/703706430833688636/EWJXurQWAAMM9vr.png"> -- Western Hysteria - 1 </a>
+<a href="https://cdn.discordapp.com/attachments/575238909575954432/703706447854305385/EWJXvvOXQAEHR_v.png"> - 2 </a>
+<a href="https://twitter.com/Meddle98/status/1254098813620543494"> - 3 </a>
+<a href="https://cdn.discordapp.com/attachments/575238909575954432/703706657649328210/EWeKohLWAAAXd_g.png"> - 4 </a>
 <a href="https://mobile.twitter.com/KoekkoekJessica/status/1268842884985311232"> -- American Hypocrisy </a>
 <a href="https://cdn.discordapp.com/attachments/575238909575954432/703706932980088902/kim-jong-un-looking-at-video-game.png"> -- Kim Response </a>
 </p>
@@ -1287,8 +1298,10 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="https://www.reddit.com/r/socialism/comments/5929aw/ten_books_that_arent_about_communism_that_every/"> -- Ten Books that Aren't About Communism That Everyone Should Read </a>
 <a href="https://jiminykrix.wordpress.com/2016/09/14/how-to-learn-everything-a-communist-ought-to-know-from-the-beginning/"> -- Extra Reading List </a>
 <br>
+<a href="https://www.goodreads.com/book/show/673719.Inventing_Reality"> -- Inventing Reality </a>
 <a href="https://markavery.info/books/inglorious-conflict-uplands-published-30-july/"> -- Mark Avery, Inglorious </a>
 <a href="https://bob-berzins.co.uk/"> -- Bob Berzins </a>
+<a href="https://www.goodreads.com/book/show/38914131-the-people-s-republic-of-walmart"> -- People's Republic of Wal-Mart </a>
 <a href="http://piketty.pse.ens.fr/en/capital21c2"> -- Thomas Piketty, Capital in the 21st Century </a>
 </p>
 
@@ -1439,7 +1452,6 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <br>**NEEDED - Sections for different ideologies (trots, liberals, conservatives, fascists, classical liberals etc) (CSS FILE)
 <br>
 <br>**NEEDED - SOCIAL DEMOCRATS SELLING OUT REVOLUTION (COMMUNISTS) IN GERMANY
-<br>**NEEDED - POLINKAZH PRAGER UNIVERSITY MENTION OF HOW AMAZON COULD BE NATIONALISED IN A PLANNED ECONOMY
 <br>**NEEDED - IRRATIONALITY OF CAPITALISM - STOCK MARKET, TWITTER CAT GIRL MEMES, BOOM BUST CYCLE
 <br>**NEEDED - PRINCIPLED ACAB EXPLANATION
 
