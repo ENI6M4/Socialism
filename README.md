@@ -112,7 +112,7 @@
 <br><a href="https://www.basenation.us/maps.html"> -- Maps of US Military Bases </a>
 <br><a href="https://pbs.twimg.com/media/EYtqK6lWkAMlztY?format=jpg&name=large"> -- Anti-Communist Extermination Programs </a>
 <br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xnj_cusNvZx_8p4AnyFFv5_Y"> -- Colonialism and Economic Imperialism </a>
-<br><a href="https://i.redd.it/u4mpl8v8t7951.png"> -- British Capitalism 1 </a>
+<br><a href="https://i.redd.it/u4mpl8v8t7951.png"> -- British Capitalism - 1 </a>
 <a href="https://i.redd.it/d7f18h637n951.png"> - 2 </a>
 <br><a href="https://www.youtube.com/watch?v=7fQ57NBEUM4"> -- Fascism: Capitalism in Decay </a>
 <br>
@@ -127,7 +127,7 @@
 <br><a href="https://www.youtube.com/watch?v=qihG6AGjkRk"> -- How To Fix the Housing Crisis </a>
 <br><a href="https://youtube.com/watch?v=IYkLVU5UGM8"> -- Video Games and Capitalism - 1 </a>
 <a href="https://www.youtube.com/watch?v=AL6F2E3sHVw"> - 2 </a>
-<br><a href="https://www.youtube.com/watch?v=lCvzAi0TEBw"> - Private vs Personal Property </a>
+<br><a href="https://www.youtube.com/watch?v=lCvzAi0TEBw"> -- Private vs Personal Property </a>
 <br><a href="https://www.youtube.com/watch?v=4QKnrZmvlaA"> -- Art and Capital </a>
 <br><a href="https://theweek.com/speedreads/627278/florence-same-wealthiest-families-600-years"> -- Concentration of Wealth </a>
 <br><a href="https://www.youtube.com/watch?v=YKRBgCmgm-c"> -- The myth of Incentive Under Capitalism </a>
@@ -824,7 +824,7 @@
 <a href="https://www.scmp.com/comment/opinion/article/3091438/us-has-been-exposed-funding-last-years-hong-kong-protests#click=https://t.co/DRlt1Y2FLu"> - US Funding </a>
 <br>
 <a href="https://www.youtube.com/watch?v=Hv9jCeqNL0Y"> -- Does China Kill Xighurs? </a>
-<a href=https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic"> -- Xighurs - 1 </a>
+<a href="https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic"> -- Xighurs - 1 </a>
 <a href="https://mobile.twitter.com/OohTheChilliOil/status/1278265815100465152"> - 2 </a>
 <a href="https://www.moroccoworldnews.com/2019/07/278860/arab-muslim-majority-countries-china-mistreatment-uighurs/"> - 3 </a>
 <a href="https://www.reddit.com/r/Sino/comments/hvfg56/latest_uyghur_prisoners_videos_actually_a_bunch/"> - 4 </a>
