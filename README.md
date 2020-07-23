@@ -53,9 +53,9 @@
 <br><a href="https://socialistrevolution.org/capitalists-clash-over-hunt-for-covid-19-vaccine/"> -- Intellectual Property </a>
 <br><a href="https://www.jacobinmag.com/2017/05/intellectual-property-prescription-drugs-trans-pacific-partnership"> -- Prescription Drugs Price </a>
 <br><a href="https://falkvinge.net/2012/01/24/copyright-patent-monopolies-are-immoral-exploitation-of-third-world/"> -- Copyright </a>
-<br><a href="https://www.reddit.com/r/socialism/comments/8cek3y/goldman_sachs_analyst_curing_patients_not_a/"> -- Goldman Sachs Analyst: Curing Patients Not a Sustainable Business Model </a>
 <br><a href="https://www.reddit.com/r/environment/comments/ebauzj/goldman_sachs_to_stop_financing_new_drilling_for/"> -- Goldman Sachs: Drilling </a>
-<br><a href="https://images-ext-1.discordapp.net/external/Ge_g3VpDcEQXWy9oGuGxcieqNGbOAatksFhg39s1nyA/%3Fauto%3Dwebp%26s%3Dbe4479ff6e72f9832c75117831475c987918c2bb/https/preview.redd.it/gjwe6bdvrgf41.jpg?width=696&height=662"> -- Big Pharma </a>
+<br><a href="https://twitter.com/telesurenglish/status/1207299476903170048?s=19"> -- Western Corporations Being Sued For Children Injured and Killed in Mines </a>
+<br><a href="https://www.youtube.com/watch?v=KSChKGrynkY"> -- Capitalism Needs Sweatshops, Humanity Does Not </a>	
 <br><a href="https://guerrillaontologies.com/2014/05/attempting-the-impossible-calculating-capitalisms-death-toll/"> -- Capitalism Death Toll - 1 </a>
 <a href="https://communism.lemmy.ml/pictrs/image/thumbnail256/zJ8KAPBaWO.jpg"> - 2 </a>
 <br>
@@ -79,15 +79,16 @@
 <br><a href="https://jacobinmag.com/2020/03/coronavirus-covid-tech-firms-telehealth/"> -- Research Hoarding </a>
 <br><a href="https://www.youtube.com/watch?v=hIXhnWUmMvw"> -- Surveillance capitalism </a>
 <br>
-<br><a href="https://twitter.com/telesurenglish/status/1207299476903170048?s=19"> -- Western Corporations being sued for children injured and killed in mines </a>
-<br><a href="https://www.youtube.com/watch?v=KSChKGrynkY"> -- Capitalism Needs Sweatshops, Humanity Does Not </a>
 <br><a href="https://cdn.discordapp.com/attachments/384045188592566279/718957346595930112/D80fWmi.jpg"> -- Science and Liberalism/Fascism </a>
 <br><a href="https://invidio.us/watch?v=JkMvm_rsTvI"> -- How Capitalism Hinders Science </a>
 <br><a href="https://www.scientificamerican.com/article/basic-science-can-t-survive-without-government-funding/"> -- Basic Science Can't Survive Without Government Funding </a>
 <br><a href="https://www.youtube.com/watch?v=m3lFF6FC2rE"> -- Privatisation of Space </a>
+<br><a href="https://www.reddit.com/r/socialism/comments/8cek3y/goldman_sachs_analyst_curing_patients_not_a/"> -- Goldman Sachs Analyst: Curing Patients Not a Sustainable Business Model </a>	
+<br><a href="https://images-ext-1.discordapp.net/external/Ge_g3VpDcEQXWy9oGuGxcieqNGbOAatksFhg39s1nyA/%3Fauto%3Dwebp%26s%3Dbe4479ff6e72f9832c75117831475c987918c2bb/https/preview.redd.it/gjwe6bdvrgf41.jpg?width=696&height=662"> -- Big Pharma - 1 </a>
+<br><a href="https://www.vox.com/2019/4/3/18293950/why-is-insulin-so-expensive"> - 2 </a>
 <br><a href="https://mises.org/wire/patent-and-penicillin"> -- Penicillin Patent </a>
 <br><a href="https://www.acs.org/content/acs/en/education/whatischemistry/landmarks/flemingpenicillin.html#wwii-penicillin-commercial-production"> -- Penicillin History </a>
-<br><a href="https://www.mobileworldlive.com/blog/penicillin-the-antidote-to-patent-wars/"> -- Penicillin Antidote to Patent Wars </a>
+<br><a href="https://www.mobileworldlive.com/blog/penicillin-the-antidote-to-patent-wars/"> -- Penicillin Antidote to Patent Wars </a>	
 <br><a href="https://www.cnet.com/news/stephen-hawking-says-we-should-be-more-frightened-of-capitalism-than-robots/"> -- Stephen Hawking on Future of Capitalism </a>
 <br><a href="https://cdn.discordapp.com/attachments/266261760556662784/660939106108440589/BillHates.png"> -- Microsoft "Innovation" </a>
 <br><a href="https://cdn.discordapp.com/attachments/721041141210022029/731620401830035516/standards.png"> -- Proliferation of Standards </a>
