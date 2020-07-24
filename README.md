@@ -957,8 +957,9 @@
 <a href="https://mobile.twitter.com/Bodhishevik/status/1283131374560567296"> - 4 </a>
 <a href="https://i.redd.it/8f8qq4xoxvq31.png"> - 5 </a>
 <a href="http://global.chinadaily.com.cn/a/202007/16/WS5f0f9aa9a310834817259c0f.html"> - 6 </a>
-<a href="https://macropolo.org/analysis/members-only-recruitment-trends-in-the-chinese-communist-party/"> - 7 </a>
-<a href="https://communism.lemmy.ml/pictrs/image/thumbnail256/Gbc3uFTfFY.jpg"> - 8 </a>
+<a href="https://cdn.discordapp.com/attachments/723211470141390998/735990707038453840/image0.jpg"> - 7 </a>
+<a href="https://macropolo.org/analysis/members-only-recruitment-trends-in-the-chinese-communist-party/"> - 8 </a>
+<a href="https://communism.lemmy.ml/pictrs/image/thumbnail256/Gbc3uFTfFY.jpg"> - 9 </a>
 <a href="https://www.quora.com/How-did-Xi-Jinping-stop-corruption-and-change-China-for-the-better"> -- How Did Xi Stop Corruption and Change China For the Better? </a>
 <a href="https://www.quora.com/What-is-President-Xi-Jing-Pings-salary"> -- Xi Jinpings Salary </a>
 </p>
