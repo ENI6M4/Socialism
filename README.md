@@ -43,7 +43,8 @@
 <br><a href="https://fair.org/home/the-incredible-belief-that-corporate-ownership-does-not-influence-media-content/"> -- Corporate Ownership of the Press </a>
 <br><a href="https://www.youtube.com/watch?v=b6l6Ck4TKxo"> -- The Age When Capitalism Went Too Far (For Libertarians) </a>
 <br><a href="https://www.thecanary.co/exclusive/2020/05/13/revealed-secretive-british-unit-planning-for-reconstruction-of-venezuela/amp/?__twitter_impression=true"> -- Capitalism = Imperialism </a>
-<br><a href="https://www.youtube.com/watch?v=5vS4eKwCEC0"> -- Neo-Liberalism </a>
+<br><a href="https://www.youtube.com/watch?v=5vS4eKwCEC0"> -- Neo-Liberalism - 1 </a>
+<a href="https://qph.fs.quoracdn.net/main-qimg-fc5b590a8ec59803024bd444cbfc4623" - 2 </a>
 <br><a href="https://youtube.com/watch?v=qX-P4mx1FLU"> -- 10 Minute History Lesson For Neo-Liberals By Tony Benn (Same Struggles Today As 60 Years Ago) </a>
 <br><a href="https://www.youtube.com/watch?v=KFqjzZo_6Rw"> -- Work Under Capitalism is Not Voluntary </a>
 <br><a href="https://cdn.discordapp.com/attachments/650742450721128466/655788893173710908/pubic.png"> -- Deliberate Defunding of Public Services as Excuse to Privatise </a>
@@ -74,7 +75,8 @@
 <br><a href="https://www.youtube.com/watch?v=ec-wDiI-Y1Q&app=desktop"> -- Why You Hate Mondays </a>
 <br><a href="https://www.youtube.com/watch?v=rPeBEcsmWTY"> -- Capitalist Realism, Mental Illness and Control of Societies </a>
 <br><a href="https://academyanalyticarts.org/uren-psychiatry-capitalism"> -- Psychiatry - 1 </a>	
-<a href="https://www.youtube.com/watch?v=5WTMODQ1FKI&app=desktop"> - 2 </a>	
+<a href="https://www.youtube.com/watch?v=5WTMODQ1FKI&app=desktop"> - 2 </a>
+<br><a href="https://www.youtube.com/watch?v=dmLTLkCBSN8"> -- Self Help </a>
 <br><a href="https://pbs.twimg.com/media/EMudRUXWoAEMYho.jpg:small"> -- "Hustle" Culture is a Scam </a>
 <br><a href="https://jacobinmag.com/2020/03/coronavirus-covid-tech-firms-telehealth/"> -- Research Hoarding </a>
 <br><a href="https://www.youtube.com/watch?v=hIXhnWUmMvw"> -- Surveillance capitalism </a>
@@ -126,7 +128,13 @@
 <br><a href="https://www.youtube.com/watch?v=-Z5iANEfQUU"> -- Feminism </a>
 <br><a href="https://www.youtube.com/watch?v=bzQkVfO9ToQ"> -- Mainstream Feminism </a>
 <br>
+<br><a href="https://qph.fs.quoracdn.net/main-qimg-8bccc8eeacf9c18ce51fe5b5b39f67ed"> -- Hierarchy - 1 </a>
+<a href="https://qph.fs.quoracdn.net/main-qimg-1fa05ae870a44d76324334ad72089032"> - 2 </a>
+<br><a href="https://qph.fs.quoracdn.net/main-qimg-5828a2ec92219c0efd6b8afad99a2618"> -- The Cycle of Capitalism </a>
+<br><a href="https://qph.fs.quoracdn.net/main-qimg-038116999e7deb297bde2a9546d30dda"> -- Superstructure/Base </a>
+<br><a href="https://qph.fs.quoracdn.net/main-qimg-0253142938ca5c2b9bc71fd9e399f000"> -- Historical Progress </a>
 <br><a href="https://mobile.twitter.com/lefthandle/status/1267279221539459072"> -- The Necessity of Marxism </a>
+<br><a href="https://www.youtube.com/watch?v=6M7WlWnQ8EM"> -- Measuring the Production of Use Values </a>
 <br><a href="https://www.youtube.com/watch?v=qihG6AGjkRk"> -- How To Fix the Housing Crisis </a>
 <br><a href="https://youtube.com/watch?v=IYkLVU5UGM8"> -- Video Games and Capitalism - 1 </a>
 <a href="https://www.youtube.com/watch?v=AL6F2E3sHVw"> - 2 </a>
@@ -235,12 +243,15 @@
 <br>
 <br><a href="https://www.youtube.com/watch?v=OqYcpeQwtL4"> -- Human Nature Argument Debunked </a>
 <br><a href="https://www.youtube.com/watch?v=gRx1BdQAf0w"> -- Socialism and Happiness </a>
-<br><a href="https://i.redd.it/c1nez7irpp751.jpg"> -- People Power </a>
+<br><a href="https://i.redd.it/c1nez7irpp751.jpg"> -- People Power - 1 </a>
+<a href="https://cdn.discordapp.com/attachments/637707889649254431/727296853015658506/PCUSA-Points-of-Unity-bookmark.png"> - 2 </a>
 <br><a href="https://youtube.com/watch?v=OCCFQymA-jM"> -- "Workers, Don't Unite" </a>
 <br><a href="https://youtube.com/watch?v=39VhQOYodFA"> -- Socialism Must Be Your Horizon </a>
-<br><a href="https://www.youtube.com/watch?v=Okz2YMW1AwY"> -- Soviet Democracy </a>
+<br><a href="https://www.youtube.com/watch?v=Okz2YMW1AwY"> -- Soviet Democracy - 1 </a>
+<br><a href="https://pbs.twimg.com/media/EdoxI9NWkAEZ91U?format=jpg&name=small"> - 2 </a>
 <br><a href="https://www.reddit.com/r/communism/comments/ehpdbp/masterpost_on_workers_control_and_democracy_in/"> -- Workers Control and Democracy in the Soviet Union </a>
 <br><a href="https://invidio.us/watch?v=IhznTWP5jdo****"> -- How To Improve Democracy </a>
+<br><a href="https://www.youtube.com/watch?v=6ipV7vxeANo"> -- "Surveillance Under Socialism" </a>
 <br>
 <br><a href="https://www.youtube.com/watch?v=4KDdIzkDcLw"> -- Dictatorship of The Proletariat Explained </a>
 <br><a href="https://www.youtube.com/watch?v=NHQBN2BU9m8"> -- Mass Line - 1 </a>
@@ -367,7 +378,8 @@
 <br><a href="https://cdn.discordapp.com/attachments/449335833816858624/723960893741989938/image0.jpg"> -- Referendum On the Preservation of the USSR </a>
 <br><a href="https://www.youtube.com/watch?v=N7Z-D4eybZI"> -- When "Freedom" Came To Russia </a>
 <br><a href="https://prnt.sc/rzanqa"> -- Ukraine GDP </a>
-<br><a href="https://lh3.googleusercontent.com/6dxVDa6yBkAJpglSjJto6xMW12MkiKwF68fFjAccdKm0jnj-cOVkNhDAOriJEMxlKjPzJwBMuMGIpFP3IxvUSGd01HeCmBqEqVHHBJMqLwHnDBXFqMipwgdvy6BNKV496A=s800"> -- Eastern Bloc GDP </a>
+<br><a href="https://lh3.googleusercontent.com/6dxVDa6yBkAJpglSjJto6xMW12MkiKwF68fFjAccdKm0jnj-cOVkNhDAOriJEMxlKjPzJwBMuMGIpFP3IxvUSGd01HeCmBqEqVHHBJMqLwHnDBXFqMipwgdvy6BNKV496A=s800"> -- Eastern Bloc - 1 </a>
+<a href="https://qph.fs.quoracdn.net/main-qimg-852f901f3ae042c32b5b0241f9abc5dd"> - 2 </a>
 <br><a href="https://www.reddit.com/r/communism/comments/cu8rug/masterpost_on_the_socialist_federal_republic_of/"> -- Yugoslavia - 1 </a>
 <a href="https://www.youtube.com/watch?v=GEzOgpMWnVs&t"> - 2 </a>
 <a href="https://medium.com/@RobertArlan/the-dismemberment-of-yugoslavia-20-yearson-60a47c535653"> - 3 </a>
@@ -387,6 +399,7 @@
 <a href="https://www.aljazeera.com/indepth/features/2015/06/bloqeo-55-years-obstructing-cuban-people-150612090553160.html"> - 2 </a>
 <a href="https://money.cnn.com/2018/06/12/news/economy/north-korea-sanctions-explainer/index.html"> - 3 </a>
 <a href="https://edition.cnn.com/2018/08/06/middleeast/us-iran-sanctions-impact-intl/index.html"> - 4 </a>
+<br><a href="https://qph.fs.quoracdn.net/main-qimg-31c8058064fa343c930c7909ca9f4ad3"> -- Ignorance </a>
 <br><a href="https://www.youtube.com/watch?v=J3hFfbIXpg4"> -- Astroturfing - 1 </a>
 <a href="https://mobile.twitter.com/jeremyscahill/status/1251877070621290496"> - 2 </a>
 <br><a href="https://www.youtube.com/watch?v=mYX7koMKkPY"> -- The Making of a "Human Rights Activist" (CIA) </a>
@@ -608,9 +621,11 @@
 <p style="text-align:center;">
 <br><a href="https://mobile.twitter.com/calebmaupin/status/1279835299204468739"> -- Top Neo-Con Says Vote Biden to Prevent Revolution </a>
 <br><a href="https://vimeo.com/119939446"> --  Boom Bust Boom Documentary </a>
-<br><a href="https://www.youtube.com/watch?v=-HflHrHvYsw"> --  America Never Stood For Freedom </a> 
+<br><a href="https://www.youtube.com/watch?v=-HflHrHvYsw"> --  America Never Stood For Freedom </a>
+<br><a href="https://www.youtube.com/watch?v=5DfiMy4VDb0&feature=youtu.be&app=desktop"> -- Black Panthers </a>
 <br><a href="https://www.salon.com/2010/12/06/america_collapse_2025/"> -- American Empire Collapse </a>
-<br><a href="https://www.irishtimes.com/opinion/fintan-o-toole-trial-runs-for-fascism-are-in-full-flow-1.3543375?mode=amp"> - Fascism? </a>
+<br><a href="https://www.irishtimes.com/opinion/fintan-o-toole-trial-runs-for-fascism-are-in-full-flow-1.3543375?mode=amp"> -- Fascism? </a>
+<br><a href="https://www.quora.com/q/marxismleninismmaoism/Can-we-put-a-likely-time-period-for-the-next-communist-revolution-to-occur-And-if-so-which-country"> -- Revolution </a> 
 <br><a href="https://www.youtube.com/watch?v=_YIb-uK9IrM"> -- We are about to have a GDP with a 30% decline </a>
 </p>
 
@@ -620,6 +635,7 @@
 <br><a href="https://mobile.twitter.com/NathanJRobinson/status/1279952893148356608"> -- Normal View of US Imperialism </a>
 <br>
 <br><a href="https://pbs.twimg.com/media/Ectrd5AUwAAPJH8?format=jpg&name=small"> -- Cold War Hypocrisy </a>
+<br><a href="https://qph.fs.quoracdn.net/main-qimg-6d0bbbcddfd72268ac9dc473111bd159"> -- US in South America </a>
 <br><a href="https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/"> -- Modern Espionage </a>
 <br><a href="https://www.globalresearch.ca/hillary-emails-reveal-nato-killed-gaddafi-to-stop-libyan-creation-of-gold-backed-currency/5594742"> -- Gaddafi - 1 </a>
 <a href="https://mobile.twitter.com/Underground_RT/status/1283785830230876160"> - 2 </a>
@@ -643,7 +659,11 @@
 <br><a href="https://en.wikipedia.org/wiki/De_Beers#Industrial_diamonds"> -- De Beers Diamonds </a>
 <br><a href="https://www.youtube.com/watch?v=N5kWu1ifBGU"> -- Diamonds </a>
 <br><a href="https://upload.wikimedia.org/wikipedia/commons/a/ab/Tree_map_export_2009_Botswana.jpeg"> -- Botswana </a>
-<br><a href="http://www.japansubculture.com/how-the-cia-helped-put-the-yakuza-and-the-ldp-in-power/"> -- Japan </a>
+<br><a href="https://socialistresurgence.org/2020/07/14/french-imperialisms-quagmire-in-africa/"> -- French Imperialism in Africa </a>
+<br><a href="http://www.japansubculture.com/how-the-cia-helped-put-the-yakuza-and-the-ldp-in-power/"> -- Japan - 1 </a>
+<a href="https://qph.fs.quoracdn.net/main-qimg-c3ea65667505103399d61aa36cb9125e"> - 2 </a>
+<br><a href="https://www.youtube.com/watch?v=YQr0NwfE0DA"> -- India - 1 </a>
+<a href="https://www.youtube.com/watch?v=sdTK4PGEhKk"> - 2 </a>	
 <br><a href="https://www.redspark.nu/en/peoples-war/nepal/are-the-maoists-rising-again-in-nepal/"> -- Nepal </a>
 <br>
 <br><a href="https://m.youtube.com/watch?v=mVXYH9tRknc"> -- Mike Prysner Speech </a>
@@ -651,6 +671,7 @@
 <br><a href="https://redflag.org.au/node/7023"> -- Chelsea Manning </a>
 <br><a href="https://www.youtube.com/watch?v=0j_78aMYWIs"> -- Aaron Swartz </a>
 <br><a href="http://glenngreenwald.net/"> -- Glenn Greenwald </a>
+<br><a href="https://www.sott.net/article/387623-Deep-State-win-How-JFK-lost-his-fight-to-end-the-Cold-War"> -- JFK </a>
 <br><a href="https://thegrayzone.com/"> -- The Grayzone </a>
 </p>
 
@@ -821,6 +842,7 @@
 <a href="https://labouraffairsmagazine.com/recent-issues/2019-11-magazine/2019-11/"> - 2 </a>
 <a href="https://www.marxists.org/history/erol/ncm-5/cpc-policy.pdf"> - 3 </a>
 <a href="https://www.marxists.org/reference/archive/mao/selected-works/volume-4/mswv4_65.htm"> - 4 </a>
+<a href="https://www.quora.com/Was-communism-the-best-thing-ever-to-happen-to-China/answer/Godfree-Roberts"> - 5 </a>
 <a href="https://ash.harvard.edu/files/ash/files/final_policy_brief_7.6.2020.pdf"> -- Chinese Public Opinion </a>
 <br>
 <a href="https://dengxiaopingworks.wordpress.com/2013/03/18/to-uphold-socialism-we-must-eliminate-poverty/"> -- Poverty Elimination </a>
@@ -847,8 +869,9 @@
 <a href="https://mobile.twitter.com/gobloid3/status/1281404596922060800"> -- Adrian Zenz </a>
 <br>
 <a href="https://twitter.com/Juliet_y_Sierra/status/1258742834632560640?s=20"> -- China Today - 1 </a>
-<a href="https://thecommunists.org/2019/03/05/news/theory/chinese-forum-discusses-humanitys-shared-future/"> - 2 </a>
-<a href="https://i.redd.it/58lbdmfor4b51.jpg"> - 3 </a>
+<a href="https://labouraffairsmagazine.com/problems-magazine-past-issues/post-liberalism/chinese-politics-working-well/"> - 2 </a>
+<a href="https://thecommunists.org/2019/03/05/news/theory/chinese-forum-discusses-humanitys-shared-future/"> - 3 </a>
+<a href="https://i.redd.it/58lbdmfor4b51.jpg"> - 4 </a>
 <a href="https://www.quora.com/Is-China-proof-that-socialism-can-work-if-they-use-Lenins-NEP?share=1"> -- Socialism in China </a>
 <a href="https://www.youtube.com/watch?v=pezX6p5xpW4"> -- Is China Imperialist? </a>
 <a href="https://www.youtube.com/watch?v=iNnTpaN3Z8I"> -- DOTP </a>
@@ -877,6 +900,7 @@
 <a href="https://cdn.discordapp.com/attachments/407345200969547777/724619683411656814/4vvtuanqhc651.png"> -- Chinese Kids Aspirations </a>
 <a href="https://hbr.org/2015/09/huawei-a-case-study-of-when-profit-sharing-works"> -- Huawei - 1 </a>
 <a href="https://www.reuters.com/article/us-huawei-india-idUSKBN1WT25H"> - 2 </a>
+<a href="https://invidious.snopyta.org/watch?v=n_klwY2RJDc"> - 3 </a>	
 <a href="https://www.forbes.com/sites/raykwong/2011/07/25/friends-dont-let-friends-become-chinese-billionaires/#84731e52ddae"> -- Billionaires </a>
 <br>
 <a href="https://i.redd.it/zaizrdq063251.jpg"> -- Chinese "Censorship" </a>
@@ -892,6 +916,8 @@
 <a href="https://mobile.twitter.com/_tanwho_/status/1283859940235452428"> - 5 </a>
 <a href="https://mobile.twitter.com/_tanwho_/status/1283063759121063937"> - 6 </a>
 <a href="https://mobile.twitter.com/_tanwho_/status/1283447167550619649"> - 7 </a>
+<a href="https://mobile.twitter.com/RT_com/status/1286525729962950656"> - 8 </a>
+<a href="https://www.youtube.com/watch?v=YeoRl3qedQE"> - 9 </a>
 <a href="https://qph.fs.quoracdn.net/main-qimg-510b9974978d5f962580406f247c1011"> -- US Bases Near China </a>
 <br>
 <a href="https://www.learningfromchina.net/china-is-most-promising-hope-for-third-world-fidel/"> -- Fidel On China </a>
@@ -932,6 +958,7 @@
 <a href="https://i.redd.it/8f8qq4xoxvq31.png"> - 5 </a>
 <a href="http://global.chinadaily.com.cn/a/202007/16/WS5f0f9aa9a310834817259c0f.html"> - 6 </a>
 <a href="https://macropolo.org/analysis/members-only-recruitment-trends-in-the-chinese-communist-party/"> - 7 </a>
+<a href="https://communism.lemmy.ml/pictrs/image/thumbnail256/Gbc3uFTfFY.jpg"> - 8 </a>
 <a href="https://www.quora.com/How-did-Xi-Jinping-stop-corruption-and-change-China-for-the-better"> -- How Did Xi Stop Corruption and Change China For the Better? </a>
 <a href="https://www.quora.com/What-is-President-Xi-Jing-Pings-salary"> -- Xi Jinpings Salary </a>
 </p>
@@ -976,7 +1003,7 @@
 <br>*Tweet About FF/FG Only Benefiting Those Earning Above 160k (From Before Election, On Twitter - Can't Find)
 <br>*Varadker Being Against Abortion and Same Sex Marriage - Populist (Video On Twitter)
 <br>*Bailing Out the Airlines (Just Like the Banks)
-<br>*Irish Government Corruption Over the Years, Lately Preventing Disclosure of Information
+<br>*Irish Government Corruption Over the Years, lLately Preventing Disclosure of Information
 <br>
 <br><a href="https://medium.com/@zackbreslin/the-irish-ruling-class-who-are-they-what-do-they-want-how-do-they-get-233290bcfca7"> -- Who Are the Irish Ruling Class and What Do They Want </a>
 <a href="https://www.youtube.com/watch?v=8sVyc9o8p2Q"> -- Housing Crisis - 1 </a>
@@ -1115,9 +1142,15 @@
 <p style="text-align:center; color:navy;">
 <br><a href="https://i.redd.it/ai47amxe1nb51.png"> -- Why Socialism Quotes </a>
 <br>
+<br><a href="https://qph.fs.quoracdn.net/main-qimg-4a92d589faa8275d68ea0b094a498475"> -- Anti-Communism </a>	
+<br>
 <br><a href="https://cdn.discordapp.com/attachments/449335833816858624/721743937726840923/quote-the-modern-revisionists-and-reactionaries-call-us-stalinists-thinking-that-they-insult-enver-h.png"> -- On The Honour of Being Called "Stalinists" </a>
 <br>
-<br><a href=https://pbs.twimg.com/media/EdOvh9QWkAAeCgm?format=jpg&name=900x900"> -- Harmless Icons </a>
+<br><a href="https://qph.fs.quoracdn.net/main-qimg-44816956f921b1a2d941b9a89b8c217a"> -- Western Hypocrisy </a>
+<br>
+<br><a href="https://pbs.twimg.com/media/EdOvh9QWkAAeCgm?format=jpg&name=900x900"> -- Harmless Icons </a>
+<br>	
+<br><a href="https://qph.fs.quoracdn.net/main-qimg-f725b02a6bc2c66547b5c137a2de097e"> -- Environment </a>
 <br>
 <br><a href="https://i.redd.it/yego9vkdxwh41.jpg"> -- Albert Einstein On the Media </a>
 <br>
@@ -1434,7 +1467,8 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <br><a href="https://communism.lemmy.ml/post/4808"> -- Lemmy (Communist Reddit) </a>
 <br><a href="https://arstechnica.com/information-technology/2020/07/the-remote-british-village-that-built-one-of-the-uks-fastest-internet-networks/3/"> -- Community Self-Development </a>
 <br><a href="https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer"> -- Socialism's DIY Computer </a>
-<br><a href="https://en.wikipedia.org/wiki/Project_Cybersyn"> -- Project Cybersyn </a>
+<br><a href="https://en.wikipedia.org/wiki/Project_Cybersyn"> -- Project Cybersyn - 1 </a>
+<a href="https://www.youtube.com/watch?v=T28wI-AdCpM"> - 2 </a>
 <br><a href="https://www.sciencedirect.com/topics/neuroscience/cybernetics"> -- Cybernetics </a>
 <br><a href="https://en.wikipedia.org/wiki/OGAS"> -- OGAS </a>
 <br><a href="https://en.wikipedia.org/wiki/Antonov_An-225_Mriya"> -- Antonov An-225 Mriya </a>
