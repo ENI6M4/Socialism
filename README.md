@@ -44,7 +44,7 @@
 <br><a href="https://www.youtube.com/watch?v=b6l6Ck4TKxo"> -- The Age When Capitalism Went Too Far (For Libertarians) </a>
 <br><a href="https://www.thecanary.co/exclusive/2020/05/13/revealed-secretive-british-unit-planning-for-reconstruction-of-venezuela/amp/?__twitter_impression=true"> -- Capitalism = Imperialism </a>
 <br><a href="https://www.youtube.com/watch?v=5vS4eKwCEC0"> -- Neo-Liberalism - 1 </a>
-<a href="https://qph.fs.quoracdn.net/main-qimg-fc5b590a8ec59803024bd444cbfc4623" - 2 </a>
+<a href="https://qph.fs.quoracdn.net/main-qimg-fc5b590a8ec59803024bd444cbfc4623"> - 2 </a>
 <br><a href="https://youtube.com/watch?v=qX-P4mx1FLU"> -- 10 Minute History Lesson For Neo-Liberals By Tony Benn (Same Struggles Today As 60 Years Ago) </a>
 <br><a href="https://www.youtube.com/watch?v=KFqjzZo_6Rw"> -- Work Under Capitalism is Not Voluntary </a>
 <br><a href="https://cdn.discordapp.com/attachments/650742450721128466/655788893173710908/pubic.png"> -- Deliberate Defunding of Public Services as Excuse to Privatise </a>
