@@ -1000,10 +1000,7 @@
 <h2 style="text-align:center;"> - Ireland (Neo-Liberal) </h2>
 <br>
 <p style="text-align:center;">
-<br>*Tweet About FF/FG Only Benefiting Those Earning Above 160k (From Before Election, On Twitter - Can't Find)
-<br>*Varadker Being Against Abortion and Same Sex Marriage - Populist (Video On Twitter)
-<br>*Bailing Out the Airlines (Just Like the Banks)
-<br>*Irish Government Corruption Over the Years, lLately Preventing Disclosure of Information
+<br>*Irish Government Corruption Over the Years, Lately Preventing Disclosure of Information
 <br>
 <br><a href="https://medium.com/@zackbreslin/the-irish-ruling-class-who-are-they-what-do-they-want-how-do-they-get-233290bcfca7"> -- Who Are the Irish Ruling Class and What Do They Want </a>
 <a href="https://www.youtube.com/watch?v=8sVyc9o8p2Q"> -- Housing Crisis - 1 </a>
@@ -1013,9 +1010,12 @@
 <a href="https://www.facebook.com/risesocialists/videos/258676998755407/"> -- Offences Against the State Act - 1 </a>
 <a href="http://www.irishstatutebook.ie/eli/1939/act/13/section/30/enacted/en/html#:~:text=%E2%80%94(1)%20A%20member%20of,about%20to%20commit%20or%20being"> - 2 </a>
 <br>
-<a href="https://cdn.discordapp.com/attachments/449335833816858624/719930246081806467/Screenshot_20200609-160513_WhatsApp.jpg"> -- Blueshirts - 1 </a>
-<a href="https://cdn.discordapp.com/attachments/384045127649329153/722158212954193930/blueshirt_wankers.mp4"> - 2 </a>
-<a href="https://pbs.twimg.com/media/EakttxgWkAEsFBU.png:small"> - 3 </a>
+<a href="https://mobile.twitter.com/tigerreborn/status/197655840445038594"> -- Blueshirts - 1 </a>
+<a href="https://mobile.twitter.com/irishpoint/status/1255936945995370499"> - 2 </a>
+<a href="https://mobile.twitter.com/commie_spice/status/1264173336986255360"> - 3 </a>
+<a href="https://cdn.discordapp.com/attachments/449335833816858624/719930246081806467/Screenshot_20200609-160513_WhatsApp.jpg"> - 4 </a>
+<a href="https://cdn.discordapp.com/attachments/384045127649329153/722158212954193930/blueshirt_wankers.mp4"> - 5 </a>
+<a href="https://pbs.twimg.com/media/EakttxgWkAEsFBU.png:small"> - 6 </a>
 <a href="https://twitter.com/ginosocialist/status/1273528268998787072?s=21"> -- FG (Israel) </a>
 <a href="https://www.theguardian.com/world/2019/nov/04/irish-pm-leo-varadkar-under-fire-for-extolling-benefits-of-climate-crisis"> -- FG "Science" </a>
 <a href="https://mobile.twitter.com/paddycosgrave/status/1272792731425923073"> -- FG Covid-19 Response </a>
