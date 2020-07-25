@@ -128,6 +128,8 @@
 <br><a href="https://www.youtube.com/watch?v=-Z5iANEfQUU"> -- Feminism </a>
 <br><a href="https://www.youtube.com/watch?v=bzQkVfO9ToQ"> -- Mainstream Feminism </a>
 <br>
+<br><a href="https://www.youtube.com/watch?v=ZjBIm4I3Amg"> -- "Why Don't You Just Start a Business?" </a>
+<br><a href="https://www.youtube.com/watch?v=uMPO3iaWIGA"> -- There's No Ethical Consumption Under Capitalism </a>
 <br><a href="https://qph.fs.quoracdn.net/main-qimg-8bccc8eeacf9c18ce51fe5b5b39f67ed"> -- Hierarchy - 1 </a>
 <a href="https://qph.fs.quoracdn.net/main-qimg-1fa05ae870a44d76324334ad72089032"> - 2 </a>
 <br><a href="https://qph.fs.quoracdn.net/main-qimg-5828a2ec92219c0efd6b8afad99a2618"> -- The Cycle of Capitalism </a>
@@ -625,6 +627,7 @@
 <br><a href="https://www.youtube.com/watch?v=5DfiMy4VDb0&feature=youtu.be&app=desktop"> -- Black Panthers </a>
 <br><a href="https://www.salon.com/2010/12/06/america_collapse_2025/"> -- American Empire Collapse </a>
 <br><a href="https://www.irishtimes.com/opinion/fintan-o-toole-trial-runs-for-fascism-are-in-full-flow-1.3543375?mode=amp"> -- Fascism? </a>
+<br><a href="https://mobile.twitter.com/camilateleSUR/status/1286658847776571393"> -- "Venezuela" </a>
 <br><a href="https://www.quora.com/q/marxismleninismmaoism/Can-we-put-a-likely-time-period-for-the-next-communist-revolution-to-occur-And-if-so-which-country"> -- Revolution </a> 
 <br><a href="https://www.youtube.com/watch?v=_YIb-uK9IrM"> -- We are about to have a GDP with a 30% decline </a>
 </p>
