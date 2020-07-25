@@ -1289,7 +1289,7 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="https://pbs.twimg.com/media/EdA8kpOXYAA8GrX?format=jpg&name=small"> -- Laws </a>
 <a href="https://mobile.twitter.com/BolshevikPotato/status/1285298899901534208"> -- Reddit - 1 </a>
 <a href="https://www.reddit.com/r/communism/comments/dp6ony/rsocialism_mods_are_banning_communists_my_story/"> - 2 </a>
-<a href="https://cdn.discordapp.com/attachments/721041141210022029/733101141214101534/IMG_20200714_141436_502.jpg"> -- 4 Day Work Week
+<a href="https://cdn.discordapp.com/attachments/721041141210022029/733101141214101534/IMG_20200714_141436_502.jpg"> -- Four Day Work Week
 </p>
 
 <h2 style="text-align:center;"> - Games </h2>
