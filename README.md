@@ -94,7 +94,8 @@
 <br><a href="https://www.acs.org/content/acs/en/education/whatischemistry/landmarks/flemingpenicillin.html#wwii-penicillin-commercial-production"> -- Penicillin History </a>
 <br><a href="https://www.mobileworldlive.com/blog/penicillin-the-antidote-to-patent-wars/"> -- Penicillin Antidote to Patent Wars </a>
 <br><a href="https://www.youtube.com/watch?v=Ytg23mDd1a4"> -- Hydrogen Car - 1 </a>
-<a href="https://www.youtube.com/watch?v=bYn2wAK-CYE"> - 2 </a>
+<a href="https://www.digitaltrends.com/cars/hydrogen-cars/"> - 2 </a>
+<a href="https://www.youtube.com/watch?v=bYn2wAK-CYE"> - 3 </a>
 <br><a href="https://www.cnet.com/news/stephen-hawking-says-we-should-be-more-frightened-of-capitalism-than-robots/"> -- Stephen Hawking on Future of Capitalism </a>
 <br><a href="https://cdn.discordapp.com/attachments/266261760556662784/660939106108440589/BillHates.png"> -- Microsoft "Innovation" </a>
 <br><a href="https://cdn.discordapp.com/attachments/721041141210022029/731620401830035516/standards.png"> -- Proliferation of Standards </a>
