@@ -92,7 +92,9 @@
 <a href="https://www.vox.com/2019/4/3/18293950/why-is-insulin-so-expensive"> - 2 </a>
 <br><a href="https://mises.org/wire/patent-and-penicillin"> -- Penicillin Patent </a>
 <br><a href="https://www.acs.org/content/acs/en/education/whatischemistry/landmarks/flemingpenicillin.html#wwii-penicillin-commercial-production"> -- Penicillin History </a>
-<br><a href="https://www.mobileworldlive.com/blog/penicillin-the-antidote-to-patent-wars/"> -- Penicillin Antidote to Patent Wars </a>	
+<br><a href="https://www.mobileworldlive.com/blog/penicillin-the-antidote-to-patent-wars/"> -- Penicillin Antidote to Patent Wars </a>
+<br><a href="https://www.youtube.com/watch?v=Ytg23mDd1a4"> -- Hydrogen Car - 1 </a>
+<a href="https://www.youtube.com/watch?v=bYn2wAK-CYE"> - 2 </a>
 <br><a href="https://www.cnet.com/news/stephen-hawking-says-we-should-be-more-frightened-of-capitalism-than-robots/"> -- Stephen Hawking on Future of Capitalism </a>
 <br><a href="https://cdn.discordapp.com/attachments/266261760556662784/660939106108440589/BillHates.png"> -- Microsoft "Innovation" </a>
 <br><a href="https://cdn.discordapp.com/attachments/721041141210022029/731620401830035516/standards.png"> -- Proliferation of Standards </a>
@@ -423,6 +425,7 @@
 <br><a href="https://youtube.com/watch?v=OCCFQymA-jM"> -- "Workers, Don't Unite" </a>
 <br><a href="https://www.youtube.com/watch?v=NK1tfkESPVY&app=desktop"> -- Central Intelligence Agency - 1 </a>
 <a href="https://communism.lemmy.ml/post/6280"> - 2 </a>
+<a href="https://www.youtube.com/watch?v=m4dfYc96GPs&app=desktop"> -- FBI Infiltration </a>
 <br><a href="https://www.youtube.com/watch?v=4BG0VdanUTs"> -- More Millenials Should Be Socialists </a>
 <br><a href="https://en.wikipedia.org/wiki/Congress_for_Cultural_Freedom"> -- Congress For Cultural Freedom </a>
 <br><a href="https://en.wikipedia.org/wiki/COINTELPRO"> -- COINTELPRO - 1 </a>
@@ -580,7 +583,7 @@
 <br><a href="https://blogs.uct.ac.za/memory/2019/05/unbanned-the-films-south-africans-were-not-allowed-to-see/"> -- Apartheid Censorship </a>
 <br><a href="https://www.youtube.com/watch?v=8Pl8Mss_mPQ"> -- The Comrade King </a>
 <br><a href="https://www.youtube.com/watch?v=Bk7Vjd_o9i8"> -- Open Borders? </a>
-<br><a href="https://www.globalresearch.ca/hillary-emails-reveal-nato-killed-gaddafi-to-stop-libyan-creation-of-gold-backed-currency/5594742"> -- Libya
+<br><a href="https://www.globalresearch.ca/hillary-emails-reveal-nato-killed-gaddafi-to-stop-libyan-creation-of-gold-backed-currency/5594742"> -- Libya </a>
 <br><a href="https://www.youtube.com/watch?v=mlz3-OzcExI"> -- Clinton </a>
 <br><a href="https://www.youtube.com/watch?v=MZHN-OFdEtM"> -- How the far-right Weaponises Nostalgia </a>
 <br><a href="https://www.youtube.com/watch?v=nsdIHK8O5yo"> -- Gamergate </a>
@@ -620,7 +623,8 @@
 <br><a href="https://cdn.discordapp.com/attachments/708472914927681538/720112910289862716/0cls21k5tw351.png"> -- White Privelage </a>
 <br><a href="https://www.youtube.com/watch?v=vWUDQdiFB7A"> -- Young Men Need Feminism </a>
 <br><a href="https://www.youtube.com/watch?v=RLqXkYrdmjY"> -- Climate Denial Debunked </a>
-<br><a href="https://www.counterpunch.org/2020/03/11/elon-musk-is-acting-like-a-neo-conquistador-for-south-americas-lithium/"> -- Elon Musk is Acting Like a Conquistador For South Americas Lithium </a>
+<br><a href="https://www.counterpunch.org/2020/03/11/elon-musk-is-acting-like-a-neo-conquistador-for-south-americas-lithium/"> -- Elon Musk is Acting Like a Conquistador For South Americas Lithium - 1 </a>
+<a href="https://mobile.twitter.com/elonmusk/status/1286866843307737088"> - 2 </a>
 <br><a href="https://www.teenvogue.com/story/lgbtq-institute-in-germany-was-burned-down-by-nazis"> -- LGBTQ Institute in Germany Was Burned Down By Nazis </a>
 <br><a href="https://youtu.be/CZJtJOQ_n7I"> -- The History of Sexuality </a>
 <br><a href="https://www.youtube.com/watch?v=C8dfiDeJeDU"> -- Soyboys? </a>
@@ -665,6 +669,8 @@
 <a href="https://i.redd.it/hv9e74171i041.png"> - 2 </a>
 <a href="https://i.redd.it/0t2dbby6k6y31.png"> - 3 </a>
 <a href="https://mobile.twitter.com/commieflavus/status/1282588339984568320"> - 4 </a>
+<a href="https://www.mintpressnews.com/us-backed-coup-govt-bolivia-suspends-elections-third-time/269764/"> - 5 </a>	
+<a href="https://mobile.twitter.com/elonmusk/status/1286866843307737088"> - 6 </a>
 <br><a href="https://mobile.twitter.com/BrianMteleSUR/status/1278337380458483717"> -- Lula Deposition </a>
 <br><a href="https://www.pbs.org/newshour/show/stretch-north-dakota-highway-witnesses-oils-boom-bust"> -- North Dakota and Boom Bust </a>
 <br><a href="https://www.youtube.com/watch?v=elNKZ4niERY"> -- Israeli Annexations </a>
@@ -690,6 +696,7 @@
 <br><a href="https://redflag.org.au/node/7023"> -- Chelsea Manning </a>
 <br><a href="https://www.youtube.com/watch?v=0j_78aMYWIs"> -- Aaron Swartz </a>
 <br><a href="http://glenngreenwald.net/"> -- Glenn Greenwald </a>
+<br><a href="https://mobile.twitter.com/VforVentura2020/status/1286908551257104384"> -- Jesse Ventura </a>
 <br><a href="https://www.sott.net/article/387623-Deep-State-win-How-JFK-lost-his-fight-to-end-the-Cold-War"> -- JFK </a>
 <br><a href="https://thegrayzone.com/"> -- The Grayzone </a>
 </p>
@@ -937,7 +944,12 @@
 <a href="https://mobile.twitter.com/_tanwho_/status/1283063759121063937"> - 6 </a>
 <a href="https://mobile.twitter.com/_tanwho_/status/1283447167550619649"> - 7 </a>
 <a href="https://mobile.twitter.com/RT_com/status/1286525729962950656"> - 8 </a>
-<a href="https://www.youtube.com/watch?v=YeoRl3qedQE"> - 9 </a>
+<a href="https://mobile.twitter.com/qiaocollective/status/1286453661556772865"> - 9 </a>
+<a href="https://mobile.twitter.com/Tobias_Ellwood/status/1285288767071358977"> - 10 </a>
+<a href="https://mobile.twitter.com/qiaocollective/status/1286515629521084426"> - 11 </a>
+<a href="https://mobile.twitter.com/mazzenilsson/status/1286824295839260673"> - 12 </a>
+<a href="https://mobile.twitter.com/Helenhs/status/1283813182709137408"> - 13 </a>
+<a href="https://www.youtube.com/watch?v=YeoRl3qedQE"> - 14 </a>
 <a href="https://qph.fs.quoracdn.net/main-qimg-510b9974978d5f962580406f247c1011"> -- US Bases Near China </a>
 <br>
 <a href="https://www.learningfromchina.net/china-is-most-promising-hope-for-third-world-fidel/"> -- Fidel On China </a>
@@ -1489,7 +1501,8 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <br><a href="https://www.youtube.com/watch?v=QnMjW8hCFB8"> -- Evo Morales "The Unity of the People Will Be the Defeat of the Empire" </a>
 <br><a href="https://www.youtube.com/watch?v=dqB-EMqpsUA"> -- We Need Communism </a>
 <br><a href="https://se7en.ws/the-us-army-is-losing-the-war-in-discord/?lang=en"> -- US Army Discord Beaten Back </a>
-<br><a href="https://communism.lemmy.ml/post/4808"> -- Lemmy (Communist Reddit) </a>
+<br><a href="https://lemmygrad.ml/"> -- Lemmy (Communist Reddit) - 1 </a>
+<a href="https://dev.lemmy.ml/"> - 2 </a>
 <br><a href="https://arstechnica.com/information-technology/2020/07/the-remote-british-village-that-built-one-of-the-uks-fastest-internet-networks/3/"> -- Community Self-Development </a>
 <br><a href="https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer"> -- Socialism's DIY Computer </a>
 <br><a href="https://en.wikipedia.org/wiki/Project_Cybersyn"> -- Project Cybersyn - 1 </a>
