@@ -128,6 +128,7 @@
 <br><a href="https://www.youtube.com/watch?v=-Z5iANEfQUU"> -- Feminism </a>
 <br><a href="https://www.youtube.com/watch?v=bzQkVfO9ToQ"> -- Mainstream Feminism </a>
 <br>
+<br><a href="https://www.youtube.com/watch?v=GTcilmKa4qo"> -- "Capitalism is Equal Opportunity" </a>
 <br><a href="https://www.youtube.com/watch?v=ZjBIm4I3Amg"> -- "Why Don't You Just Start a Business?" </a>
 <br><a href="https://www.youtube.com/watch?v=uMPO3iaWIGA"> -- There's No Ethical Consumption Under Capitalism </a>
 <br><a href="https://qph.fs.quoracdn.net/main-qimg-8bccc8eeacf9c18ce51fe5b5b39f67ed"> -- Hierarchy - 1 </a>
