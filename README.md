@@ -90,9 +90,9 @@
 <br><a href="https://www.reddit.com/r/socialism/comments/8cek3y/goldman_sachs_analyst_curing_patients_not_a/"> -- Goldman Sachs Analyst: Curing Patients Not a Sustainable Business Model </a>	
 <br><a href="https://images-ext-1.discordapp.net/external/Ge_g3VpDcEQXWy9oGuGxcieqNGbOAatksFhg39s1nyA/%3Fauto%3Dwebp%26s%3Dbe4479ff6e72f9832c75117831475c987918c2bb/https/preview.redd.it/gjwe6bdvrgf41.jpg?width=696&height=662"> -- Big Pharma - 1 </a>
 <a href="https://www.vox.com/2019/4/3/18293950/why-is-insulin-so-expensive"> - 2 </a>
-<br><a href="https://mises.org/wire/patent-and-penicillin"> -- Penicillin Patent </a>
-<br><a href="https://www.acs.org/content/acs/en/education/whatischemistry/landmarks/flemingpenicillin.html#wwii-penicillin-commercial-production"> -- Penicillin History </a>
-<br><a href="https://www.mobileworldlive.com/blog/penicillin-the-antidote-to-patent-wars/"> -- Penicillin Antidote to Patent Wars </a>
+<br><a href="https://mises.org/wire/patent-and-penicillin"> -- Penicillin Patent - 1 </a>
+<a href="https://www.acs.org/content/acs/en/education/whatischemistry/landmarks/flemingpenicillin.html#wwii-penicillin-commercial-production"> - 2 </a>
+<a href="https://www.mobileworldlive.com/blog/penicillin-the-antidote-to-patent-wars/"> - 3 </a>
 <br><a href="https://www.youtube.com/watch?v=Ytg23mDd1a4"> -- Hydrogen Car - 1 </a>
 <a href="https://www.digitaltrends.com/cars/hydrogen-cars/"> - 2 </a>
 <a href="https://www.youtube.com/watch?v=bYn2wAK-CYE"> - 3 </a>
@@ -147,7 +147,6 @@
 <br><a href="https://youtube.com/watch?v=IYkLVU5UGM8"> -- Video Games and Capitalism - 1 </a>
 <a href="https://www.youtube.com/watch?v=AL6F2E3sHVw"> - 2 </a>
 <br><a href="https://www.youtube.com/watch?v=lCvzAi0TEBw"> -- Private vs Personal Property </a>
-<br><a href="https://www.youtube.com/watch?v=4QKnrZmvlaA"> -- Art and Capital </a>
 <br><a href="https://theweek.com/speedreads/627278/florence-same-wealthiest-families-600-years"> -- Concentration of Wealth </a>
 <br><a href="https://www.youtube.com/watch?v=YKRBgCmgm-c"> -- The myth of Incentive Under Capitalism </a>
 <br><a href="https://www.youtube.com/watch?v=PWOcP-bXuO8"> -- The myth of Choice: How Junk-Food Marketers Target Our Kids </a>
@@ -168,6 +167,7 @@
 <a href="https://undergroundrailroadhistory.org/the-vocabulary-of-freedom/"> - 3 </a>
 <a href="https://www.nps.gov/subjects/ugrr/discover_history/terminology.htm"> - 4 </a>
 <a href="https://humantrafficking.einnews.com/"> - 5 </a>
+<br><a href="https://www.youtube.com/watch?v=4QKnrZmvlaA"> -- Art and Capital </a>
 <br><a href="https://player.fm/series/the-blindboy-podcast/abstract-art-and-the-cia"> -- Blindboy podcast: Abstract Art and the CIA </a>
 <br><a href="https://github.com/chobeat/awesome-critical-tech-reading-list"> -- Critical Tech Reading List </a>
 </p>
@@ -411,7 +411,7 @@
 <br><a href="https://github.com/dessalines/essays/blob/master/us_atrocities.md"> -- US Atrocities </a>
 <br><a href="https://gwydionwilliams.com/44-fascism-and-world-war-2/british-and-us-genocide/#_Toc61184876"> -- Western Imperialist Atrocities - 1 </a>
 <a href="https://www.globalresearch.ca/us-has-killed-more-than-20-million-people-in-37-victim-nations-since-world-war-ii/5492051"> - 2 </a>
-<br><a href="https://sputniknews.com/latam/201809101067895896-cuba-embargo-us-conflict/"> - Imperialist Sanctions - 1 </a>
+<br><a href="https://sputniknews.com/latam/201809101067895896-cuba-embargo-us-conflict/"> -- Imperialist Sanctions - 1 </a>
 <a href="https://www.aljazeera.com/indepth/features/2015/06/bloqeo-55-years-obstructing-cuban-people-150612090553160.html"> - 2 </a>
 <a href="https://money.cnn.com/2018/06/12/news/economy/north-korea-sanctions-explainer/index.html"> - 3 </a>
 <a href="https://edition.cnn.com/2018/08/06/middleeast/us-iran-sanctions-impact-intl/index.html"> - 4 </a>
@@ -447,7 +447,7 @@
 <br>
 <br><a href="https://www.marxists.org/reference/archive/stalin/works/1906/12/x01.htm"> -- Anarchism Or Socialism </a>
 <br><a href="https://cdn.discordapp.com/attachments/384045127649329153/425788308077936660/29425298_1930988963879968_5665848422259752960_o.png"> -- Anarchists </a>
-<br><a href="https://www.reddit.com/r/communism/comments/cewriu/masterpost_for_defending_socialism_against/"> - Anarchists (Response) - 1 </a>
+<br><a href="https://www.reddit.com/r/communism/comments/cewriu/masterpost_for_defending_socialism_against/"> -- Anarchists (Response) - 1 </a>
 <a href="https://www.youtube.com/watch?v=pAokAC2pZWg"> - 2 </a>
 <a href="https://www.youtube.com/watch?v=pST13gSh4fQ"> - 3 </a>
 <br><a href="https://old.reddit.com/r/DebateCommunism/comments/9ak0wo/whats_the_difference_between_communism_and/e4w0v9n/"> -- Ancoms - 1 </a>
@@ -666,6 +666,9 @@
 <a href="https://www.reddit.com/r/communism/comments/hsdb9n/information_on_muammar_algaddafi/"> - 3 </a>
 <br><a href="https://www.youtube.com/watch?v=mlz3-OzcExI"> -- Clinton on Gaddafi </a>
 <br><a href="https://www.youtube.com/watch?v=bUhZmO6P0NU"> -- Gaddafi Interview </a>
+<br><a href="https://cdn.discordapp.com/attachments/718179491452682260/736705281140195409/unknown.png"> - IRA - 1 </a>
+<a href="https://cdn.discordapp.com/attachments/718179491452682260/736706438461915176/troubles_deaths_by_status_organisation.png"> - 2 </a>
+<a href="https://www.irishcentral.com/roots/history/lord-mountbatten-pedophile-allegations"> - 3 </a>
 <br><a href="https://en.m.wikipedia.org/wiki/The_Killing$_of_Tony_Blair"> -- Iraq </a>
 <br><a href="https://theintercept.com/2020/06/08/the-nyt-admits-key-falsehoods-that-drove-last-years-coup-in-bolivia-falsehoods-peddled-by-the-u-s-its-media-and-the-nyt/"> -- Bolivia Coup - 1 </a>
 <a href="https://i.redd.it/hv9e74171i041.png"> - 2 </a>
@@ -700,7 +703,11 @@
 <br><a href="http://glenngreenwald.net/"> -- Glenn Greenwald </a>
 <br><a href="https://mobile.twitter.com/VforVentura2020/status/1286908551257104384"> -- Jesse Ventura </a>
 <br><a href="https://www.sott.net/article/387623-Deep-State-win-How-JFK-lost-his-fight-to-end-the-Cold-War"> -- JFK </a>
+<br><a href="https://mobile.twitter.com/_michaelbrooks/status/1247922099345330178"> -- Michael Brooks </a>
 <br><a href="https://thegrayzone.com/"> -- The Grayzone </a>
+<br><a href="https://www.codepink.org/"> -- COLDPINK </a>
+<br><a href="https://www.nocoldwar.org/"> -- No to the Cold War - 1 </a>
+<a href="https://www.youtube.com/watch?v=Zz_u-ejEcmQ"> - 2 </a>	
 </p>
 
 <h2 style="text-align:center;"> - DDR </h2>
@@ -1269,7 +1276,6 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="https://media.discordapp.net/attachments/717827541053866014/723530199689330688/FB_IMG_1592569118332.jpg?width=434&height=662"> -- Communists Throughout History </a>
 <a href="https://cdn.discordapp.com/attachments/384045127649329153/723526056723873792/Ea08iB0WkAIsk7a.png"> -- Mario and Luigi On Kulaks </a>
 <a href="https://cdn.discordapp.com/attachments/721427278826831954/725320613086101634/FB_IMG_1592999800551.jpg"> -- Obama </a>
-<br>
 <a href="https://cdn.discordapp.com/attachments/407345200969547777/724667405233684480/video0.mp4"> -- Trotsky Entering Makhnovia </a>
 <a href="https://cdn.discordapp.com/attachments/713439347830947992/724616433031708702/DbGyfLSUMAARRgD.png"> -- Victims of Communism Memorial Foundation (CIA) </a>
 <a href="https://i.redd.it/vpndefxx7y451.jpg"> -- Liberals Today </a>
@@ -1370,7 +1376,7 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="http://www.anti-flag.com/"> --- Anti-Flag </a>
 <a href="https://www.youtube.com/user/Rubberbandits"> -- Rubberbandits </a>
 <a href="https://www.youtube.com/watch?v=wESDtNmTW-8"> -- TPM </a>
-<a href="https://www.youtube.com/watch?v=1esFKNV_uA0"> -- New Dress (Depeche Mode) </a>
+<br><a href="https://www.youtube.com/watch?v=1esFKNV_uA0"> -- New Dress (Depeche Mode) </a>
 <a href="https://www.youtube.com/watch?v=bvKqGQf0L0c&app=desktop"> -- Fuck Capitalism </a>
 <a href="https://www.youtube.com/watch?v=pgAu5cCQXP0"> -- Bring Back The Guillotine by Lil Guillotine </a>
 </p>
