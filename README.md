@@ -265,7 +265,7 @@
 <br><a href="https://youtube.com/watch?v=OCCFQymA-jM"> -- "Workers, Don't Unite" </a>
 <br><a href="https://youtube.com/watch?v=39VhQOYodFA"> -- Socialism Must Be Your Horizon </a>
 <br><a href="https://www.youtube.com/watch?v=Okz2YMW1AwY"> -- Soviet Democracy - 1 </a>
-<br><a href="https://pbs.twimg.com/media/EdoxI9NWkAEZ91U?format=jpg&name=small"> - 2 </a>
+<a href="https://pbs.twimg.com/media/EdoxI9NWkAEZ91U?format=jpg&name=small"> - 2 </a>
 <br><a href="https://www.reddit.com/r/communism/comments/ehpdbp/masterpost_on_workers_control_and_democracy_in/"> -- Workers Control and Democracy in the Soviet Union </a>
 <br><a href="https://invidio.us/watch?v=IhznTWP5jdo****"> -- How To Improve Democracy </a>
 <br><a href="https://www.youtube.com/watch?v=6ipV7vxeANo"> -- "Surveillance Under Socialism" </a>
@@ -324,7 +324,6 @@
 <br><a href="https://www.youtube.com/watch?v=wflMmNTXqKk&app=desktop"> -- The Real Death Toll of Communism (From a Radlib Perspective) </a>
 <br><a href="https://www.youtube.com/watch?v=3b6ips6fXF0"> -- "If Socialism's So Good Why Do People Flee It?" </a>
 <br><a href="https://eurasiangeopolitics.com/ussr-maps/ussr-natgeo/#main"> -- Peoples of the Soviet Union </a>
-<br><a href="https://www.youtube.com/watch?v=fxF4HDscMsY&t=833s"> -- HG Well's, Stalin Interview </a>
 <br><a href="https://cdn.discordapp.com/attachments/717722858393960451/719539210742267934/main-qimg-b91d5e67759c6b4418444d3e41f858c5.png"> -- Molotov-Ribbentrop Pact </a>
 <br><a href="https://www.rbth.com/history/331039-ussr-britain-france-talks-wwii"> -- Why Didn't the USSR Join the Allies in 1939? </a>
 <br><a href="https://www.telegraph.co.uk/news/worldnews/europe/russia/3223834/Stalin-planned-to-send-a-million-troops-to-stop-Hitler-if-Britain-and-France-agreed-pact.html"> -- Stalin Planned To Send a Million Troops To Stop Hitler If Britain and France Agreed </a>
@@ -724,7 +723,7 @@
 <a href="https://archive.org/stream/HowDoPeopleLiveInTheGDR/How%20do%20people%20live%20in%20the%20GDR#page/n3/mode/2up"> -- Living Standards in the DDR </a>
 <br>
 <a href="https://www.youtube.com/watch?v=WzzQCTOlhNk"> -- DDR: Properous Workers State </a>
-<a href="https://www.telegraph.co.uk/expat/expatnews/6373531/Womens-love-lives-were-better-in-East-Germany-before-the-Berlin-Wall-fell.html"> -- Womens Love Lives Were Bettere in East Germany Before The Berlin Wall Fell
+<a href="https://www.telegraph.co.uk/expat/expatnews/6373531/Womens-love-lives-were-better-in-East-Germany-before-the-Berlin-Wall-fell.html"> -- Womens Love Lives Were Better in East Germany Before The Berlin Wall Fell
 <a href="https://www.youtube.com/watch?v=9cMccZG-dGc&has_verified=1"> -- Do Communists Have Better Sex? </a>
 <br>
 <a href="https://cdn.discordapp.com/attachments/440568844738625546/507102545198710784/HoneckerRevisionismusueb..de.en.pdf"> -- Revisionism of the Erich Honecker Clique </a>
@@ -752,8 +751,8 @@
 <a href="https://www.telesurtv.net/english/news/Dont-Believe-the-Hype-Why-the-US-Left-Should-Support-Venezuelas-Revolution-20170807-0009.html"> -- Why the Left Should Support Venezuela </a>
 <a href="https://www.youtube.com/watch?v=_fV-C1Ag5sI&feature=youtu.be"> -- Leftist Debunks John Oliver's Venezuela Episode </a>
 <br>
-<a href="https://threadreaderapp.com/thread/1088643721678209029.html"> -- Chavez Myths </a>
-<a href="https://threadreaderapp.com/thread/1088773841550221312.html"> -- Chavez Myths </a>
+<a href="https://threadreaderapp.com/thread/1088643721678209029.html"> -- Chavez Myths - 1 </a>
+<a href="https://threadreaderapp.com/thread/1088773841550221312.html"> - 2 </a>
 <a href="https://www.youtube.com/watch?v=GHc7yegaCmc"> -- Venezuelan Markets: Fact and Fiction </a>
 <br>
 <a href="https://truthout.org/articles/the-achievements-of-hugo-chavez/"> -- The Achievements of Hugo Chavez </a>
@@ -770,7 +769,7 @@
 <br>
 <a href="https://www.telesurtv.net/english/opinion/Differences-Between-Venezuela-Fighting-Corruption-and-the-US-20171104-0009.html"> -- Venezuelan vs American Fight On Corruption </a>
 <a href="https://mronline.org/2017/10/20/the-campaign-against-the-economic-war-and-corruption-in-venezuela/"> -- Campaign Against Corruption </a>
-<a href="https://www.telesurtv.net/english/news/Venezuela-Rehabilitates-Over-490000-Working-Class-Homes-20170902-0013.html"> -- Venezuela Rehabilitates Over 490,000 Working Class Homes </a>
+<br><a href="https://www.telesurtv.net/english/news/Venezuela-Rehabilitates-Over-490000-Working-Class-Homes-20170902-0013.html"> -- Venezuela Rehabilitates Over 490,000 Working Class Homes </a>
 <br>
 <a href="https://mronline.org/2017/08/25/a-review-of-u-s-media-coverage-on-venezuela/"> -- A Review of US Media Coverage On Venezuela </a>
 <a href="https://monthlyreview.org/2017/10/01/venezuelas-fragile-revolution/"> -- Venezuela's Fragile Revolution </a>
@@ -786,7 +785,7 @@
 <a href="https://www.ft.com/content/5f3084c6-ca03-11e7-ab18-7a9fb7d6163e"> -- Venezuela and Russia </a>
 <a href="https://www.telesurtv.net/english/news/Venezuela-and-China-Boost-Bilateral-Ties-Chide-US-Sanctions-20171220-0019.html"> -- Venezuela and China </a>
 <a href="https://www.youtube.com/watch?v=pJZl1bO8JQY&list=PLbnLysSug0vSKl_q8gwc2fD7m5peRxY0D"> -- Venezuela Documentary </a>
-<a href="http://www.foxnews.com/world/2010/07/18/socialism-private-sector-dominates-venezuelan-economy-despite-chavez-crusade.html"> -- Venezuela: Transitioning Towards Socialism </a>
+<br><a href="http://www.foxnews.com/world/2010/07/18/socialism-private-sector-dominates-venezuelan-economy-despite-chavez-crusade.html"> -- Venezuela: Transitioning Towards Socialism </a>
 <br>
 <a href="https://www.telesurtv.net/english/news/Economic-Sabotage-Venezuela-Dismantles-Network-Stealing-Medicine-and-Goods-20180607-0016.html"> -- Economic Sabotage </a>
 <a href="https://www.youtube.com/watch?v=ig6yFP8HjVQ"> -- US Funded Terrorists </a>
@@ -832,7 +831,7 @@
 <br>
 <a href="https://www.youtube.com/watch?v=Z8rnWIRrpW0"> -- Venezuelan Coup Fails and So Does CNN </a>
 <a href="https://www.youtube.com/watch?v=oAk5WUBuS6k"> -- Coup Foiled By the Venezuelan Working Class </a>
-<a href="https://www.youtube.com/watch?v=jiPI7atsGGQ"> -- US Coup in Venezuela Fails Again! </a>
+<br><a href="https://www.youtube.com/watch?v=jiPI7atsGGQ"> -- US Coup in Venezuela Fails Again! </a>
 </p>
 
 <h2 style="text-align:center;"> - Cuba </h2>
@@ -953,7 +952,7 @@
 <a href="https://mobile.twitter.com/mazzenilsson/status/1286824295839260673"> - 12 </a>
 <a href="https://mobile.twitter.com/Helenhs/status/1283813182709137408"> - 13 </a>
 <a href="https://www.youtube.com/watch?v=YeoRl3qedQE"> - 14 </a>
-<a href="https://qph.fs.quoracdn.net/main-qimg-510b9974978d5f962580406f247c1011"> -- US Bases Near China </a>
+<br><a href="https://qph.fs.quoracdn.net/main-qimg-510b9974978d5f962580406f247c1011"> -- US Bases Near China </a>
 <br>
 <a href="https://www.learningfromchina.net/china-is-most-promising-hope-for-third-world-fidel/"> -- Fidel On China </a>
 <a href="https://cdn.discordapp.com/attachments/704362078844223588/729817988727046204/deng_evaluation_1-2.png"> -- Deng - 1 </a>
@@ -972,8 +971,7 @@
 <a href="https://www.youtube.com/playlist?list=PLIuVy5356xnhT_sXylKTU4SHyM-vLz8Pt"> -- China Playlist </a>
 <a href="https://revolutionaryleftradio.libsyn.com/in-defense-of-china-as-a-socialist-state-w-ajit-singh"> -- In Defence of China as a Socialist State - 1 </a>
 <a href="https://medium.com/@rainershea612/china-is-capitalist-is-an-anti-marxist-position-to-take-cdf62e458ee0"> - 2 </a>
-<br>
-														
+<br>														
 <a href="https://imgur.com/j0GuZmA"> -- Chinese Democracy? - 1 </a>
 <a href="https://www.unz.com/article/selling-democracy-to-china/"> - 2 </a>
 <a href="https://old.reddit.com/r/Sino/wiki/faq/democracy"> - 3 </a>
@@ -996,7 +994,7 @@
 <a href="https://macropolo.org/analysis/members-only-recruitment-trends-in-the-chinese-communist-party/"> - 8 </a>
 <a href="https://communism.lemmy.ml/pictrs/image/thumbnail256/Gbc3uFTfFY.jpg"> - 9 </a>
 <a href="https://www.quora.com/How-did-Xi-Jinping-stop-corruption-and-change-China-for-the-better"> -- How Did Xi Stop Corruption and Change China For the Better? </a>
-<a href="https://www.quora.com/What-is-President-Xi-Jing-Pings-salary"> -- Xi Jinpings Salary </a>
+<a href="https://www.quora.com/What-is-President-Xi-Jing-Pings-salary"> -- Xi Jinping's Salary </a>
 </p>
 
 <h2 style="text-align:center;"> - DPRK </h2>
@@ -1010,7 +1008,7 @@
 <a href="https://leftistcritic.wordpress.com/2017/03/08/elections-in-the-socialist-motherland-democracy-in-the-dprk/"> -- DPRK Democracy </a>
 <a href="https://tjen-folket.no/index.php/en/2020/05/14/the-august-incident-the-fight-against-the-right-opportunist-line-in-the-workers-party-of-korea/"> -- WPK </a>
 <a href="https://www.youtube.com/watch?v=ktE_3PrJZO0&app=desktop"> -- DPRK "Defectors" </a>
-<a href="https://www.youtube.com/watch?v=6YtTd31I15g"> -- Homegrown Outcasts
+<br><a href="https://www.youtube.com/watch?v=6YtTd31I15g"> -- Homegrown Outcasts
 <a href="https://en.wikipedia.org/wiki/List_of_Western_Bloc_defectors"> -- Western Bloc Defectors </a>
 <br>
 <a href="https://www.scmp.com/week-asia/politics/article/3019439/secret-cia-files-reveal-plans-meddling-south-koreas-first"> -- CIA Meddling in South Korean Elections </a>
@@ -1018,7 +1016,7 @@
 <a href="https://en.wikipedia.org/wiki/Bodo_League_massacre"> -- Bodo League Massacre </a>
 <a href="http://www.medium.com/@w.aldrich/the-50-s-in-south-korea-what-happened-60f629ac3272"> -- 1950s Korea, What Happened </a>
 <a href="https://www.youtube.com/watch?v=9vuhi18fn7k"> -- ROK Kills Man Defecting to North </a>
-<a href="https://www.youtube.com/watch?v=nSd48emp0lI"> -- My Brothers and Sisters in the North Documentary </a>
+<br><a href="https://www.youtube.com/watch?v=nSd48emp0lI"> -- My Brothers and Sisters in the North Documentary </a>
 <br>
 <a href="https://www.quora.com/What-would-happen-if-North-Korea-and-South-Korea-reunited?share=1"> -- What Would happen if Korea Reunited? </a>
 <br>
@@ -1042,7 +1040,7 @@
 <br><a href="https://medium.com/@zackbreslin/the-irish-ruling-class-who-are-they-what-do-they-want-how-do-they-get-233290bcfca7"> -- Who Are the Irish Ruling Class and What Do They Want </a>
 <a href="https://www.youtube.com/watch?v=8sVyc9o8p2Q"> -- Housing Crisis - 1 </a>
 <a href="https://media.discordapp.net/attachments/717738815556419614/719722211212001330/unknown.png"> - 2 </a>
-<a href="http://aramarkproperty.ie/"> -- Housing  Crisis, But Not For the Few </a>
+<a href="http://aramarkproperty.ie/"> - But Not For the Few </a>
 <a href="https://twitter.com/i/status/1266064268853641219"> -- Black and Irish Struggle Similarities (80's) </a>
 <a href="https://www.facebook.com/risesocialists/videos/258676998755407/"> -- Offences Against the State Act - 1 </a>
 <a href="http://www.irishstatutebook.ie/eli/1939/act/13/section/30/enacted/en/html#:~:text=%E2%80%94(1)%20A%20member%20of,about%20to%20commit%20or%20being"> - 2 </a>
@@ -1057,13 +1055,14 @@
 <a href="https://www.theguardian.com/world/2019/nov/04/irish-pm-leo-varadkar-under-fire-for-extolling-benefits-of-climate-crisis"> -- FG "Science" </a>
 <a href="https://mobile.twitter.com/paddycosgrave/status/1272792731425923073"> -- FG Covid-19 Response </a>
 <a href="https://www.youtube.com/watch?v=PKTQqgckVz8"> -- My Lovely Leo </a>
-<a href="https://www.independent.ie/irish-news/courts/students-who-hacked-the-fine-gael-website-hand-over-5000-each-29643575.html"> -- Students Who Hacked FG Website </a>
+<a href="https://www.independent.ie/irish-news/courts/students-who-hacked-the-fine-gael-website-hand-over-5000-each-29643575.html"> -- FG Website </a>
 <br>
 <a href="https://twitter.com/i/status/1257990555423866880"> -- Green Party </a>
 <a href="https://mobile.twitter.com/mobrien1975/status/1257990555423866880?p=v"> -- Blueshirts On Bikes - 1 </a>
 <a href="https://cdn.discordapp.com/attachments/574959437131808790/726777704526905374/106113072_3096820853739634_8062789758823254852_n.jpg"> - 2 </a>
 <a href="https://cdn.discordapp.com/attachments/717827541053866014/726194760049754296/mmw796orob751.png"> -- FF </a>
 <a href="https://mobile.twitter.com/paulmurphy_TD/status/1272529506675326977"> -- FF/FG/Green Government </a>
+<br>
 <a href="https://twitter.com/ImperialistWl/status/1254014041267359749"> -- Sinn Fein </a>
 <a href="https://mobile.twitter.com/cbolgerr/status/1228695668111347715"> -- Sinn Fein "Mandate" To Govern? (2020 Election) </a>
 <br>
@@ -1081,7 +1080,7 @@
 <a href="https://cdn.discordapp.com/attachments/718179491452682260/732918023035551754/Ec9ZRjSXkAAkE3s.png"> -- Tax Haven </a>
 <a href="https://www.rte.ie/news/2018/1122/1012550-future_jobs_summit/"> -- Sand Economy </a>
 <a href="https://mobile.twitter.com/WSMIreland/status/1282222660647256065"> -- Fash </a>
-<a href="https://www.irishtimes.com/news/politics/pandemic-will-cause-divisive-inequality-varadkar-warns-1.4293005?mode=amp"> -- Varadker Warns About Coming Inequality </a>
+<a href="https://www.irishtimes.com/news/politics/pandemic-will-cause-divisive-inequality-varadkar-warns-1.4293005?mode=amp"> -- Varadkar Warns About Coming Inequality </a>
 <br>
 <br>*Irish Communism
 <br>
@@ -1091,9 +1090,9 @@
 <a href="https://www.youtube.com/watch?v=js0FR8GkBEo"> -- The Limerick Soviet </a>
 <a href="https://www.youtube.com/watch?v=QwcnvJmIOAo"> -- History of the Limerick Soviet </a>
 <br>
-<a href="https://mobile.twitter.com/ConnollyYM"> -- CYM Twitter </a> ; <a href="https://cym.ie/"> - CYM </a>
-<a href="https://mobile.twitter.com/irelandcp"> - CPI Twitter </a> ; <a href="https://communistpartyofireland.ie/stair-en.html"> - CPI </a>
-<a href="https://mobile.twitter.com/VoiceSocialist"> Socialist Voice Twitter </a>  ; <a href="https://socialistvoice.ie/"> - Socialist Voice </a>
+<a href="https://mobile.twitter.com/ConnollyYM"> -- CYM Twitter </a> : <a href="https://cym.ie/"> - CYM </a> :
+<a href="https://mobile.twitter.com/irelandcp"> - CPI Twitter </a> : <a href="https://communistpartyofireland.ie/stair-en.html"> - CPI </a> :
+<a href="https://mobile.twitter.com/VoiceSocialist"> Socialist Voice Twitter </a>  : <a href="https://socialistvoice.ie/"> - Socialist Voice </a> :
 <a href="https://mobile.twitter.com/ImperialistWl"> - IWI </a>
 <br>
 <a href="https://unitetheunion.org/what-we-do/unite-in-your-region/ireland/"> -- Unite the Union </a>
@@ -1116,7 +1115,7 @@
 <br><a href="https://archive.org/details/prolespodarchive/Early_Access_Ep_45_Ireland_and_the_CYM.mp3"> -- Ireland and the CYM </a>
 <br><a href="https://radicalreflections.podbean.com/e/conversations-with-the-connolly-youth-movement/"> -- Radical Reflections, CYM </a>
 <br><a href="https://radicalreflections.podbean.com/e/irish-election-analysis-our-road-to-socialism/"> -- Radical Reflections, Irish Election 2020: Analysis </a>
-<br><a href="https://www.youtube.com/watch?v=RIBxgyQ7CAI"> - CYM Speech - 1 </a>
+<br><a href="https://www.youtube.com/watch?v=RIBxgyQ7CAI"> -- CYM Speech - 1 </a>
 <a href="https://www.facebook.com/ConnollyYouth/posts/2289021411157556"> - 2 </a>
 <br><a href="https://www.facebook.com/177845365608515/videos/669737043571862/"> -- CYM Disruption of FG Meeting </a>
 </p>
@@ -1257,9 +1256,9 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="https://cdn.discordapp.com/attachments/384045127649329153/720306602481025024/fiJqQ-MucszJzQsv.mp4"> -- Mao </a>
 <a href="https://twitter.com/UserConspicuous/status/1270167910099685377"> -- Seto Kaiba </a>
 <a href="https://www.youtube.com/watch?v=sbD1XDhKr8U"> -- Liberals </a>
-<a href="https://youtu.be/jYcxvnh4YtM"> -- Malcolm X on Liberals </a>
-<br>	
+<a href="https://youtu.be/jYcxvnh4YtM"> -- Malcolm X on Liberals </a>	
 <a href="https://pbs.twimg.com/media/EaUij2SXgAIyAwN?format=jpg&name=900x900"> -- Orwell </a>
+<br>
 <a href="https://media.discordapp.net/attachments/397521616222814218/657402857414197249/image0.png"> -- All Roads Lead To Stalin </a>
 <a href="https://i.redd.it/034pgzqyfuy41.jpg"> -- Stalin </a>
 <a href="https://pbs.twimg.com/media/EaJJDchXgAAjKl4.jpg:small"> -- Laziness = Praxis </a>
@@ -1270,8 +1269,8 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="https://media.discordapp.net/attachments/717827541053866014/723530199689330688/FB_IMG_1592569118332.jpg?width=434&height=662"> -- Communists Throughout History </a>
 <a href="https://cdn.discordapp.com/attachments/384045127649329153/723526056723873792/Ea08iB0WkAIsk7a.png"> -- Mario and Luigi On Kulaks </a>
 <a href="https://cdn.discordapp.com/attachments/721427278826831954/725320613086101634/FB_IMG_1592999800551.jpg"> -- Obama </a>
-<a href="https://cdn.discordapp.com/attachments/407345200969547777/724667405233684480/video0.mp4"> -- Trotsky Entering Makhnovia </a>
 <br>
+<a href="https://cdn.discordapp.com/attachments/407345200969547777/724667405233684480/video0.mp4"> -- Trotsky Entering Makhnovia </a>
 <a href="https://cdn.discordapp.com/attachments/713439347830947992/724616433031708702/DbGyfLSUMAARRgD.png"> -- Victims of Communism Memorial Foundation (CIA) </a>
 <a href="https://i.redd.it/vpndefxx7y451.jpg"> -- Liberals Today </a>
 <a href="https://i.redd.it/dk5u4c4dx2051.png"> -- Yeltsin </a>
@@ -1324,7 +1323,7 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="https://youtu.be/gfK5cNNjXtg"> -- Capitalist Realism in Fallout </a>
 <a href="https://cdn.discordapp.com/attachments/717827541053866014/720315368601681940/IMG_20200610_150918.jpg"> -- Politics in Fallout Meme </a>
 <a href="https://www.youtube.com/watch?v=KUZa433M-8Q"> -- The Socialist Politics of Hideo Kojima </a>
-<a href="https://www.youtube.com/watch?v=ZNi34ahIhnM"> -- How COD Is CIA Propaganda </a>
+<br><a href="https://www.youtube.com/watch?v=ZNi34ahIhnM"> -- How COD Is CIA Propaganda </a>
 <br>
 <a href="https://www.youtube.com/channel/UCRwzzq8hVdFjcNw_I9wZrVQ"> -- Laborkyle </a>
 <a href="https://www.youtube.com/channel/UCcshwYnnTU-zGy9Ufv9N5UQ"> -- Left Left Up </a>
@@ -1343,7 +1342,7 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <br>
 <a href="https://www.youtube.com/watch?v=SWqvaMEFIdI"> -- George Lucas Talks About the Soviet Film Industry </a>
 <a href="https://nypost.com/2014/09/21/how-star-wars-was-secretly-george-lucas-protest-of-vietnam/"> -- George Lucas, Vietcong </a>
-<a href="https://www.youtube.com/watch?v=S33DKRcqvkQ"> -- Michael Parenti: Rambo and the Swarthy Hordes </a>
+<br><a href="https://www.youtube.com/watch?v=S33DKRcqvkQ"> -- Michael Parenti: Rambo and the Swarthy Hordes </a>
 <br>
 <a href="https://www.youtube.com/watch?v=VPnxdwLdd8g"> -- Bong Jo Ho - 1 </a>
 <a href="https://www.wired.co.uk/article/bong-joon-ho-okja"> - 2 </a>
@@ -1379,15 +1378,14 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <h2 style="text-align:center;"> - Extra Books </h2>
 <br>
 <p style="text-align:center;">
-<a href="https://www.reddit.com/r/socialism/comments/5929aw/ten_books_that_arent_about_communism_that_every/"> -- Ten Books that Aren't About Communism That Everyone Should Read </a>
+<br><a href="https://www.reddit.com/r/socialism/comments/5929aw/ten_books_that_arent_about_communism_that_every/"> -- Ten Books that Aren't About Communism That Everyone Should Read </a>
 <a href="https://jiminykrix.wordpress.com/2016/09/14/how-to-learn-everything-a-communist-ought-to-know-from-the-beginning/"> -- Extra Reading List - 1 </a>
 <a href="https://docs.google.com/document/d/1kwDGZFH2-jFr4xZ2ynxQkihYwIVh_uZlp1-Q73uXzso/mobilebasic"> - 2 </a>
-<br>
-<a href="https://www.goodreads.com/book/show/673719.Inventing_Reality"> -- Inventing Reality </a>
+<br><a href="https://www.goodreads.com/book/show/673719.Inventing_Reality"> -- Inventing Reality </a>
 <a href="https://markavery.info/books/inglorious-conflict-uplands-published-30-july/"> -- Mark Avery, Inglorious </a>
 <a href="https://bob-berzins.co.uk/"> -- Bob Berzins </a>
 <a href="https://www.goodreads.com/book/show/38914131-the-people-s-republic-of-walmart"> -- People's Republic of Wal-Mart </a>
-<a href="http://piketty.pse.ens.fr/en/capital21c2"> -- Thomas Piketty, Capital in the 21st Century </a>
+<br><a href="http://piketty.pse.ens.fr/en/capital21c2"> -- Thomas Piketty, Capital in the 21st Century </a>
 </p>
 
 <h2 style="text-align:center;"> - Subreddits </h2>
@@ -1486,7 +1484,7 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="https://mobile.twitter.com/SouthpawPod"> -- Southpaw Podcast </a>
 <a href="https://anchor.fm/leftinside/episodes/"> -- Left Inside Podcast </a>
 <a href="https://player.fm/series/i4c-trouble-with-daly-and-wallace"> -- I4C </a>
-<a href="https://www.youtube.com/user/ConnollyMediaGroup"> -- Spark Podcast </a>
+<a href="https://www.youtube.com/user/ConnollyMediaGroup"> -- The Irish Spark Podcast </a>
 </p>
 
 <h2 style="text-align:center;"> - Feel Good </h2>
