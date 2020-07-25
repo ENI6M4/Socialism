@@ -64,7 +64,8 @@
 <br><a href="https://jackrasmus.com/2019/12/22/on-those-questionable-wage-increase-statistics-again/"> -- Wage "Increases" </a>
 <br><a href="https://i.imgur.com/nRbFESB.png"> -- Productivity vs Wage Increases Visualised" </a>
 <br><a href="https://www.zmescience.com/science/minimum-wage-suicide-link-04233/"> -- Minimum Wage </a>
-<br><a href="https://www.reddit.com/r/socialism/comments/1pqvtr/who_are_the_capitalists/"> -- Who Are the Capitalists </a>
+<br><a href="https://www.reddit.com/r/socialism/comments/1pqvtr/who_are_the_capitalists/"> -- Who Are the Capitalists - 1 </a>
+<a href="https://www.reddit.com/r/communism/comments/hwq4of/shit_the_bourgeoisie_says_quotes_which_reveal_the/"> - 2 </a>
 <br>
 <br><a href="https://www.youtube.com/watch?v=cUZDAk_V7iM"> -- Consumerism Exposed </a>
 <br><a href="https://www.youtube.com/watch?v=kNovwPIWr3Q"> -- Why Americans Eat Dessert For Breakfast </a>
@@ -79,7 +80,8 @@
 <br><a href="https://www.youtube.com/watch?v=dmLTLkCBSN8"> -- Self Help </a>
 <br><a href="https://pbs.twimg.com/media/EMudRUXWoAEMYho.jpg:small"> -- "Hustle" Culture is a Scam </a>
 <br><a href="https://jacobinmag.com/2020/03/coronavirus-covid-tech-firms-telehealth/"> -- Research Hoarding </a>
-<br><a href="https://www.youtube.com/watch?v=hIXhnWUmMvw"> -- Surveillance capitalism </a>
+<br><a href="https://www.youtube.com/watch?v=hIXhnWUmMvw"> -- Surveillance Capitalism </a>
+<br><a href="https://www.youtube.com/watch?v=HRujdkMzUl8&app=desktop"> -- Capitalism and Propaganda </a>
 <br>
 <br><a href="https://cdn.discordapp.com/attachments/384045188592566279/718957346595930112/D80fWmi.jpg"> -- Science and Liberalism/Fascism </a>
 <br><a href="https://invidio.us/watch?v=JkMvm_rsTvI"> -- How Capitalism Hinders Science </a>
@@ -158,6 +160,11 @@
 <br><a href="https://graphitepublications.com/collectively-learned-individualism/"> -- Individualism vs Collectivism </a>
 <br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xngYjP604681TbMwqwPdbn-B"> -- Education For the Right </a>
 <br><a href="https://pastebin.com/raw/gKXZX3UC"> -- Adam Smith </a>
+<br><ah ref="https://www.forbes.com/sites/hbsworkingknowledge/2017/05/03/the-clear-connection-between-slavery-and-american-capitalism/"> -- Slavery - 1 </a>
+<a href="https://en.m.wikipedia.org/wiki/Drapetomania"> - 2 </a>
+<a href="https://undergroundrailroadhistory.org/the-vocabulary-of-freedom/"> - 3 </a>
+<a href="https://www.nps.gov/subjects/ugrr/discover_history/terminology.htm"> - 4 </a>
+<a href="https://humantrafficking.einnews.com/"> - 5 </a>
 <br><a href="https://player.fm/series/the-blindboy-podcast/abstract-art-and-the-cia"> -- Blindboy podcast: Abstract Art and the CIA </a>
 <br><a href="https://github.com/chobeat/awesome-critical-tech-reading-list"> -- Critical Tech Reading List </a>
 </p>
@@ -229,8 +236,12 @@
 <br><a href="https://pastebin.com/NuT4YCDr"> -- Socialism Introduction *Masterpost </a>
 <br><a href="https://www.exponentialimprovement.com/cms/uploads/Einstein%20on%20Why%20Socialism.pdf"> -- Einstein, Why Socialism </a>
 <br><a href="https://www.reddit.com/r/communism/comments/ehpdbp/masterpost_on_workers_control_and_democracy_in/"> -- Workers Control and Democracy in the Workplace *Masterpost </a>
-<br><a href="https://www.reddit.com/r/communism/wiki/debunk"> -- Debunk *Masterpost </a>
-<br><a href="https://redd.it/wisiw"> -- Basic ML Study Plan *Masterpost </a>
+<br><a href="https://www.reddit.com/r/communism/wiki/debunk"> -- Debunk *Masterpost - 1 </a>
+<a href="https://leftypedia.org/wiki/User:Anarcho-Bolshevik/compendium#The_Nazis_were_socialists.2C_communists_or_leftists"> - 2 </a>
+<a href="https://communism.lemmy.ml/post/1018"> - 3 </a>
+<br><a href="https://redd.it/wisiw"> -- Basic ML Study Plan *Masterpost - 1 </a>
+<a href="https://communism.lemmy.ml/post/6319"> - 2 </a>
+<a href="https://dialecticalartist.wordpress.com/politicalresources/"> - 3 </a>
 <br><a href="https://np.reddit.com/r/communism101/comments/b4ozfe/any_media_recommendations_for_someone_willing_to/ej8lx91/"> -- Media Recommendations </a>
 <br>
 <br><a href="https://www.youtube.com/watch?v=kyepUAtHAL4"> -- Richard Wolff, Labour Theory of Value </a>
@@ -405,11 +416,13 @@
 <br><a href="https://qph.fs.quoracdn.net/main-qimg-31c8058064fa343c930c7909ca9f4ad3"> -- Ignorance </a>
 <br><a href="https://www.youtube.com/watch?v=J3hFfbIXpg4"> -- Astroturfing - 1 </a>
 <a href="https://mobile.twitter.com/jeremyscahill/status/1251877070621290496"> - 2 </a>
+<a href="https://www.epw.in/journal/1998/12/reviews-uncategorised/debunking-malthusianism.html"> -- Malthusianism </a>
 <br><a href="https://www.youtube.com/watch?v=mYX7koMKkPY"> -- The Making of a "Human Rights Activist" (CIA) </a>
 <br><a href="https://pbs.twimg.com/media/EbbK695XgAAdbXi?format=jpg&name=4096x4096"> -- Fossil Fuel Dependence </a>
 <br>
 <br><a href="https://youtube.com/watch?v=OCCFQymA-jM"> -- "Workers, Don't Unite" </a>
-<br><a href="https://www.youtube.com/watch?v=NK1tfkESPVY&app=desktop"> -- Central Intelligence Agency </a>
+<br><a href="https://www.youtube.com/watch?v=NK1tfkESPVY&app=desktop"> -- Central Intelligence Agency - 1 </a>
+<a href="https://communism.lemmy.ml/post/6280"> - 2 </a>
 <br><a href="https://www.youtube.com/watch?v=4BG0VdanUTs"> -- More Millenials Should Be Socialists </a>
 <br><a href="https://en.wikipedia.org/wiki/Congress_for_Cultural_Freedom"> -- Congress For Cultural Freedom </a>
 <br><a href="https://en.wikipedia.org/wiki/COINTELPRO"> -- COINTELPRO - 1 </a>
@@ -583,7 +596,8 @@
 <br><a href="https://youtu.be/MWuhySl8wjU"> -- What is Race? </a>
 <br><a href="https://youtube.com/watch?v=2ExvEkumLZA"> -- Where Do Your Ancestors Come From? </a>
 <br><a href="https://www.youtube.com/watch?v=vD-c3vl4dXU"> -- Capitalism and Migrants </a>
-<br><a href="https://www.youtube.com/watch?v=lKBfIL90aHE"> -- Immigrants DO NOT Cause Wage Suppression </a>
+<br><a href="https://www.youtube.com/watch?v=lKBfIL90aHE"> -- Immigrants DO NOT Cause Wage Suppression - 1 </a>
+<a href="https://www.youtube.com/watch?v=T2zJjJJh_tU&app=desktop"> - 2 </a>
 <br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xnjIwrr2YytHT15ktW5-s2h3"> -- Immigration </a>
 <br><a href="https://preview.redd.it/6bphgv5de0y41.jpg?width=640&crop=smart&auto=webp&s=d0f4bcf89d34f9810e043072880d1d8b654195cf"> -- White Majority America? </a>
 <br><a href="https://101.visualizingpalestine.org/visuals/zionist-colonization-palestine"> -- Palestine </a>
@@ -650,6 +664,7 @@
 <br><a href="https://theintercept.com/2020/06/08/the-nyt-admits-key-falsehoods-that-drove-last-years-coup-in-bolivia-falsehoods-peddled-by-the-u-s-its-media-and-the-nyt/"> -- Bolivia Coup - 1 </a>
 <a href="https://i.redd.it/hv9e74171i041.png"> - 2 </a>
 <a href="https://i.redd.it/0t2dbby6k6y31.png"> - 3 </a>
+<a href="https://mobile.twitter.com/commieflavus/status/1282588339984568320"> - 4 </a>
 <br><a href="https://mobile.twitter.com/BrianMteleSUR/status/1278337380458483717"> -- Lula Deposition </a>
 <br><a href="https://www.pbs.org/newshour/show/stretch-north-dakota-highway-witnesses-oils-boom-bust"> -- North Dakota and Boom Bust </a>
 <br><a href="https://www.youtube.com/watch?v=elNKZ4niERY"> -- Israeli Annexations </a>
@@ -870,7 +885,8 @@
 <a href="https://observers.france24.com/en/20200103-how-fake-images-uighur-persecution-are-hurting-cause"> - 7 </a>
 <a href="https://www.youtube.com/watch?v=Wb-MNi8E-TA&app=desktop"> -- Re-education Camps </a>
 <a href="https://thediplomat.com/2016/08/chinas-nightmare-xinjiang-jihadists-go-global/"> -- Islamic Extremism </a>
-<a href="https://mobile.twitter.com/gobloid3/status/1281404596922060800"> -- Adrian Zenz </a>
+<a href="https://mobile.twitter.com/gobloid3/status/1281404596922060800"> -- Adrian Zenz - 1 </a>
+<a href="https://mobile.twitter.com/Truth2Upeople/status/1286194974657191937"> - 2 </a>
 <br>
 <a href="https://twitter.com/Juliet_y_Sierra/status/1258742834632560640?s=20"> -- China Today - 1 </a>
 <a href="https://labouraffairsmagazine.com/problems-magazine-past-issues/post-liberalism/chinese-politics-working-well/"> - 2 </a>
@@ -999,7 +1015,8 @@
 <a href="https://twitter.com/Meddle98/status/1254098813620543494"> - 3 </a>
 <a href="https://cdn.discordapp.com/attachments/575238909575954432/703706657649328210/EWeKohLWAAAXd_g.png"> - 4 </a>
 <a href="https://mobile.twitter.com/KoekkoekJessica/status/1268842884985311232"> -- American Hypocrisy </a>
-<a href="https://cdn.discordapp.com/attachments/575238909575954432/703706932980088902/kim-jong-un-looking-at-video-game.png"> -- Kim Response </a>
+<a href="https://mobile.twitter.com/soiveid/status/1286475402865672195"> -- Kim Response - 1 </a>	
+<a href="https://cdn.discordapp.com/attachments/575238909575954432/703706932980088902/kim-jong-un-looking-at-video-game.png"> - 2 </a>
 </p>
 
 <h2 style="text-align:center;"> - Ireland (Neo-Liberal) </h2>
@@ -1340,6 +1357,7 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="https://www.youtube.com/user/Rubberbandits"> -- Rubberbandits </a>
 <a href="https://www.youtube.com/watch?v=wESDtNmTW-8"> -- TPM </a>
 <a href="https://www.youtube.com/watch?v=1esFKNV_uA0"> -- New Dress (Depeche Mode) </a>
+<a href="https://www.youtube.com/watch?v=bvKqGQf0L0c&app=desktop"> -- Fuck Capitalism </a>
 <a href="https://www.youtube.com/watch?v=pgAu5cCQXP0"> -- Bring Back The Guillotine by Lil Guillotine </a>
 </p>
 
@@ -1347,7 +1365,8 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <br>
 <p style="text-align:center;">
 <a href="https://www.reddit.com/r/socialism/comments/5929aw/ten_books_that_arent_about_communism_that_every/"> -- Ten Books that Aren't About Communism That Everyone Should Read </a>
-<a href="https://jiminykrix.wordpress.com/2016/09/14/how-to-learn-everything-a-communist-ought-to-know-from-the-beginning/"> -- Extra Reading List </a>
+<a href="https://jiminykrix.wordpress.com/2016/09/14/how-to-learn-everything-a-communist-ought-to-know-from-the-beginning/"> -- Extra Reading List - 1 </a>
+<a href="https://docs.google.com/document/d/1kwDGZFH2-jFr4xZ2ynxQkihYwIVh_uZlp1-Q73uXzso/mobilebasic"> - 2 </a>
 <br>
 <a href="https://www.goodreads.com/book/show/673719.Inventing_Reality"> -- Inventing Reality </a>
 <a href="https://markavery.info/books/inglorious-conflict-uplands-published-30-july/"> -- Mark Avery, Inglorious </a>
@@ -1468,6 +1487,7 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <br><a href="https://www.youtube.com/watch?v=Ffmg6i0lv_k"> -- Importance of Education </a>
 <br><a href="https://www.youtube.com/playlist?list=PLwGzY25TNHPC_SsXFcIH-ba0nWuNbHOM6"> -- Soviet Storm (Documentary Series) </a>
 <br><a href="https://www.youtube.com/watch?v=QnMjW8hCFB8"> -- Evo Morales "The Unity of the People Will Be the Defeat of the Empire" </a>
+<br><a href="https://www.youtube.com/watch?v=dqB-EMqpsUA"> -- We Need Communism </a>
 <br><a href="https://se7en.ws/the-us-army-is-losing-the-war-in-discord/?lang=en"> -- US Army Discord Beaten Back </a>
 <br><a href="https://communism.lemmy.ml/post/4808"> -- Lemmy (Communist Reddit) </a>
 <br><a href="https://arstechnica.com/information-technology/2020/07/the-remote-british-village-that-built-one-of-the-uks-fastest-internet-networks/3/"> -- Community Self-Development </a>
