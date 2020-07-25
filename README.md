@@ -162,7 +162,7 @@
 <br><a href="https://graphitepublications.com/collectively-learned-individualism/"> -- Individualism vs Collectivism </a>
 <br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xngYjP604681TbMwqwPdbn-B"> -- Education For the Right </a>
 <br><a href="https://pastebin.com/raw/gKXZX3UC"> -- Adam Smith </a>
-<br><ah ref="https://www.forbes.com/sites/hbsworkingknowledge/2017/05/03/the-clear-connection-between-slavery-and-american-capitalism/"> -- Slavery - 1 </a>
+<br><a href="https://www.forbes.com/sites/hbsworkingknowledge/2017/05/03/the-clear-connection-between-slavery-and-american-capitalism/"> -- Slavery - 1 </a>
 <a href="https://en.m.wikipedia.org/wiki/Drapetomania"> - 2 </a>
 <a href="https://undergroundrailroadhistory.org/the-vocabulary-of-freedom/"> - 3 </a>
 <a href="https://www.nps.gov/subjects/ugrr/discover_history/terminology.htm"> - 4 </a>
@@ -1483,6 +1483,7 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="https://mobile.twitter.com/SouthpawPod"> -- Southpaw Podcast </a>
 <a href="https://anchor.fm/leftinside/episodes/"> -- Left Inside Podcast </a>
 <a href="https://player.fm/series/i4c-trouble-with-daly-and-wallace"> -- I4C </a>
+<a href="https://www.youtube.com/user/ConnollyMediaGroup"> -- Spark Podcast </a>
 </p>
 
 <h2 style="text-align:center;"> - Feel Good </h2>
