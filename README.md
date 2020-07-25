@@ -596,6 +596,8 @@
 <br><a href="https://theintercept.com/2020/07/15/george-floyd-protests-police-far-right-antifa/"> -- "System Threat" </a>
 <br><a href="https://www.youtube.com/watch?v=7G17Qf5nrLw"> -- The Truth About Nationalism </a>
 <br><a href="https://www.youtube.com/watch?v=cXZ6BZzQeCQ"> -- What is white Supremacy? </a>
+<br><a href="https://www.youtube.com/watch?v=ONQukwNWN2U"> -- White South African Farmer Murders? - 1 </a>
+<a href="https://www.youtube.com/watch?v=VZkUeZI8VtY"> - 2 </a>	
 <br><a href="https://www.youtube.com/watch?v=j4pZLH9Ro54"> -- Identity Politics Divides the Left? </a>
 <br><a href="https://youtu.be/MWuhySl8wjU"> -- What is Race? </a>
 <br><a href="https://youtube.com/watch?v=2ExvEkumLZA"> -- Where Do Your Ancestors Come From? </a>
