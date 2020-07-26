@@ -100,7 +100,7 @@
 <a href="https://www.youtube.com/watch?v=AM9BjL3SkrE"> - 2 </a>
 <a href="https://www.washingtonpost.com/business/economy/this-miracle-weed-killer-was-supposed-to-save-farms-instead-its-devastating-them/2017/08/29/33a21a56-88e3-11e7-961d-2f373b3977ee_story.html"> - 3 </a>
 <a href="https://www.theguardian.com/business/2018/jul/09/monsanto-trial-roundup-weedkiller-cancer-dewayne-johnson"> - 4 </a>
-<br><a href="https://www.greenmedinfo.com/blog/breaking-glyphosate-roundup-carcinogenic-parts-trillion-range"> - 5 </a>
+<a href="https://www.greenmedinfo.com/blog/breaking-glyphosate-roundup-carcinogenic-parts-trillion-range"> - 5 </a>
 <br><a href="https://www.cnet.com/news/stephen-hawking-says-we-should-be-more-frightened-of-capitalism-than-robots/"> -- Stephen Hawking on Future of Capitalism </a>
 <br><a href="https://cdn.discordapp.com/attachments/266261760556662784/660939106108440589/BillHates.png"> -- Microsoft "Innovation" </a>
 <br><a href="https://cdn.discordapp.com/attachments/721041141210022029/731620401830035516/standards.png"> -- Proliferation of Standards </a>
