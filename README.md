@@ -704,6 +704,7 @@
 <br><a href="https://socialistresurgence.org/2020/07/14/french-imperialisms-quagmire-in-africa/"> -- French Imperialism in Africa </a>
 <br><a href="http://www.japansubculture.com/how-the-cia-helped-put-the-yakuza-and-the-ldp-in-power/"> -- Japan - 1 </a>
 <a href="https://qph.fs.quoracdn.net/main-qimg-c3ea65667505103399d61aa36cb9125e"> - 2 </a>
+<br><a href="https://cdn.discordapp.com/attachments/698637770062823445/737019473336467487/unknown.png"> -- Russia </a>
 <br><a href="https://www.youtube.com/watch?v=YQr0NwfE0DA"> -- India - 1 </a>
 <a href="https://www.youtube.com/watch?v=sdTK4PGEhKk"> - 2 </a>	
 <br><a href="https://www.redspark.nu/en/peoples-war/nepal/are-the-maoists-rising-again-in-nepal/"> -- Nepal </a>
