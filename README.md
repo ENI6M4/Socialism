@@ -96,6 +96,11 @@
 <br><a href="https://www.youtube.com/watch?v=Ytg23mDd1a4"> -- Hydrogen Car - 1 </a>
 <a href="https://www.digitaltrends.com/cars/hydrogen-cars/"> - 2 </a>
 <a href="https://www.youtube.com/watch?v=bYn2wAK-CYE"> - 3 </a>
+<br><a href="https://www.theguardian.com/commentisfree/2017/aug/23/bayer-monsanto-merger-agricultural-control-farming"> -- Weedkiller - 1 </a>
+<a href="https://www.youtube.com/watch?v=AM9BjL3SkrE"> - 2 </a>
+<a href="https://www.washingtonpost.com/business/economy/this-miracle-weed-killer-was-supposed-to-save-farms-instead-its-devastating-them/2017/08/29/33a21a56-88e3-11e7-961d-2f373b3977ee_story.html"> - 3 </a>
+<a href="https://www.theguardian.com/business/2018/jul/09/monsanto-trial-roundup-weedkiller-cancer-dewayne-johnson"> - 4 </a>
+<br><a href="https://www.greenmedinfo.com/blog/breaking-glyphosate-roundup-carcinogenic-parts-trillion-range"> - 5 </a>
 <br><a href="https://www.cnet.com/news/stephen-hawking-says-we-should-be-more-frightened-of-capitalism-than-robots/"> -- Stephen Hawking on Future of Capitalism </a>
 <br><a href="https://cdn.discordapp.com/attachments/266261760556662784/660939106108440589/BillHates.png"> -- Microsoft "Innovation" </a>
 <br><a href="https://cdn.discordapp.com/attachments/721041141210022029/731620401830035516/standards.png"> -- Proliferation of Standards </a>
@@ -200,7 +205,8 @@
 <br><a href="https://www.youtube.com/playlist?list=PLbnLysSug0vQ5qdifZ4N0CzrYyal4RQ8S"> -- Social democracy? (Playlist) </a>
 <br><a href="https://www.reddit.com/r/communism/comments/duk2yy/the_problem_with_democratic_socialism_in_related/"> -- Democratic Socialism? - 1 </a>
 <a href="https://www.reddit.com/r/communism/comments/fgr1aw/how_many_elections_will_it_take_for_social/"> - 2 </a>
-<a href="https://www.reddit.com/r/communism/comments/c2cfwr/how_social_democrats_like_sanders_are_pacifying/"> - 3 </a>	
+<a href="https://www.reddit.com/r/communism/comments/c2cfwr/how_social_democrats_like_sanders_are_pacifying/"> - 3 </a>
+<a href="https://en.wikipedia.org/wiki/Roter_Frontk%C3%A4mpferbund"> - 4 </a>
 <br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xnja3ZyAd2mN_3E7lse9B4XV"> -- UBI? </a>
 <br><a href="https://www.youtube.com/watch?v=7i_f4Kbpgn4"> -- Artificial Intelligence - 1 </a>
 <a href="https://www.youtube.com/watch?v=FCtBL621MDs"> - 2 </a>	
@@ -424,7 +430,8 @@
 <br><a href="https://qph.fs.quoracdn.net/main-qimg-31c8058064fa343c930c7909ca9f4ad3"> -- Ignorance </a>
 <br><a href="https://www.youtube.com/watch?v=J3hFfbIXpg4"> -- Astroturfing - 1 </a>
 <a href="https://mobile.twitter.com/jeremyscahill/status/1251877070621290496"> - 2 </a>
-<br><a href="https://www.epw.in/journal/1998/12/reviews-uncategorised/debunking-malthusianism.html"> -- Malthusianism </a>
+<br><a href="https://www.epw.in/journal/1998/12/reviews-uncategorised/debunking-malthusianism.html"> -- Malthusianism - 1 </a>
+<a href="https://critiqueofcrisistheory.wordpress.com/the-current-industrial-cycle-pt-1/"> - 2 </a>
 <br><a href="https://www.youtube.com/watch?v=mYX7koMKkPY"> -- The Making of a "Human Rights Activist" (CIA) </a>
 <br><a href="https://pbs.twimg.com/media/EbbK695XgAAdbXi?format=jpg&name=4096x4096"> -- Fossil Fuel Dependence </a>
 <br>
@@ -483,7 +490,8 @@
 <br><a href="https://redd.it/gvdg5s"> -- Minneapolis vs Hong Kong </a>
 <br><a href="https://www.reddit.com/r/socialism/comments/guov1o/my_take_on_the_acab_movement/"> -- ACAB Explained </a>
 <br><a href="https://github.com/2020PB/police-brutality"> -- Police Brutality - 1 </a>
-<a href="https://www.reddit.com/r/socialism/comments/hpi0at/mods_from_rnews_deleted_this_comment_containing/"> - 2 </a>
+<a href="https://docs.google.com/document/d/1nkjYahyJt5gGN6AtoGIkidSAVdxqry-xOsNH-ordLc4/edit"> - 2 </a>
+<a href="https://www.reddit.com/r/socialism/comments/hpi0at/mods_from_rnews_deleted_this_comment_containing/"> - 3 </a>
 <br><a href="https://github.com/dessalines/killed-by-police-frontend"> -- Killed By Police Frontend </a>
 <br><a href="https://dev.lemmy.ml/post/34341"> -- Ongoing Protests (15GB) </a>
 <br><a href="https://cdn.discordapp.com/attachments/449335833816858624/715456319154290698/17d41e7.jpg"> -- American Cops Running Out of Ammo </a>
@@ -681,6 +689,7 @@
 <a href="https://www.irishcentral.com/roots/history/lord-mountbatten-pedophile-allegations"> - 3 </a>
 <br><a href="https://docs.google.com/document/d/1qRhDL3cwYJJRdRQ6hqf_LawSyG8DgW34C3R4Oe3D2gw/edit"> - Syria </a>
 <br><a href="https://en.m.wikipedia.org/wiki/The_Killing$_of_Tony_Blair"> -- Iraq </a>
+<br><a href="https://docs.google.com/document/d/1Kr59KOwA9OunE_z7HZi2wbI6vFvcp2tJql61LLw9oQc/edit"> -- Iran </a>
 <br><a href="https://theintercept.com/2020/06/08/the-nyt-admits-key-falsehoods-that-drove-last-years-coup-in-bolivia-falsehoods-peddled-by-the-u-s-its-media-and-the-nyt/"> -- Bolivia Coup - 1 </a>
 <a href="https://i.redd.it/hv9e74171i041.png"> - 2 </a>
 <a href="https://i.redd.it/0t2dbby6k6y31.png"> - 3 </a>
@@ -884,7 +893,8 @@
 <h2 style="text-align:center;"> - China </h2>
 <br>
 <p style="text-align:center;">
-<a href="https://docs.google.com/document/d/16iw83noTdWvDiECaITX83rGhP_lros8QdBTrNnCoe6c/edit#"> -- Myths About China Debunked *Masterpost </a>
+<a href="https://docs.google.com/document/d/16iw83noTdWvDiECaITX83rGhP_lros8QdBTrNnCoe6c/edit#"> -- Myths About China Debunked *Masterpost - 1 </a>
+<a href="https://www.reddit.com/r/sino/wiki/fakenews-china#wiki_fake_news_.26amp.3B_myths_about_china_debunked"> - 2 </a>
 <a href="https://cym.ie/education/#china"> -- China *Masterpost </a>
 <a href="https://www.quora.com/How-did-Mao-manage-to-kill-78-million-people/answer/Godfree-Roberts"> -- Mao - 1 </a>
 <a href="https://labouraffairsmagazine.com/recent-issues/2019-11-magazine/2019-11/"> - 2 </a>
@@ -899,8 +909,10 @@
 <br>
 <a href="https://www.youtube.com/watch?v=sqPI8xlnrwg"> -- Tianamen Square - 1 </a>
 <a href="https://www.unz.com/article/tiananmen-square-1989-revisited/"> - 2 </a>
-<a href="https://www.youtube.com/watch?v=b-nl0Hklwvg"> -- Hong Kong Protests? - 1 </a>
-<a href="https://www.newsweek.com/exclusive-more-hong-kong-say-us-threat-china-poll-1519710"> - 2 </a>
+<a href="https://docs.google.com/document/d/1Ldfuoep60hJUmxBpyuhCggJLqGaX2n7YjroyXE-PxqA/edit"> -- Hong Kong Protests? - 1 </a>
+<a href="https://www.youtube.com/watch?v=b-nl0Hklwvg"> - 2 </a>
+<a href="https://freehker.github.io/index.html"> - 3 </a>
+<a href="https://www.newsweek.com/exclusive-more-hong-kong-say-us-threat-china-poll-1519710"> - 4 </a>
 <a href="https://www.scmp.com/comment/opinion/article/3091438/us-has-been-exposed-funding-last-years-hong-kong-protests#click=https://t.co/DRlt1Y2FLu"> - US Funding </a>
 <br>
 	
@@ -1458,6 +1470,8 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 
 <h2 style="text-align:center;"> - Youtubers </h2>
 <br>
+<br><a href="https://docs.google.com/document/d/1DX5FjAgrv4rNxGEN_u4RaSfpKeCSRj6M1eXfbiElHQ0/edit"> -- Good Youtubers </a>
+<br>
 <p>
 <a href="https://www.youtube.com/channel/UCl_A_42M6kvjH8Gr-rwfCUw"> -- Spooky Scary Socialist </a>
 <a href="https://www.youtube.com/channel/UCpBRZBzWQ_cCc_9zKG08L-g"> -- Paul Morrin </a>
@@ -1536,6 +1550,7 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="https://www.youtube.com/watch?v=T28wI-AdCpM"> - 2 </a>
 <br><a href="https://www.sciencedirect.com/topics/neuroscience/cybernetics"> -- Cybernetics </a>
 <br><a href="https://en.wikipedia.org/wiki/OGAS"> -- OGAS </a>
+<br><a href="https://www.youtube.com/watch?v=pUDIPpawd0s"> -- Computing Behind the Iron Curtain </a>
 <br><a href="https://en.wikipedia.org/wiki/Antonov_An-225_Mriya"> -- Antonov An-225 Mriya </a>
 <br><a href="https://www.msn.com/en-gb/news/other/worlds-largest-plane-lands-at-irish-airport-to-deliver-ppe-to-combat-covid-19/vi-BB15ukRW"> -- Largest Plane Lands at Shannon Airport To Deliver PPE (From China) </a>
 <br><a href="https://www.youtube.com/watch?v=DIFvYHBGtmE"> -- 10 Soviet Union Engineering Achievements </a>
