@@ -195,10 +195,15 @@
 <br><a href="https://jacobinmag.com/2020/03/green-new-deal-politics-consumption/"> -- Green New Deal? </a>
 <br>
 <br><a href="https://cdn.discordapp.com/attachments/717722858393960451/719590643692994634/EZEBllSXgAU1wLs.png"> -- Enlightened Centrism? </a>
-<br><a href="https://t.co/i5OjGGNdWD?amp=1"> -- Liberalism </a>
-<br><a href="https://www.youtube.com/watch?v=77VaJMFWuiE"> -- Nordic Model? </a>
+<br><a href="https://t.co/i5OjGGNdWD?amp=1"> -- Liberalism - 1 </a>
+<br><a href="https://www.youtube.com/watch?v=77VaJMFWuiE"> -- Nordic Model? - 1 </a>
 <br><a href="https://www.youtube.com/playlist?list=PLbnLysSug0vQ5qdifZ4N0CzrYyal4RQ8S"> -- Social democracy? (Playlist) </a>
+<br><a href="https://www.reddit.com/r/communism/comments/duk2yy/the_problem_with_democratic_socialism_in_related/"> -- Democratic Socialism? - 1 </a>
+<a href="https://www.reddit.com/r/communism/comments/fgr1aw/how_many_elections_will_it_take_for_social/"> - 2 </a>
+<a href="https://www.reddit.com/r/communism/comments/c2cfwr/how_social_democrats_like_sanders_are_pacifying/"> - 3 </a>	
 <br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xnja3ZyAd2mN_3E7lse9B4XV"> -- UBI? </a>
+<br><a href="https://www.youtube.com/watch?v=7i_f4Kbpgn4"> -- Artificial Intelligence - 1 </a>
+<a href="https://www.youtube.com/watch?v=FCtBL621MDs"> - 2 </a>	
 <br><a href="https://www.greanvillepost.com/2020/06/27/caleb-maupin-debunks-libertarianism/"> -- Libertarianism? - 1 </a>
 <a href="https://www.youtube.com/watch?v=ONFtZukHUPM"> - 2 </a>
 <br>
@@ -240,8 +245,9 @@
 <br><a href="https://www.exponentialimprovement.com/cms/uploads/Einstein%20on%20Why%20Socialism.pdf"> -- Einstein, Why Socialism </a>
 <br><a href="https://www.reddit.com/r/communism/comments/ehpdbp/masterpost_on_workers_control_and_democracy_in/"> -- Workers Control and Democracy in the Workplace *Masterpost </a>
 <br><a href="https://www.reddit.com/r/communism/wiki/debunk"> -- Debunk *Masterpost - 1 </a>
-<a href="https://leftypedia.org/wiki/User:Anarcho-Bolshevik/compendium#The_Nazis_were_socialists.2C_communists_or_leftists"> - 2 </a>
-<a href="https://communism.lemmy.ml/post/1018"> - 3 </a>
+<a href="https://www.reddit.com/r/communism/comments/co1pfl/the_megamegathread/"> - 2 </a>
+<a href="https://leftypedia.org/wiki/User:Anarcho-Bolshevik/compendium#The_Nazis_were_socialists.2C_communists_or_leftists"> - 3 </a>
+<a href="https://communism.lemmy.ml/post/1018"> - 4 </a>
 <br><a href="https://redd.it/wisiw"> -- Basic ML Study Plan *Masterpost - 1 </a>
 <a href="https://communism.lemmy.ml/post/6319"> - 2 </a>
 <a href="https://dialecticalartist.wordpress.com/politicalresources/"> - 3 </a>
@@ -418,14 +424,14 @@
 <br><a href="https://qph.fs.quoracdn.net/main-qimg-31c8058064fa343c930c7909ca9f4ad3"> -- Ignorance </a>
 <br><a href="https://www.youtube.com/watch?v=J3hFfbIXpg4"> -- Astroturfing - 1 </a>
 <a href="https://mobile.twitter.com/jeremyscahill/status/1251877070621290496"> - 2 </a>
-<a href="https://www.epw.in/journal/1998/12/reviews-uncategorised/debunking-malthusianism.html"> -- Malthusianism </a>
+<br><a href="https://www.epw.in/journal/1998/12/reviews-uncategorised/debunking-malthusianism.html"> -- Malthusianism </a>
 <br><a href="https://www.youtube.com/watch?v=mYX7koMKkPY"> -- The Making of a "Human Rights Activist" (CIA) </a>
 <br><a href="https://pbs.twimg.com/media/EbbK695XgAAdbXi?format=jpg&name=4096x4096"> -- Fossil Fuel Dependence </a>
 <br>
 <br><a href="https://youtube.com/watch?v=OCCFQymA-jM"> -- "Workers, Don't Unite" </a>
 <br><a href="https://www.youtube.com/watch?v=NK1tfkESPVY&app=desktop"> -- Central Intelligence Agency - 1 </a>
 <a href="https://communism.lemmy.ml/post/6280"> - 2 </a>
-<a href="https://www.youtube.com/watch?v=m4dfYc96GPs&app=desktop"> -- FBI Infiltration </a>
+<br><a href="https://www.youtube.com/watch?v=m4dfYc96GPs&app=desktop"> -- FBI Infiltration </a>
 <br><a href="https://www.youtube.com/watch?v=4BG0VdanUTs"> -- More Millenials Should Be Socialists </a>
 <br><a href="https://en.wikipedia.org/wiki/Congress_for_Cultural_Freedom"> -- Congress For Cultural Freedom </a>
 <br><a href="https://en.wikipedia.org/wiki/COINTELPRO"> -- COINTELPRO - 1 </a>
@@ -442,6 +448,7 @@
 <br><a href="https://www.youtube.com/watch?v=DZCu3mpfBFw"> -- "Democratic Socialism" </a>
 <br><a href="https://m.youtube.com/watch?v=xgKPyIj8Q60"> -- The Synthetic Left - 1 </a>
 <a href="https://www.youtube.com/watch?v=oiTY4PDJUuo"> - 2 </a>
+<br><a href="https://www.youtube.com/watch?v=62lXVFIayXo"> -- Strasserism/Nazbolhevism
 <br><a href="https://www.youtube.com/watch?v=UAvHbWOU2Ik"> -- Suits and Optimism </a>
 <br><a href="https://youtube.com/watch?v=Io7pvjA9X74"> -- Caleb Maupin Chats With the Iron Curtain Podcast </a>
 <br>
@@ -636,6 +643,7 @@
 <br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xnjUtFfMSTYPGIBYwz9Yh7ac"> -- Philosophy and Postmodernism </a>
 <br><a href="https://cdn.discordapp.com/attachments/717722858393960451/719589671952449556/scXTsRuvb3ph4wzfkH6wYY-1200-80.png"> -- Antifa? - 1 </a>
 <a href="https://search.snopyta.org/image_proxy?url=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.kbWm3dgIdi8HGARzgysO0gHaFV%26pid%3D15.1&h=3d705ec423b4ad4aaae11b85198256fc3a30444bf360c842698b50ed735eac6a"> - 2 </a>
+<a href="https://pbs.twimg.com/media/Edz0fAeXoAAZFrX?format=png&name=small"> - 3 </a>
 <br><a href="https://www.youtube.com/watch?v=bgwS_FMZ3nQ"> -- Antifa explained </a>
 </p>
 
@@ -659,7 +667,9 @@
 <br><a href="https://mobile.twitter.com/NathanJRobinson/status/1279952893148356608"> -- Normal View of US Imperialism </a>
 <br>
 <br><a href="https://pbs.twimg.com/media/Ectrd5AUwAAPJH8?format=jpg&name=small"> -- Cold War Hypocrisy </a>
-<br><a href="https://qph.fs.quoracdn.net/main-qimg-6d0bbbcddfd72268ac9dc473111bd159"> -- US in South America </a>
+<br><a href="https://qph.fs.quoracdn.net/main-qimg-6d0bbbcddfd72268ac9dc473111bd159"> -- US Imperialism - 1 </a>
+<a href="https://cdn.discordapp.com/attachments/698647377807933450/736903771778580540/image0.jpg"> - 2 </a>
+<a href="https://cdn.discordapp.com/attachments/698647377807933450/736902542382071898/41n4ritm55d51.png"> - 3 </a>
 <br><a href="https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/"> -- Modern Espionage </a>
 <br><a href="https://www.globalresearch.ca/hillary-emails-reveal-nato-killed-gaddafi-to-stop-libyan-creation-of-gold-backed-currency/5594742"> -- Gaddafi - 1 </a>
 <a href="https://mobile.twitter.com/Underground_RT/status/1283785830230876160"> - 2 </a>
@@ -669,6 +679,7 @@
 <br><a href="https://cdn.discordapp.com/attachments/718179491452682260/736705281140195409/unknown.png"> - IRA - 1 </a>
 <a href="https://cdn.discordapp.com/attachments/718179491452682260/736706438461915176/troubles_deaths_by_status_organisation.png"> - 2 </a>
 <a href="https://www.irishcentral.com/roots/history/lord-mountbatten-pedophile-allegations"> - 3 </a>
+<br><a href="https://docs.google.com/document/d/1qRhDL3cwYJJRdRQ6hqf_LawSyG8DgW34C3R4Oe3D2gw/edit"> - Syria </a>
 <br><a href="https://en.m.wikipedia.org/wiki/The_Killing$_of_Tony_Blair"> -- Iraq </a>
 <br><a href="https://theintercept.com/2020/06/08/the-nyt-admits-key-falsehoods-that-drove-last-years-coup-in-bolivia-falsehoods-peddled-by-the-u-s-its-media-and-the-nyt/"> -- Bolivia Coup - 1 </a>
 <a href="https://i.redd.it/hv9e74171i041.png"> - 2 </a>
@@ -678,7 +689,8 @@
 <a href="https://mobile.twitter.com/elonmusk/status/1286866843307737088"> - 6 </a>
 <br><a href="https://mobile.twitter.com/BrianMteleSUR/status/1278337380458483717"> -- Lula Deposition </a>
 <br><a href="https://www.pbs.org/newshour/show/stretch-north-dakota-highway-witnesses-oils-boom-bust"> -- North Dakota and Boom Bust </a>
-<br><a href="https://www.youtube.com/watch?v=elNKZ4niERY"> -- Israeli Annexations </a>
+<br><a href="https://www.youtube.com/watch?v=elNKZ4niERY"> -- Israeli Annexations - 1 </a>
+<a href="https://nvlupin.blob.core.windows.net/images/van/JVP/JVP/1/61881/images/UN%20Settlement%20List_all.png"> - 2 </a>
 <br><a href="https://www.thenation.com/article/archive/declaration-of-war/"> -- White Supremacy </a>
 <br><a href="https://www.theguardian.com/us-news/2016/may/15/cia-operative-nelson-mandela-1962-arrest"> -- Nelson Mandela - 1 </a>
 <a href="https://i.redd.it/r9174ryk5pa11.jpg"> - 2 </a>
@@ -720,7 +732,7 @@
 <br>
 <a href="http://www.lookleftonline.org/2018/10/the-foundation-of-the-ddr/"> -- Foundation of the DDR </a>
 <a href="https://ia800805.us.archive.org/13/items/GDR1986/GDR%201986.pdf"> -- DDR Basic Info </a>
-<a href="https://ia800805.us.archive.org/13/items/GDR1986/GDR%201986.pdf"> -- DDR in Depth </a>
+<a href="https://www.reddit.com/r/communism/comments/cxwul4/masterpost_on_the_german_democratic_republic_east/"> -- DDR in Depth </a>
 <a href="http://www.digizeitschriften.de/dms/toc/?PPN=PPN514402644"> -- DDR in Depth Every Year </a>
 <a href="https://cdn.discordapp.com/attachments/429730153032187924/431111832229380096/unknown.png"> -- GDP
 <br>
@@ -891,15 +903,16 @@
 <a href="https://www.scmp.com/comment/opinion/article/3091438/us-has-been-exposed-funding-last-years-hong-kong-protests#click=https://t.co/DRlt1Y2FLu"> - US Funding </a>
 <br>
 	
-<a href="https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic"> -- Xighurs *Masterpost </a>	
-<a href="https://www.youtube.com/watch?v=Hv9jCeqNL0Y"> - 1 </a>
-<a href="https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic"> - 2 </a>
-<a href="https://mobile.twitter.com/OohTheChilliOil/status/1278265815100465152"> - 3 </a>
-<a href="https://www.moroccoworldnews.com/2019/07/278860/arab-muslim-majority-countries-china-mistreatment-uighurs/"> - 4 </a>
-<a href="https://www.reddit.com/r/Sino/comments/hvfg56/latest_uyghur_prisoners_videos_actually_a_bunch/"> - 5 </a>
-<a href="https://www.quora.com/Why-is-China-turning-Kashgar-Xinjiang-into-a-state-run-prison-Is-this-not-a-blatant-violation-of-human-rights-the-Chinese-constitution-so-protects/answer/Godfree-Roberts"> - 6 </a>
-<a href="https://observers.france24.com/en/20200103-how-fake-images-uighur-persecution-are-hurting-cause"> - 7 </a>
-<a href="https://www.youtube.com/watch?v=Wb-MNi8E-TA&app=desktop"> -- Re-education Camps </a>
+<a href="https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic"> -- Xighurs *Masterpost </a>
+<a href="https://docs.google.com/document/d/1d0lynghlCnR6Hs57pypEEhlhHczFVgaYX-TIZD61s_w/mobilebasic"> - 1 </a>
+<a href="https://www.youtube.com/watch?v=Hv9jCeqNL0Y"> - 2 </a>
+<a href="https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic"> - 3 </a>
+<a href="https://mobile.twitter.com/OohTheChilliOil/status/1278265815100465152"> - 4 </a>
+<a href="https://www.moroccoworldnews.com/2019/07/278860/arab-muslim-majority-countries-china-mistreatment-uighurs/"> - 5 </a>
+<a href="https://www.reddit.com/r/Sino/comments/hvfg56/latest_uyghur_prisoners_videos_actually_a_bunch/"> - 6 </a>
+<a href="https://www.quora.com/Why-is-China-turning-Kashgar-Xinjiang-into-a-state-run-prison-Is-this-not-a-blatant-violation-of-human-rights-the-Chinese-constitution-so-protects/answer/Godfree-Roberts"> - 7 </a>
+<a href="https://observers.france24.com/en/20200103-how-fake-images-uighur-persecution-are-hurting-cause"> - 8 </a>
+<a href="https://www.youtube.com/watch?v=Wb-MNi8E-TA&app=desktop"> -- Re-Education Camps </a>
 <a href="https://thediplomat.com/2016/08/chinas-nightmare-xinjiang-jihadists-go-global/"> -- Islamic Extremism </a>
 <a href="https://mobile.twitter.com/gobloid3/status/1281404596922060800"> -- Adrian Zenz - 1 </a>
 <a href="https://mobile.twitter.com/Truth2Upeople/status/1286194974657191937"> - 2 </a>
@@ -978,6 +991,7 @@
 <a href="https://www.youtube.com/playlist?list=PLIuVy5356xnhT_sXylKTU4SHyM-vLz8Pt"> -- China Playlist </a>
 <a href="https://revolutionaryleftradio.libsyn.com/in-defense-of-china-as-a-socialist-state-w-ajit-singh"> -- In Defence of China as a Socialist State - 1 </a>
 <a href="https://medium.com/@rainershea612/china-is-capitalist-is-an-anti-marxist-position-to-take-cdf62e458ee0"> - 2 </a>
+<a href="https://www.reddit.com/r/communism/comments/5ku8dz/china_as_a_socialist_marxistleninist_state_a/"> - 3 </a>
 <br>														
 <a href="https://imgur.com/j0GuZmA"> -- Chinese Democracy? - 1 </a>
 <a href="https://www.unz.com/article/selling-democracy-to-china/"> - 2 </a>
@@ -1053,11 +1067,12 @@
 <a href="http://www.irishstatutebook.ie/eli/1939/act/13/section/30/enacted/en/html#:~:text=%E2%80%94(1)%20A%20member%20of,about%20to%20commit%20or%20being"> - 2 </a>
 <br>
 <a href="https://mobile.twitter.com/tigerreborn/status/197655840445038594"> -- Blueshirts - 1 </a>
-<a href="https://mobile.twitter.com/irishpoint/status/1255936945995370499"> - 2 </a>
-<a href="https://mobile.twitter.com/commie_spice/status/1264173336986255360"> - 3 </a>
-<a href="https://cdn.discordapp.com/attachments/449335833816858624/719930246081806467/Screenshot_20200609-160513_WhatsApp.jpg"> - 4 </a>
-<a href="https://cdn.discordapp.com/attachments/384045127649329153/722158212954193930/blueshirt_wankers.mp4"> - 5 </a>
-<a href="https://pbs.twimg.com/media/EakttxgWkAEsFBU.png:small"> - 6 </a>
+<a href="https://pbs.twimg.com/media/EYyiiphXgAM-TcU?format=jpg&name=360x360"> - 2 </a>
+<a href="https://mobile.twitter.com/irishpoint/status/1255936945995370499"> - 3 </a>
+<a href="https://mobile.twitter.com/commie_spice/status/1264173336986255360"> - 4 </a>
+<a href="https://cdn.discordapp.com/attachments/449335833816858624/719930246081806467/Screenshot_20200609-160513_WhatsApp.jpg"> - 5 </a>
+<a href="https://cdn.discordapp.com/attachments/384045127649329153/722158212954193930/blueshirt_wankers.mp4"> - 6 </a>
+<a href="https://pbs.twimg.com/media/EakttxgWkAEsFBU.png:small"> - 7 </a>
 <a href="https://twitter.com/ginosocialist/status/1273528268998787072?s=21"> -- FG (Israel) </a>
 <a href="https://www.theguardian.com/world/2019/nov/04/irish-pm-leo-varadkar-under-fire-for-extolling-benefits-of-climate-crisis"> -- FG "Science" </a>
 <a href="https://mobile.twitter.com/paddycosgrave/status/1272792731425923073"> -- FG Covid-19 Response </a>
@@ -1206,6 +1221,8 @@
 <br><a href="https://i.imgur.com/R2fkO7E.jpg"> -- Malcolm X On Progress </a>
 <br>
 <br><a href="https://i.redd.it/3ilb5ydbsi531.jpg"> -- Malcolm X On Condemnation </a>
+<br>
+<br><a href="https://www.reddit.com/r/communism/comments/hdg8p9/we_hear_a_great_deal_about_the_crimes_of/"> -- “We hear a great deal about the crimes of communism but almost nothing about its achievements...” </a>
 <br>
 <br> -- "Theres no 'I' in 'team'" (Cringe)
 <br>
@@ -1511,6 +1528,7 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <br><a href="https://se7en.ws/the-us-army-is-losing-the-war-in-discord/?lang=en"> -- US Army Discord Beaten Back </a>
 <br><a href="https://lemmygrad.ml/"> -- Lemmy (Communist Reddit) - 1 </a>
 <a href="https://dev.lemmy.ml/"> - 2 </a>
+<br><a href="https://www.youtube.com/watch?v=XxhLaUdvVjM"> -- PRC'50 </a>
 <br><a href="https://arstechnica.com/information-technology/2020/07/the-remote-british-village-that-built-one-of-the-uks-fastest-internet-networks/3/"> -- Community Self-Development </a>
 <br><a href="https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer"> -- Socialism's DIY Computer </a>
 <br><a href="https://en.wikipedia.org/wiki/Project_Cybersyn"> -- Project Cybersyn - 1 </a>
@@ -1541,13 +1559,6 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 
 <br>
 <br>
-<br>
-
-<br>**NEEDED - Sections for different ideologies (trots, liberals, conservatives, fascists, classical liberals etc) (CSS FILE)
-<br>
-<br>**NEEDED - SOCIAL DEMOCRATS SELLING OUT REVOLUTION (COMMUNISTS) IN GERMANY
-<br>**NEEDED - IRRATIONALITY OF CAPITALISM - STOCK MARKET, TWITTER CAT GIRL MEMES, BOOM BUST CYCLE
-<br>**NEEDED - PRINCIPLED ACAB EXPLANATION
 
 </body>
 
