@@ -268,7 +268,7 @@
 <br><a href="https://www.youtube.com/watch?v=3B4rDJTOYKw"> -- Only Socialism Can Save the Planet </a>
 <br><a href="https://i.redd.it/beb579e4lf051.png"> -- HDI of socialist nations </a>
 <br><a href="https://media.discordapp.net/attachments/692927141792448573/693649150952210452/unknown.png?width=293&height=300"> -- Workers Create the Wealth </a>
-<br><a href="https://www.youtube.com/watch?v=kVo0YNZK_oY"> -- Abby Martin and Richard Wolff Discuss Socialism </a>
+<br><a href="https://www.youtube.com/watch?v=kVo0YNZK_oY"> -- Anti-Imperialism = Socialism </a>
 <br><a href="https://climateandcapitalism.com/2019/10/01/why-socialism-is-the-only-realistic-solution-to-climate-change/"> -- Climate Change/Environment and Socialism </a>
 <br><a href="https://www.youtube.com/watch?v=uylnpj6zLWw"> -- Innovation and Socialism - 1 </a>
 <a href="https://www.youtube.com/watch?v=mio9BVNQDaI"> - 2 </a>
@@ -658,7 +658,8 @@
 <br><a href="https://www.counterpunch.org/2020/03/11/elon-musk-is-acting-like-a-neo-conquistador-for-south-americas-lithium/"> -- Elon Musk is Acting Like a Conquistador For South Americas Lithium - 1 </a>
 <a href="https://mobile.twitter.com/elonmusk/status/1286866843307737088"> - 2 </a>
 <br><a href="https://www.teenvogue.com/story/lgbtq-institute-in-germany-was-burned-down-by-nazis"> -- LGBTQ Institute in Germany Was Burned Down By Nazis </a>
-<br><a href="https://youtu.be/CZJtJOQ_n7I"> -- The History of Sexuality </a>
+<br><a href="https://youtu.be/CZJtJOQ_n7I"> -- The History of Sexuality - 1 </a>
+<a href="https://aeon.co/essays/why-should-gay-rights-depend-on-being-born-this-way"> - 2 </a>
 <br><a href="https://www.youtube.com/watch?v=C8dfiDeJeDU"> -- Soyboys? </a>
 <br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xni9doc3QVEHLrLOVAWTKb7x"> -- Sex </a>
 <br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xni8Ys7HcgvT7hzV_jgK_hVB"> -- Sex Work </a>
