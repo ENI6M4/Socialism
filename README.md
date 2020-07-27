@@ -1255,7 +1255,7 @@
 <br>
 <br><a href="https://i.redd.it/3ilb5ydbsi531.jpg"> -- Malcolm X On Condemnation </a>
 <br>
-<br><a href="https://www.reddit.com/r/communism/comments/hdg8p9/we_hear_a_great_deal_about_the_crimes_of/"> -- “We hear a great deal about the crimes of communism but almost nothing about its achievements...” </a>
+<br><a href="https://www.reddit.com/r/communism/comments/hdg8p9/we_hear_a_great_deal_about_the_crimes_of/"> -- "We hear a great deal about the crimes of communism but almost nothing about its achievements..." </a>
 <br>
 <br> -- "Theres no 'I' in 'team'" (Cringe)
 <br>
