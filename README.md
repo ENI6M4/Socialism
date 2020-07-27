@@ -542,27 +542,29 @@
 <br><a href="https://i.redd.it/turan7quvqt41.jpg"> -- "We're All in This Together!" </a>
 <br><a href="https://i.imgur.com/9ac59bl.jpg"> -- Che Quote in Relation to ^ </a>
 <br><a href="https://www.independent.co.uk/news/world/americas/coronavirus-amazon-jeff-bezos-relief-fund-covid-19-billionaire-net-worth-a9422236.html"> -- Amazon "Covid-19 Relief Fund" </a>
+<br><a href="https://www.youtube.com/watch?v=zOm4JJUy9No"> -- Who Was Bezos Before Amazon? </a>
 <br>
-<br><a href="https://cdn.discordapp.com/attachments/650742450721128466/658760064424738818/EC.png"> -- Bill Gates "Innovation" </a>
-<br><a href="https://nonprofitquarterly.org/gates-foundation-trust-invests-in-private-prisons-again/"> -- Bill Gates Private Prisons </a>
-<br><a href="https://images-ext-1.discordapp.net/external/szAGaGoNxyugtkWY7LQb6Vva7Zw1zNLnvcksDWZV_nQ/%3Fwidth%3D750%26height%3D392.670157068%26auto%3Dwebp%26crop%3D750%3A392.670157068%2Csmart%26s%3Dba5389807d9f78e49054ef507977b30cf9cb2fed/https/preview.redd.it/yfpqy3qg8nr41.jpg"> -- Bill Gates Profiteering </a>
 <br><a href="https://www.youtube.com/watch?v=2wuMkShZ42o"> -- Who Was Bill Gates Before Microsoft </a>
 <br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xnjtNLaVt-fvrI8zsemeJt76"> -- Bill Gates (Playlist) </a>
-<br><a href="https://www.youtube.com/watch?v=zOm4JJUy9No"> -- Who Was Bezos Before Amazon? </a>
+<br><a href="https://cdn.discordapp.com/attachments/650742450721128466/658760064424738818/EC.png"> -- Bill Gates - "Innovation" </a>
+<a href="https://nonprofitquarterly.org/gates-foundation-trust-invests-in-private-prisons-again/"> - Private Prisons </a>
+<a href="https://images-ext-1.discordapp.net/external/szAGaGoNxyugtkWY7LQb6Vva7Zw1zNLnvcksDWZV_nQ/%3Fwidth%3D750%26height%3D392.670157068%26auto%3Dwebp%26crop%3D750%3A392.670157068%2Csmart%26s%3Dba5389807d9f78e49054ef507977b30cf9cb2fed/https/preview.redd.it/yfpqy3qg8nr41.jpg"> - Profiteering </a>
+<br>
+<br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xniP-1mHd3wIu22dVEzDovAq"> -- Elon Musk: Idiot </a>
 <br><a href="https://www.youtube.com/watch?v=PaC8ApePLps"> -- Elon Musk - 1 </a>
 <a href="https://www.youtube.com/watch?v=UVyuhVAbO3U"> - 2 </a>
-<br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xniP-1mHd3wIu22dVEzDovAq"> -- Elon Musk: Idiot </a>
+<a href="https://www.businessinsider.co.za/elon-musk-sells-the-family-emeralds-in-new-york-2018-2"> - Emerald Mine </a>
+<a href="https://pbs.twimg.com/media/EOeZmRaWAAIAX-n?format=jpg&name=small"> - Indentured Servitude </a>
 <br><a href="https://cdn.discordapp.com/attachments/355755220090880001/662818376959262745/ElongatedMuskrat.jpg"> -- Muskrats - 1 </a>
 <a href="https://i.redd.it/9klyw0kbkz141.jpg"> - 2 </a>
-<br><a href="https://www.businessinsider.co.za/elon-musk-sells-the-family-emeralds-in-new-york-2018-2"> -- Elon Musk, Emerald Mine </a>
-<br><a href="https://pbs.twimg.com/media/EOeZmRaWAAIAX-n?format=jpg&name=small"> -- Elon Musk, Indentured Servitude </a>
+<br>
 <br><a href="https://www.theverge.com/2017/1/19/14327854/mark-zuckerberg-facebook-hawaii-kauai-property-lawsuits"> -- Mark Zuckerberg, Hawaii Land Grab </a>
 <br><a href="https://www.washingtonpost.com/politics/2018/10/03/art-deal-writer-says-new-york-times-report-ends-myth-trump-self-made-man/"> -- Trump "Self Made Man" </a>
 <br><a href="https://www.politico.com/story/2015/10/donald-trump-father-loan-1-million-dollars-215154"> -- Trump's Wealth </a>
 <br><a href="https://www.youtube.com/watch?v=zGcKURD_osM"> -- Sackler Family Opioid Empire </a>
-<br><a href="https://www.youtube.com/watch?v=ttmGO4QGmoc"> -- Google Draining Fresh Water </a>
-<br><a href="https://www.youtube.com/watch?v=C31AX7LOSvg"> -- End of Democracy </a>
-<br><a href="https://www.youtube.com/watch?v=vZBa5-wFAfQ"> -- Google  Monopoly </a>	
+<br><a href="https://www.youtube.com/watch?v=vZBa5-wFAfQ"> -- Google  Monopoly - 1 </a>
+<a href="https://www.youtube.com/watch?v=ttmGO4QGmoc"> - 2 </a>
+<br><a href="https://www.youtube.com/watch?v=C31AX7LOSvg"> -- End of Democracy </a>	
 <br><a href="https://www.youtube.com/watch?v=nuRuFj5c0bE"> -- Why not UBI? - 1 </a>
 <a href="https://www.youtube.com/watch?v=QGBQwZsp3T0&feature=youtu.be"> - 2 </a>
 <br><a href="https://redd.it/fprjrl"> -- UBI Hypocrisy </a>
@@ -588,14 +590,14 @@
 <br><a href="https://youtube.com/watch?v=oDOSOQLLO-U"> -- Zizek vs Peterson - 1 </a>
 <a href="https://youtube.com/watch?v=veWqkDkFgfY"> - 2 </a>
 <br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xnhoPMqROJP2fXOwQlQyhl_0"> -- Prager is a Dumpster Fire </a>
-<br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xngsBvdGaAxKPyN5I-xlJfFq"> -- Chud Exposed - 1 </a>
-<br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xnjeh8tqLyV0jbcYN7H8_m7T"> - 2 </a>
-<br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xnisrujnCEmI3If7l2tQ4xVV"> - 3 </a>
-<br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xnhnumMWyhwOR0XPZRGRqj65"> - 4 </a>
-<br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xnjCTSmmt6uaMB0wvqjnDOEO"> - 5 </a>
-<br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xniC-P9e0i90eGe9yWmtnSI4"> - 6 </a>
-<br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xnhriGubaqo7zQnQ6wAUX4ob"> - 7 </a>
-<br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xnjTYIWryRTj5bgUv2lky4-V"> - 8 </a>
+<br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xngsBvdGaAxKPyN5I-xlJfFq"> -- Chuds Exposed - 1 </a>
+<a href="https://www.youtube.com/playlist?list=PLIuVy5356xnjeh8tqLyV0jbcYN7H8_m7T"> - 2 </a>
+<a href="https://www.youtube.com/playlist?list=PLIuVy5356xnisrujnCEmI3If7l2tQ4xVV"> - 3 </a>
+<a href="https://www.youtube.com/playlist?list=PLIuVy5356xnhnumMWyhwOR0XPZRGRqj65"> - 4 </a>
+<a href="https://www.youtube.com/playlist?list=PLIuVy5356xnjCTSmmt6uaMB0wvqjnDOEO"> - 5 </a>
+<a href="https://www.youtube.com/playlist?list=PLIuVy5356xniC-P9e0i90eGe9yWmtnSI4"> - 6 </a>
+<a href="https://www.youtube.com/playlist?list=PLIuVy5356xnhriGubaqo7zQnQ6wAUX4ob"> - 7 </a>
+<a href="https://www.youtube.com/playlist?list=PLIuVy5356xnjTYIWryRTj5bgUv2lky4-V"> - 8 </a>
 <br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xnh_C2WNvKPXg-dBLw1gzurD"> -- Libertarians and Ancaps (Playlist) </a>
 <br><a href="https://www.abc.net.au/religion/nazism-socialism-and-the-falsification-of-history/10214302"> -- National Socialism and the Falsification of History </a>
 <br><a href="https://eppc.org/publications/a-science-based-case-for-ending-the-porn-epidemic/"> -- Porn </a>
