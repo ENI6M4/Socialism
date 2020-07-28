@@ -65,7 +65,7 @@
 <br><a href="https://guerrillaontologies.com/2014/05/attempting-the-impossible-calculating-capitalisms-death-toll/"> -- Capitalism Death Toll - 1 </a>
 <a href="https://communism.lemmy.ml/pictrs/image/thumbnail256/zJ8KAPBaWO.jpg"> - 2 </a>
 <a href="https://www.youtube.com/watch?v=u5zLfhGIR0c"> - 3 </a>
-<a href="https://cdn.discordapp.com/attachments/722933797842190369/737482734569783388/wh75hilyrtgy.jpg"> - 3 </a>
+<a href="https://cdn.discordapp.com/attachments/722933797842190369/737482734569783388/wh75hilyrtgy.jpg"> - 4 </a>
 <br>
 <br><a href="https://groups.csail.mit.edu/mac/users/rauch/worktime/"> -- Productivity Increases </a>
 <br><a href="https://jackrasmus.com/2019/12/22/on-those-questionable-wage-increase-statistics-again/"> -- Wage "Increases" </a>
