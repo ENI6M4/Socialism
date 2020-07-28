@@ -27,7 +27,8 @@
 <br><a href="https://www.usich.gov/tools-for-action/map/"> -- Homelessness - 1 </a>
 <a href="https://mobile.twitter.com/UniteThePoor/status/1283765486585618432"> - 2 </a>
 <br><a href="https://storage.googleapis.com/cym-ie/wp-content/uploads/2020/06/12135555/b2.jpg"> -- Income Inequality </a>
-<br><a href="https://redd.it/bacr2l"> -- Wealth of Billionaires </a>
+<br><a href="https://redd.it/bacr2l"> -- Wealth of Billionaires - 1 </a>
+<a href="https://www.theguardian.com/commentisfree/2017/mar/30/wealth-banks-google-facebook-society-economy-parasites"> - 2 </a>
 <br><a href="https://www.youtube.com/watch?v=QPKKQnijnsM"> -- Wealth Inequality in America </a>
 <br><a href="https://i.imgur.com/HXBWUAn.png"> -- Wealth Inequality in Britain </a>
 <br><a href="https://www.statista.com/statistics/555795/estimated-number-of-homeless-people-in-the-us/"> -- Estimated Number of Homeless
@@ -45,21 +46,26 @@
 <br><a href="https://www.thecanary.co/exclusive/2020/05/13/revealed-secretive-british-unit-planning-for-reconstruction-of-venezuela/amp/?__twitter_impression=true"> -- Capitalism = Imperialism </a>
 <br><a href="https://www.youtube.com/watch?v=5vS4eKwCEC0"> -- Neo-Liberalism - 1 </a>
 <a href="https://qph.fs.quoracdn.net/main-qimg-fc5b590a8ec59803024bd444cbfc4623"> - 2 </a>
-<a href="https://mobile.twitter.com/zei_squirrel/status/1287445691023974401"> - 3 </a>
+<a href="https://www.youtube.com/watch?v=SKGYzhoYK2I&app=desktop"> - 3 </a>
+<a href="https://mobile.twitter.com/zei_squirrel/status/1287445691023974401"> - 4 </a>
 <br><a href="https://youtube.com/watch?v=qX-P4mx1FLU"> -- 10 Minute History Lesson For Neo-Liberals By Tony Benn (Same Struggles Today As 60 Years Ago) </a>
 <br><a href="https://www.youtube.com/watch?v=KFqjzZo_6Rw"> -- Work Under Capitalism is Not Voluntary </a>
 <br><a href="https://cdn.discordapp.com/attachments/650742450721128466/655788893173710908/pubic.png"> -- Deliberate Defunding of Public Services as Excuse to Privatise </a>
 <br><a href="https://www.rt.com/business/493240-coronavirus-drug-remdesivir-cost/"> -- Profit Motivator </a>
-<br><a href="https://www.nbcnews.com/news/amp/ncna1150091"> -- Covid-19 Root Cause = Profit Motive </a>
+<br><a href="https://www.nbcnews.com/news/amp/ncna1150091"> -- Covid-19 Root Cause = Profit Motive - 1 </a>
+<a href="https://www.reddit.com/r/socialism/comments/hj7z69/coronavirus_in_the_uk_has_shown_capitalism_for/"> - 2 </a>
 <br><a href="https://www.youtube.com/watch?v=zeF2rkyxDIo&"> -- Capitalism and Covid-19 Response </a>
 <br><a href="https://socialistrevolution.org/capitalists-clash-over-hunt-for-covid-19-vaccine/"> -- Intellectual Property </a>
 <br><a href="https://www.jacobinmag.com/2017/05/intellectual-property-prescription-drugs-trans-pacific-partnership"> -- Prescription Drugs Price </a>
 <br><a href="https://falkvinge.net/2012/01/24/copyright-patent-monopolies-are-immoral-exploitation-of-third-world/"> -- Copyright </a>
 <br><a href="https://www.reddit.com/r/environment/comments/ebauzj/goldman_sachs_to_stop_financing_new_drilling_for/"> -- Goldman Sachs: Drilling </a>
+<br><a href="https://www.commondreams.org/news/2020/07/22/planet-edges-closer-multiple-climate-tipping-points-scientists-identify-first-active"> -- Climate Change </a>
 <br><a href="https://twitter.com/telesurenglish/status/1207299476903170048?s=19"> -- Western Corporations Being Sued For Children Injured and Killed in Mines </a>
 <br><a href="https://www.youtube.com/watch?v=KSChKGrynkY"> -- Capitalism Needs Sweatshops, Humanity Does Not </a>	
 <br><a href="https://guerrillaontologies.com/2014/05/attempting-the-impossible-calculating-capitalisms-death-toll/"> -- Capitalism Death Toll - 1 </a>
 <a href="https://communism.lemmy.ml/pictrs/image/thumbnail256/zJ8KAPBaWO.jpg"> - 2 </a>
+<a href="https://www.youtube.com/watch?v=u5zLfhGIR0c"> - 3 </a>
+<a href="https://cdn.discordapp.com/attachments/722933797842190369/737482734569783388/wh75hilyrtgy.jpg"> - 3 </a>
 <br>
 <br><a href="https://groups.csail.mit.edu/mac/users/rauch/worktime/"> -- Productivity Increases </a>
 <br><a href="https://jackrasmus.com/2019/12/22/on-those-questionable-wage-increase-statistics-again/"> -- Wage "Increases" </a>
@@ -102,6 +108,13 @@
 <a href="https://www.washingtonpost.com/business/economy/this-miracle-weed-killer-was-supposed-to-save-farms-instead-its-devastating-them/2017/08/29/33a21a56-88e3-11e7-961d-2f373b3977ee_story.html"> - 3 </a>
 <a href="https://www.theguardian.com/business/2018/jul/09/monsanto-trial-roundup-weedkiller-cancer-dewayne-johnson"> - 4 </a>
 <a href="https://www.greenmedinfo.com/blog/breaking-glyphosate-roundup-carcinogenic-parts-trillion-range"> - 5 </a>
+<a href="https://cdn.discordapp.com/attachments/722933797842190369/737477134397735062/Glyphosate_3.JPG"> - 6 </a>
+<br><a href="https://www.youtube.com/watch?v=Pk2TEDHSesY&app=desktop"> -- Pyramid Schemes </a>
+<br><a href="https://www.truthdig.com/articles/wall-street-is-the-definition-of-a-ponzi-scheme-literally/"> -- Ponzi Schemes - 1 </a>
+<a href="https://review31.co.uk/interview/view/16/ponzi-scheme-capitalism-an-interview-with-david-harvey"> - 2 </a>
+<br><a href="https://socialistrevolution.org/argentina-turkey-and-the-debt-bomb-under-the-world-economy"> -- Debt Economy - 1 </a>
+<a href="https://www.counterpunch.org/2012/12/31/the-financial-war-against-the-economy-at-large/"> - 2 </a>
+<a href="https://www.youtube.com/watch?v=sDZ7aQ_umhU"> - 3 </a>
 <br><a href="https://www.cnet.com/news/stephen-hawking-says-we-should-be-more-frightened-of-capitalism-than-robots/"> -- Stephen Hawking on Future of Capitalism </a>
 <br><a href="https://cdn.discordapp.com/attachments/266261760556662784/660939106108440589/BillHates.png"> -- Microsoft "Innovation" </a>
 <br><a href="https://cdn.discordapp.com/attachments/721041141210022029/731620401830035516/standards.png"> -- Proliferation of Standards </a>
@@ -127,7 +140,8 @@
 <br><a href="https://www.salon.com/2018/03/19/the-staggering-death-toll-in-iraq_partner/"> -- The Staggering Death Toll in Iraq </a>
 <br><a href="https://www.basenation.us/maps.html"> -- Maps of US Military Bases </a>
 <br><a href="https://pbs.twimg.com/media/EYtqK6lWkAMlztY?format=jpg&name=large"> -- Anti-Communist Extermination Programs </a>
-<br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xnj_cusNvZx_8p4AnyFFv5_Y"> -- Colonialism and Economic Imperialism </a>
+<br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xnj_cusNvZx_8p4AnyFFv5_Y"> -- Colonialism and Economic Imperialism - 1 </a>
+<a href="https://www.currentaffairs.org/2017/09/a-quick-reminder-of-why-colonialism-was-bad"> - 2 </a>
 <br><a href="https://i.redd.it/u4mpl8v8t7951.png"> -- British Capitalism - 1 </a>
 <a href="https://i.redd.it/d7f18h637n951.png"> - 2 </a>
 <br><a href="https://www.youtube.com/watch?v=7fQ57NBEUM4"> -- Fascism: Capitalism in Decay </a>
@@ -142,11 +156,24 @@
 <br><a href="https://www.youtube.com/watch?v=GTcilmKa4qo"> -- "Capitalism is Equal Opportunity" </a>
 <br><a href="https://www.youtube.com/watch?v=ZjBIm4I3Amg"> -- "Why Don't You Just Start a Business?" </a>
 <br><a href="https://www.youtube.com/watch?v=uMPO3iaWIGA"> -- There's No Ethical Consumption Under Capitalism </a>
+<br><a href="https://www.youtube.com/watch?v=32m7kcv08q8"> -- The Value of Everything </a>
+<br><a href="https://www.aljazeera.com/indepth/opinion/2014/08/exposing-great-poverty-reductio-201481211590729809.html"> -- Poverty Reduction Lie </a>
 <br><a href="https://qph.fs.quoracdn.net/main-qimg-8bccc8eeacf9c18ce51fe5b5b39f67ed"> -- Hierarchy - 1 </a>
 <a href="https://qph.fs.quoracdn.net/main-qimg-1fa05ae870a44d76324334ad72089032"> - 2 </a>
+<a href="https://i.redd.it/87p5p9n60be31.jpg"> - 3 </a>
+<a href="https://i.imgur.com/lHWrEUm.jpg"> - 4 </a>
+<a href="https://imgur.com/2zhcVXD"> - 5 </a>
+<a href="https://imgur.com/QNr18Xh"> - 6 </a>
+<a href="https://www.youtube.com/watch?v=Bzu_U3Nyk9c"> - 7 </a>
 <br><a href="https://qph.fs.quoracdn.net/main-qimg-5828a2ec92219c0efd6b8afad99a2618"> -- The Cycle of Capitalism </a>
+<br><a href="https://www.youtube.com/watch?v=f9dLcGJ5NI0"> -- Contradictions of Capitalism </a>
+<br><a href="https://www.youtube.com/watch?v=qOP2V_np2c0"> -- Crises of Capitalism </a>
 <br><a href="https://qph.fs.quoracdn.net/main-qimg-038116999e7deb297bde2a9546d30dda"> -- Superstructure/Base </a>
-<br><a href="https://qph.fs.quoracdn.net/main-qimg-0253142938ca5c2b9bc71fd9e399f000"> -- Historical Progress </a>
+<br><a href="https://qph.fs.quoracdn.net/main-qimg-0253142938ca5c2b9bc71fd9e399f000"> -- Historical Progress - 1 </a>
+<a href="https://www.youtube.com/watch?v=UoSe66oOKsw&app=desktop"> - 2 </a>
+<a href="https://www.youtube.com/watch?v=6plfLzRDnCA&app=desktop"> - 3 </a>
+<a href="https://www.youtube.com/watch?v=rec1DfWMjGQ&app=desktop"> - 4 </a>
+<a href="https://www.youtube.com/watch?v=cI01-5zhwdA&app=desktop"> - 5 </a>
 <br><a href="https://mobile.twitter.com/lefthandle/status/1267279221539459072"> -- The Necessity of Marxism </a>
 <br><a href="https://www.youtube.com/watch?v=6M7WlWnQ8EM"> -- Measuring the Production of Use Values </a>
 <br><a href="https://www.youtube.com/watch?v=qihG6AGjkRk"> -- How To Fix the Housing Crisis </a>
@@ -165,7 +192,8 @@
 <br><a href="https://i.redd.it/ngcyuj464qr31.jpg"> -- Corporatism </a>
 <br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xnj9FzkYSW2yB_Bg5wTZzCDM"> -- Corruption </a>
 <br><a href="https://www.rebelnews.ie/2020/07/21/tendency-rate-profit-fall/"> -- Tendency For Rate of Profit to Fall </a>
-<br><a href="https://graphitepublications.com/collectively-learned-individualism/"> -- Individualism vs Collectivism </a>
+<br><a href="https://graphitepublications.com/collectively-learned-individualism/"> -- Individualism vs Collectivism - 1 </a>
+<a href="https://www.youtube.com/watch?v=KXpzSEH0xfM"> - 2 </a>
 <br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xngYjP604681TbMwqwPdbn-B"> -- Education For the Right </a>
 <br><a href="https://pastebin.com/raw/gKXZX3UC"> -- Adam Smith </a>
 <br><a href="https://www.forbes.com/sites/hbsworkingknowledge/2017/05/03/the-clear-connection-between-slavery-and-american-capitalism/"> -- Slavery - 1 </a>
@@ -174,6 +202,8 @@
 <a href="https://www.nps.gov/subjects/ugrr/discover_history/terminology.htm"> - 4 </a>
 <a href="https://humantrafficking.einnews.com/"> - 5 </a>
 <a href="https://www.theguardian.com/world/2020/jul/26/tom-cotton-slavery-necessary-evil-1619-project-new-york-times"> - 6 </a>
+<a href="https://mobile.twitter.com/DanielDumbrill/status/1272126247598841858"> - 7 </a>
+<br><a href="https://i.redd.it/i7o00aeyoic41.jpg"> -- Class Warfare </a>
 <br><a href="https://www.youtube.com/watch?v=4QKnrZmvlaA"> -- Art and Capital </a>
 <br><a href="https://player.fm/series/the-blindboy-podcast/abstract-art-and-the-cia"> -- Blindboy podcast: Abstract Art and the CIA </a>
 <br><a href="https://github.com/chobeat/awesome-critical-tech-reading-list"> -- Critical Tech Reading List </a>
@@ -194,6 +224,7 @@
 <br><a href="https://www.youtube.com/watch?v=prDyCFLZEg0"> -- Capitalism, a Love Story </a>
 <br><a href="https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm"> -- Imperalism: Central to Capitalism </a>
 <br><a href="https://www.youtube.com/watch?v=unKNNiYQFp4"> -- Manufacturing Consent </a>
+<br><a href="https://www.bbc.com/news/business-38137480"> -- "Fairtrade" </a>
 <br><a href="https://www.thetimes.co.uk/article/congos-miners-dying-to-feed-worlds-hunger-for-electric-cars-jcrvj37vr"> -- Green Capitalism? </a>
 <br><a href="https://www.youtube.com/watch?time_continue=5654&v=Zk11vI-7czE&feature=emb_title"> -- Green Capitalism Documentary </a>
 <br><a href="https://www.nature.com/articles/s41467-020-16941-y">  -- Environmentalism Needs Social Justice </a>
@@ -203,8 +234,10 @@
 <br><a href="https://jacobinmag.com/2020/03/green-new-deal-politics-consumption/"> -- Green New Deal? </a>
 <br>
 <br><a href="https://cdn.discordapp.com/attachments/717722858393960451/719590643692994634/EZEBllSXgAU1wLs.png"> -- Enlightened Centrism? </a>
-<br><a href="https://t.co/i5OjGGNdWD?amp=1"> -- Liberalism - 1 </a>
+<br><a href="https://t.co/i5OjGGNdWD?amp=1"> -- Liberalism </a>
 <br><a href="https://www.youtube.com/watch?v=77VaJMFWuiE"> -- Nordic Model? - 1 </a>
+<a href="https://www.economist.com/business/2016/03/10/a-nordic-pyramid?fsrc=scn%2Ffb%2Fte%2Fpe%2Fed%2Fanordicpyramid"> - 2 </a>
+<a href="https://www.youtube.com/watch?v=5w-Lu5czbk0"> - 3 </a>
 <br><a href="https://www.youtube.com/playlist?list=PLbnLysSug0vQ5qdifZ4N0CzrYyal4RQ8S"> -- Social democracy? (Playlist) </a>
 <br><a href="https://www.reddit.com/r/communism/comments/duk2yy/the_problem_with_democratic_socialism_in_related/"> -- Democratic Socialism? - 1 </a>
 <a href="https://www.reddit.com/r/communism/comments/fgr1aw/how_many_elections_will_it_take_for_social/"> - 2 </a>
@@ -212,6 +245,9 @@
 <a href="https://en.wikipedia.org/wiki/Roter_Frontk%C3%A4mpferbund"> - 4 </a>
 <a href="https://www.peoplesworld.org/article/the-murders-of-rosa-luxemburg-and-karl-liebknecht/"> - 5 </a>
 <br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xnja3ZyAd2mN_3E7lse9B4XV"> -- UBI? </a>
+<br><a href="https://communism.lemmy.ml/post/6088"> -- Automation - 1 </a>
+<a href="https://communism.lemmy.ml/post/6076"> - 2 </a>
+<a href="https://communism.lemmy.ml/post/6075"> - 3 </a>
 <br><a href="https://www.youtube.com/watch?v=7i_f4Kbpgn4"> -- Artificial Intelligence - 1 </a>
 <a href="https://www.youtube.com/watch?v=FCtBL621MDs"> - 2 </a>
 <a href="https://www.youtube.com/watch?v=IFe9wiDfb0E"> - 3 </a>
@@ -264,7 +300,8 @@
 <a href="https://dialecticalartist.wordpress.com/politicalresources/"> - 3 </a>
 <br><a href="https://np.reddit.com/r/communism101/comments/b4ozfe/any_media_recommendations_for_someone_willing_to/ej8lx91/"> -- Media Recommendations </a>
 <br>
-<br><a href="https://www.youtube.com/watch?v=kyepUAtHAL4"> -- Richard Wolff, Labour Theory of Value </a>
+<br><a href="https://www.youtube.com/watch?v=kyepUAtHAL4"> -- Labour Theory of Value - 1 </a>
+<a href="https://www.youtube.com/watch?t=2s&v=emnYMfjYh1Q&app=desktop"> - 2 </a>
 <br><a href="https://www.youtube.com/watch?v=3B4rDJTOYKw"> -- Only Socialism Can Save the Planet </a>
 <br><a href="https://i.redd.it/beb579e4lf051.png"> -- HDI of socialist nations </a>
 <br><a href="https://media.discordapp.net/attachments/692927141792448573/693649150952210452/unknown.png?width=293&height=300"> -- Workers Create the Wealth </a>
@@ -328,7 +365,8 @@
 <br><a href="https://pbs.twimg.com/media/Eb1moDXXsAAryAB?format=jpg&name=large"> -- USSR Infographic </a>
 <br>
 <br><a href="https://www.youtube.com/watch?v=Okz2YMW1AwY"> -- Soviet Union: Democratic or Totalitarian? </a>
-<br><a href="https://www.youtube.com/watch?v=HMOdDQQVZ6U"> -- USSR Didn't Kill Tens of Millions (Historians) </a>
+<br><a href="https://www.youtube.com/watch?v=HMOdDQQVZ6U"> -- USSR Didn't Kill Tens of Millions (Historians) - 1 </a>
+<a href="https://leftypedia.org/wiki/Black_Book_of_Communism"> - 2 </a>
 <br><a href="https://media.discordapp.net/attachments/717722858393960451/718085299267436634/84avfq2911w21.png?width=558&height=662"> -- Gulags - 1 </a>
 <a href="https://cdn.discordapp.com/attachments/710599832519049256/734455487675891773/Gulag_population.jpg"> - 2 </a>
 <a href="https://cdn.discordapp.com/attachments/710599832519049256/734456692435320912/Gulag_sentencing_length.jpg"> - 3 </a>
@@ -338,6 +376,7 @@
 <br><a href="https://www.youtube.com/watch?v=efU4opfSwQY&t=80s"> -- Gulags (CIA Playing Themselves) </a>
 <br><a href="http://gis.huri.harvard.edu/historical-atlas/the-great-famine/famine-web-map.html"> -- Holodomor? - 1 </a>
 <a href="https://colonelcassad.livejournal.com/3929565.html"> - 2 </a>
+<a href="https://www.northstarcompass.org/nsc0903/amholomor.htm"> - 3 </a>
 <br><a href="https://www.youtube.com/watch?v=wflMmNTXqKk&app=desktop"> -- The Real Death Toll of Communism (From a Radlib Perspective) </a>
 <br><a href="https://www.youtube.com/watch?v=3b6ips6fXF0"> -- "If Socialism's So Good Why Do People Flee It?" </a>
 <br><a href="https://eurasiangeopolitics.com/ussr-maps/ussr-natgeo/#main"> -- Peoples of the Soviet Union </a>
@@ -354,6 +393,7 @@
 <br><a href="https://sci-hub.tw/https://www.jstor.org/stable/pdf/40402359.pdf?seq=1#page_scan_tab_contents"> -- Health In the USSR </a>
 <br><a href="http://medicalency.com/bolnitsy-v-sssr.htm"> -- Soviet Healthcare System </a>
 <br><a href="https://www.marxists.org/archive/newsholme/1933/red-medicine/index.htm"> -- Red Medecine </a>
+<br><a href="https://www.theguardian.com/commentisfree/2020/jul/28/coronavirus-smallpox-vaccine-eradicated"> -- Smallpox Eradication </a>
 <br><a href="http://www.revolutionarydemocracy.org/archive/anglosov.htm"> -- Soviet Education System </a>
 <br><a href="https://m.youtube.com/watch?v=H0PnpMVkD5E"> -- Soviet Education </a>
 <br><a href="https://www.youtube.com/watch?v=BpSmDnFZC7E"> -- Soviet Mathematics </a>
@@ -365,6 +405,7 @@
 <br><a href="https://www.smithsonianmag.com/smart-news/soviet-russia-had-a-better-record-of-training-women-in-stem-than-america-does-today-180948141/"> -- USSR Feminism and Equality - 1 </a>
 <a href="https://www.economist.com/europe/2019/07/18/why-half-the-scientists-in-some-eastern-european-countries-are-women"> - 2 </a>
 <a href="https://www.youtube.com/watch?v=v=Gf3zWUq2m/"> - 3 </a>
+<a href="https://mobile.twitter.com/oktyabrvperedi/status/1279827906122973184"> - 4 </a>
 <br><a href="https://russiapedia.rt.com/of-russian-origin/dacha/"> -- Dachas (Holiday Homes) </a>
 <br>
 <br><a href="https://www.bannedthought.net/International/RIM/AWTW/1999-25/PolPot_eng25.htm"> -- Pol Pot (The One Exception) </a>
@@ -388,7 +429,7 @@
 <br><a href="https://www.youtube.com/watch?v=2aMsi-A56ds"> -- How Democracy Works in Cuba </a>
 <br><a href="https://www.youtube.com/watch?v=YIqm075vC1A"> -- Cuba: Before and After the Revolution </a>
 <br>
-<br><a href="https://www.youtube.com/watch?v=UFKE1wtKYu0"> -- Stalin's Cult of Personality </a>
+<br><a href="https://www.youtube.com/watch?v=UFKE1wtKYu0"> -- Stalin's Cult of Personality? </a>
 <br><a href="https://www.youtube.com/watch?v=SsdLDFtbdrA"> -- Chernobyl - 1 </a>
 <a href="https://www.youtube.com/watch?v=BfJ1fhmPPmM"> - 2 </a>
 <a href="https://www.youtube.com/watch?v=y5dV3IuNWvU"> - 3 </a>
@@ -410,16 +451,21 @@
 <a href="https://zinoviev.info/wps/archives/1339"> - 2 </a>
 <br><a href="https://www.youtube.com/watch?v=EE-kCZnlGZU&feature=youtu.be"> -- Factors in Economic Collapse of the USSR </a>
 <br><a href="https://cdn.discordapp.com/attachments/449335833816858624/723960893741989938/image0.jpg"> -- Referendum On the Preservation of the USSR </a>
-<br><a href="https://www.youtube.com/watch?v=N7Z-D4eybZI"> -- When "Freedom" Came To Russia </a>
+<br><a href="https://www.youtube.com/watch?v=N7Z-D4eybZI"> -- When "Freedom" Came To Russia - 1 </a>
+<a href="https://www.reddit.com/r/EuropeanSocialists/comments/efloa8/the_consequences_of_the_collapse_of_the_soviet/"> - 2 </a>
 <br><a href="https://prnt.sc/rzanqa"> -- Ukraine - 1 </a>
 <a href="https://mobile.twitter.com/MarkAmesExiled/status/1287454053191094275"> - 2 </a>
+<a href="https://www.thecanadafiles.com/europe/ukcdnm"> - 3 </a>
 <br><a href="https://lh3.googleusercontent.com/6dxVDa6yBkAJpglSjJto6xMW12MkiKwF68fFjAccdKm0jnj-cOVkNhDAOriJEMxlKjPzJwBMuMGIpFP3IxvUSGd01HeCmBqEqVHHBJMqLwHnDBXFqMipwgdvy6BNKV496A=s800"> -- Eastern Bloc - 1 </a>
 <a href="https://qph.fs.quoracdn.net/main-qimg-852f901f3ae042c32b5b0241f9abc5dd"> - 2 </a>
+<a href="https://www.bbc.com/news/world-europe-48012965"> - 3 </a>
 <br><a href="https://www.reddit.com/r/communism/comments/cu8rug/masterpost_on_the_socialist_federal_republic_of/"> -- Yugoslavia - 1 </a>
 <a href="https://www.youtube.com/watch?v=GEzOgpMWnVs&t"> - 2 </a>
 <a href="https://medium.com/@RobertArlan/the-dismemberment-of-yugoslavia-20-yearson-60a47c535653"> - 3 </a>
 <a href="https://web.archive.org/web/20000823153251/http://www.strafverteidiger-berlin.de/forum/kerntke.htm"> - 4 </a>
-<br><a href="https://www.rt.com/russia/414254-share-of-russians-who-regret/"> -- Soviet Nostalgia </a>
+<br><a href="https://www.rt.com/russia/414254-share-of-russians-who-regret/"> -- Soviet Nostalgia - 1 </a>
+<a href="https://www.globalresearch.ca/the-tragic-failure-of-post-communism-in-eastern-europe/23616"> - 2 </a>
+<a href="https://medium.com/@anonymousanarchy29/socialist-system-design-socialism-as-a-challenging-system-design-problem-85bc0a5d32c4"> -- Forward </a>
 </p>
 
 <h2 style="text-align:center;"> - Obstacles </h2>
@@ -444,10 +490,14 @@
 <br><a href="https://pbs.twimg.com/media/EbbK695XgAAdbXi?format=jpg&name=4096x4096"> -- Fossil Fuel Dependence </a>
 <br>
 <br><a href="https://youtube.com/watch?v=OCCFQymA-jM"> -- "Workers, Don't Unite" </a>
+<br><a href="https://www.youtube.com/watch?v=bxBBw_KelTc"> -- Why Join a Union? </a>
 <br><a href="https://www.youtube.com/watch?v=NK1tfkESPVY&app=desktop"> -- Central Intelligence Agency - 1 </a>
 <a href="https://mobile.twitter.com/AlytaDeLeon/status/1286138931935948801"> - 2 </a>
 <a href="https://communism.lemmy.ml/post/6280"> - 3 </a>
-<br><a href="https://www.youtube.com/watch?v=m4dfYc96GPs&app=desktop"> -- FBI Infiltration </a>
+<a href="https://mobile.twitter.com/Karl_Was_Right/status/1281283480064634881"> - 4 </a>
+<a href="https://www.newyorker.com/magazine/2015/03/23/a-friend-of-the-devil"> - 5 </a>
+<br><a href="https://www.youtube.com/watch?v=m4dfYc96GPs&app=desktop"> -- FBI Infiltration - 1 </a>
+<a href="https://mobile.twitter.com/Louis_Allday/status/1270761520771796992"> - 2 </a>
 <br><a href="https://www.youtube.com/watch?v=4BG0VdanUTs"> -- More Millenials Should Be Socialists </a>
 <br><a href="https://en.wikipedia.org/wiki/Congress_for_Cultural_Freedom"> -- Congress For Cultural Freedom </a>
 <br><a href="https://en.wikipedia.org/wiki/COINTELPRO"> -- COINTELPRO - 1 </a>
@@ -455,7 +505,8 @@
 <br><a href="https://en.wikipedia.org/wiki/Orwell%27s_list"> -- Orwell's List </a>
 <br><a href="https://youtu.be/9TXEMH3Z-Jo"> -- The Real George Orwell </a>
 <br><a href="https://en.wikipedia.org/wiki/Communist_Control_Act_of_1954"> -- Communist Control Act of 1954 </a>
-<br><a href="https://medium.com/@dashthered/the-anti-chomsk%C3%BFng-66dcd8224729"> -- Noam Chomsky </a>
+<br><a href="https://medium.com/@dashthered/the-anti-chomsk%C3%BFng-66dcd8224729"> -- Noam Chomsky - 1 </a>
+<a href="https://mobile.twitter.com/Karl_Was_Right/status/1280597074988298240"> - 2 </a>
 <br>
 <br><a href="https://i.imgur.com/y6zPn7Wl.jpg"> -- Western Leftists </a>
 <br><a href="https://www.marxists.org/archive/olgin/1935/trotskyism/04.htm"> -- Trotskyism - 1 </a>
@@ -507,15 +558,18 @@
 <a href="https://i.redd.it/f0telitu63b51.jpg"> - 5 </a>
 <br><a href="https://github.com/dessalines/killed-by-police-frontend"> -- Killed By Police Frontend </a>
 <br><a href="https://dev.lemmy.ml/post/34341"> -- Ongoing Protests (15GB) </a>
-<br><a href="https://cdn.discordapp.com/attachments/449335833816858624/715456319154290698/17d41e7.jpg"> -- American Cops Running Out of Ammo </a>
-<br><a href="https://twitter.com/MetroATLDSA/status/1266552696607252480"> -- Cops Outnumbered 4:1 </a>
-<br><a href="https://twitter.com/johncardillo/status/1268635034124247045"> -- Police Resigning in High Numbers </a>
-<br><a href="https://mobile.twitter.com/IwriteOK/status/1266225500847931393?p=v"> -- Americans Now Know Police Stations Can Be Burned </a>
+<br><a href="https://cdn.discordapp.com/attachments/449335833816858624/715456319154290698/17d41e7.jpg"> -- Police? - 1 </a>
+<a href="https://twitter.com/MetroATLDSA/status/1266552696607252480"> - 2 </a>
+<a href="https://twitter.com/johncardillo/status/1268635034124247045"> - 3 </a>
+<a href="https://mobile.twitter.com/IwriteOK/status/1266225500847931393?p=v"> - 4 </a>
+<a href="https://www.reddit.com/r/socialism/comments/hxrw67/the_difference_between_power_and_privilege/"> - 5 </a>
 <br><a href="https://cdn.discordapp.com/attachments/449335833816858624/719965147157889075/EaFHpQfUEAAR-fw.png"> -- Capital Hill Autonomous Zone - 1 </a>
 <a href="https://www.capitolhillseattle.com/2020/06/welcome-to-free-capitol-hill-capitol-hill-autonomous-zone-forms-around-emptied-east-precinct/"> - 2 </a>
 <a href="https://mobile.twitter.com/BadMouse101/status/1278419802655264768"> - 3 </a>
 <br><a href="http://www.marxist.com/the-growing-outbreak-of-discontent-in-the-us-military.htm?fbclid=IwAR1ZEQEVo9BoNK-pIYQHLv6rKgYl2qOVx1pQx0sJ0c2QFD8hXjggtwKdrJw"> -- Growing Outbreak Among US Soldiers </a>
-<br><a href="https://www.teenvogue.com/story/black-lives-matter-revolution-coopt"> -- BLM Revolution </a>
+<br><a href="https://www.teenvogue.com/story/black-lives-matter-revolution-coopt"> -- BLM Revolution - 1 </a>
+<a href="https://www.youtube.com/watch?v=P6Q05o4rVGs"> - 2 </a>
+<a href="https://tribuneofthepeople.news/2020/07/17/three-points-on-the-peoples-struggles/"> - 3 </a>
 <br><a href="https://i.redd.it/0pd9wg3dmqx11.png"> -- Trotsky On Need For Guiding Organisation </a>
 <br><a href="https://www.youtube.com/watch?v=j3OcNXpeX08"> -- BLM Corporate Hypocrisy </a>
 <br><a href="https://mobile.twitter.com/Tees4Europe/status/1270090755512635398"> -- White Privelage </a>
@@ -617,7 +671,8 @@
 <br><a href="https://www.globalresearch.ca/hillary-emails-reveal-nato-killed-gaddafi-to-stop-libyan-creation-of-gold-backed-currency/5594742"> -- Libya </a>
 <br><a href="https://www.youtube.com/watch?v=mlz3-OzcExI"> -- Clinton </a>
 <br><a href="https://www.youtube.com/watch?v=MZHN-OFdEtM"> -- How the far-right Weaponises Nostalgia </a>
-<br><a href="https://www.youtube.com/watch?v=nsdIHK8O5yo"> -- Gamergate </a>
+<br><a href="https://www.youtube.com/watch?v=nsdIHK8O5yo"> -- Gamergate - 1 </a>
+<a href="https://i.imgur.com/TjJb4k4.jpg"> - 2 </a>
 <br>
 <br><a href="https://www.youtube.com/watch?v=darxphvk058"> -- The Function of Fascism </a>
 <br>
@@ -670,6 +725,7 @@
 <br><a href="https://cdn.discordapp.com/attachments/717722858393960451/719589671952449556/scXTsRuvb3ph4wzfkH6wYY-1200-80.png"> -- Antifa? - 1 </a>
 <a href="https://search.snopyta.org/image_proxy?url=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.kbWm3dgIdi8HGARzgysO0gHaFV%26pid%3D15.1&h=3d705ec423b4ad4aaae11b85198256fc3a30444bf360c842698b50ed735eac6a"> - 2 </a>
 <a href="https://pbs.twimg.com/media/Edz0fAeXoAAZFrX?format=png&name=small"> - 3 </a>
+<a href="https://mobile.twitter.com/johniadarola/status/1287765819464671235"> - 4 </a>
 <br><a href="https://www.youtube.com/watch?v=bgwS_FMZ3nQ"> -- Antifa explained </a>
 </p>
 
@@ -683,8 +739,10 @@
 <br><a href="https://www.salon.com/2010/12/06/america_collapse_2025/"> -- American Empire Collapse </a>
 <br><a href="https://www.irishtimes.com/opinion/fintan-o-toole-trial-runs-for-fascism-are-in-full-flow-1.3543375?mode=amp"> -- Fascism? </a>
 <br><a href="https://mobile.twitter.com/camilateleSUR/status/1286658847776571393"> -- "Venezuela" </a>
+<br><a href="https://pbs.twimg.com/media/EdE9LjdU8AAKfqk?format=jpg&name=small"> -- US Isolation </a>
 <br><a href="https://www.quora.com/q/marxismleninismmaoism/Can-we-put-a-likely-time-period-for-the-next-communist-revolution-to-occur-And-if-so-which-country"> -- Revolution </a> 
-<br><a href="https://www.youtube.com/watch?v=_YIb-uK9IrM"> -- We are about to have a GDP with a 30% decline </a>
+<br><a href="https://www.youtube.com/watch?v=_YIb-uK9IrM"> -- We are about to have a GDP with a 30% decline - 1 </a>
+<a href="https://www.nbcnews.com/business/economy/wall-street-slides-inverted-yield-curve-rings-recession-alarm-bells-n1042211"> - 2 </a>
 </p>
 
 <h2 style="text-align:center;"> - Anti-Imperialism </h2>
@@ -714,7 +772,8 @@
 <a href="https://mobile.twitter.com/commieflavus/status/1282588339984568320"> - 4 </a>
 <a href="https://www.mintpressnews.com/us-backed-coup-govt-bolivia-suspends-elections-third-time/269764/"> - 5 </a>	
 <a href="https://mobile.twitter.com/elonmusk/status/1286866843307737088"> - 6 </a>
-<br><a href="https://mobile.twitter.com/BrianMteleSUR/status/1278337380458483717"> -- Lula Deposition </a>
+<br><a href="https://mobile.twitter.com/BrianMteleSUR/status/1278337380458483717"> -- Lula Deposition - 1 </a>
+<a href="https://theintercept.com/2020/03/12/united-states-justice-department-brazil-car-wash-lava-jato-international-treaty/"> - 2 </a>
 <br><a href="https://www.pbs.org/newshour/show/stretch-north-dakota-highway-witnesses-oils-boom-bust"> -- North Dakota and Boom Bust </a>
 <br><a href="https://www.youtube.com/watch?v=elNKZ4niERY"> -- Israeli Annexations - 1 </a>
 <a href="https://nvlupin.blob.core.windows.net/images/van/JVP/JVP/1/61881/images/UN%20Settlement%20List_all.png"> - 2 </a>
@@ -869,7 +928,7 @@
 <br>
 <a href="https://medium.com/@erin_gallagher/social-media-automation-information-warfare-by-the-venezuelan-opposition-9cdb407492f8"> -- Information Warfare By the Venezuelan Opposition </a>
 <br>
-<a href="https://www.eldiario.es/zonacritica/Venezuela-Twitter-orgia-desinformativa_6_229987023.html"> -- Pictures of Other Protests in Other Countries (Like Argentinia, Syria, Catalonia) Being Spread as Signs of Venezuelan Oppression Against Protestors (They even used a screenshot from a porn to show how police members allegedly sexually abuse protestors) </a>
+<a href="https://www.eldiario.es/zonacritica/Venezuela-Twitter-orgia-desinformativa_6_229987023.html"> -- False Pictures of Venezuela </a>
 <br>
 <a href="https://www.youtube.com/watch?v=zWFy-QtHYy8"> -- The US Backed Coup in Venezuela </a>
 <br>
@@ -889,7 +948,8 @@
 <a href="https://www.youtube.com/watch?v=YIqm075vC1A"> -- Cuba Before and After Revolution </a>
 <a href="https://anti-imperialism.org/2014/02/05/debunking-the-che-guevara-was-racist-lie/"> -- Debunking Che Guevara Was a Racist Lie </a>
 <a href="https://www.telesurenglish.net/news/Ex-Cuban-Dictator-Fulgencio-Batistas-Daughter-is-Homeless-in-Florida-20170629-0022.html"> -- Ex Cuban Dictator, Batistas Daughter is Homeless in Florida </a>
-<a href="https://www.architectural-review.com/essays/cubas-urban-farming-revolution-how-to-create-self-sufficient-cities/8660204.article"> -- Cuban Farming </a>
+<a href="https://www.architectural-review.com/essays/cubas-urban-farming-revolution-how-to-create-self-sufficient-cities/8660204.article"> -- Cuban Farming - 1 </a>
+<a href="https://tribunemag.co.uk/2020/07/cubas-model-vindicated"> - 2 </a>
 <a href="https://eu.usatoday.com/story/news/world/2018/01/09/cuba-has-lung-cancer-vaccine-many-u-s-patients-cant-get-without-breaking-law/1019093001/"> -- Cuban Lung Cancer Vaccine </a>
 <a href="https://www.youtube.com/watch?v=MUYS1EVutmg"> -- Cuban Doctors </a>
 <br>
@@ -897,7 +957,8 @@
 <br>
 <a href="https://www.imt.ie/news/ireland-has-just-2-7-doctors-per-1000-capita-11-11-2015/"> -- Doctors Per 1000 People in Ireland </a>
 <a href="https://www.telesurenglish.net/news/cuba-cuban-doctors-highest-number-in-history-20190723-0009.html"> -- Doctors Per 1000 People in Cuba </a>
-<br><a href="https://mobile.twitter.com/NicholsUprising/status/1241926241810251776"> -- Cuba Exports Doctors, America Bombs </a>
+<br><a href="https://mobile.twitter.com/NicholsUprising/status/1241926241810251776"> -- Cuba Exports Doctors, America Bombs - 1 </a>
+<a href="https://mronline.org/2020/07/24/cuban-medical-internationalism-has-been-a-core-component-of-the-revolution/"> - 2 </a>
 </p>
 
 <h2 style="text-align:center;"> - Vietnam </h2>
@@ -920,7 +981,9 @@
 <a href="https://www.marxists.org/history/erol/ncm-5/cpc-policy.pdf"> - 3 </a>
 <a href="https://www.marxists.org/reference/archive/mao/selected-works/volume-4/mswv4_65.htm"> - 4 </a>
 <a href="https://www.quora.com/Was-communism-the-best-thing-ever-to-happen-to-China/answer/Godfree-Roberts"> - 5 </a>
-<a href="https://ash.harvard.edu/files/ash/files/final_policy_brief_7.6.2020.pdf"> -- Chinese Public Opinion </a>
+<a href="https://mobile.twitter.com/SocialistAct/status/1287740558908305408"> - 6 </a>
+<a href="https://ash.harvard.edu/files/ash/files/final_policy_brief_7.6.2020.pdf"> -- Chinese Public Opinion - 1 </a>
+<a href="https://mobile.twitter.com/SpokespersonCHN/status/1287653340638089217"> - 2 </a>
 <br>
 <a href="https://dengxiaopingworks.wordpress.com/2013/03/18/to-uphold-socialism-we-must-eliminate-poverty/"> -- Poverty Elimination </a>
 <a href="https://imgur.com/a/vRVcX8D"> -- Wealth Inequality vs West </a>
@@ -944,6 +1007,8 @@
 <a href="https://www.reddit.com/r/Sino/comments/hvfg56/latest_uyghur_prisoners_videos_actually_a_bunch/"> - 6 </a>
 <a href="https://www.quora.com/Why-is-China-turning-Kashgar-Xinjiang-into-a-state-run-prison-Is-this-not-a-blatant-violation-of-human-rights-the-Chinese-constitution-so-protects/answer/Godfree-Roberts"> - 7 </a>
 <a href="https://observers.france24.com/en/20200103-how-fake-images-uighur-persecution-are-hurting-cause"> - 8 </a>
+<a href="https://mobile.twitter.com/isgoodrum/status/1279938572724826112"> - 9 </a>
+<a href="https://mobile.twitter.com/_tanwho_/status/1287430602325663744"> - 10 </a>
 <a href="https://www.youtube.com/watch?v=Wb-MNi8E-TA&app=desktop"> -- Re-Education Camps </a>
 <a href="https://thediplomat.com/2016/08/chinas-nightmare-xinjiang-jihadists-go-global/"> -- Islamic Extremism </a>
 <a href="https://mobile.twitter.com/gobloid3/status/1281404596922060800"> -- Adrian Zenz - 1 </a>
@@ -957,12 +1022,15 @@
 <a href="https://www.youtube.com/watch?v=pezX6p5xpW4"> -- Is China Imperialist? </a>
 <a href="https://www.youtube.com/watch?v=iNnTpaN3Z8I"> -- DOTP </a>
 <br>
-<a href="https://www.theodysseyonline.com/most-what-hear-about-china-red-scare-yellow-peril-propaganda"> -- Red Scare Propaganda </a>
+<a href="https://www.theodysseyonline.com/most-what-hear-about-china-red-scare-yellow-peril-propaganda"> -- Red Scare Propaganda - 1 </a>
+<a href="https://mobile.twitter.com/isgoodrum/status/1283834283178639360"> - 2 </a>
 <a href="https://web.archive.org/web/20190707103231/https://stalinsmoustache.org/2019/04/29/book-outline-socialism-with-chinese-characteristics/"> -- SWCC - 1 </a>
 <a href="https://drive.google.com/drive/folders/1kPCMCxMkZTFY5GmJ8mvVtjyoDL6SmzQk"> - 2 </a>
 <a href="https://www.reddit.com/r/InformedTankie/comments/g86iex/everything_you_need_to_know_about_socialism_with/"> - 3 </a>
 <a href="https://stalinsmoustache.org/chinese-marxism/"> - 4 </a>
 <a href="https://www.youtube.com/watch?feature=youtu.be&v=Ff_ZkwJmfWQ&app=desktop"> - 5 </a>
+<a href="https://www.youtube.com/watch?v=_nY3VSmA-l8&app=desktop"> - 6 </a>
+<a href="https://www.youtube.com/watch?v=r6i5qVbL2ys&app=desktop"> - 7 </a>
 <a href="https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68"> -- The Long Game </a>
 <br>
 <a href="https://www.mintpressnews.com/china-clean-energy/248092/"> -- Environmentalism </a>
@@ -972,7 +1040,9 @@
 <a href="https://www.youtube.com/watch?v=whbyuy2nHBg"> -- Wet Markets </a>
 <br>
 <a href="https://qph.fs.quoracdn.net/main-qimg-682bbced6f0662f9d7575c0b6f5516a5"> -- Covid-19 Deaths </a>
-<a href="https://www.quora.com/Is-there-any-possibility-that-the-COVID-19-did-not-originate-in-China-Or-definitely-in-China-Is-there-any-scientific-evidence-proof-so-far"> -- Covid-19 Origin? </a>
+<a href="https://www.quora.com/Is-there-any-possibility-that-the-COVID-19-did-not-originate-in-China-Or-definitely-in-China-Is-there-any-scientific-evidence-proof-so-far"> -- Covid-19 Origin? - 1 </a>
+<a href="https://mobile.twitter.com/Karl_Was_Right/status/1279851576908148737"> - 2 </a>
+<a href="https://peoplesdispatch.org/2020/04/07/how-china-learned-about-sars-cov-2-in-the-weeks-before-the-global-pandemic/"> - 3 </a>
 <a href="https://www.scmp.com/news/china/science/article/3076284/coronavirus-vaccine-trials-chinese-volunteers-recount-their"> -- Corona Virus Vaccine - 1 </a>
 <a href="https://www.thetimes.co.uk/article/chinese-vaccine-makers-hail-success-of-antibody-trials-tpdvx873l"> - 2 </a>
 <a href="https://www.scmp.com/news/world/united-states-canada/article/3094157/donald-trump-willing-work-china-coronavirus-vaccine"> - 3 </a>
@@ -1004,7 +1074,11 @@
 <a href="https://mobile.twitter.com/mazzenilsson/status/1286824295839260673"> - 12 </a>
 <a href="https://mobile.twitter.com/Helenhs/status/1283813182709137408"> - 13 </a>
 <a href="https://www.youtube.com/watch?v=YeoRl3qedQE"> - 14 </a>
-<br><a href="https://qph.fs.quoracdn.net/main-qimg-510b9974978d5f962580406f247c1011"> -- US Bases Near China </a>
+<a href="https://www.qiaocollective.com/en/articles/china-hysteria-2021-defense-spending"> - 15 </a>
+<a href="https://mobile.twitter.com/StateDept/status/1287460174899314689"> - 16 </a>
+<a href="https://popularresistance.org/with-cold-war-language-pompeo-defines-plan-for-totalitarian-china/"> - 17 </a>
+<br><a href="https://qph.fs.quoracdn.net/main-qimg-510b9974978d5f962580406f247c1011"> -- US Bases Near China - 1 </a>
+<a href="https://mobile.twitter.com/ajitxsingh/status/1287504704927420426"> - 2 </a>
 <br>
 <a href="https://www.learningfromchina.net/china-is-most-promising-hope-for-third-world-fidel/"> -- Fidel On China </a>
 <a href="https://cdn.discordapp.com/attachments/704362078844223588/729817988727046204/deng_evaluation_1-2.png"> -- Deng - 1 </a>
@@ -1046,6 +1120,8 @@
 <a href="https://cdn.discordapp.com/attachments/723211470141390998/735990707038453840/image0.jpg"> - 7 </a>
 <a href="https://macropolo.org/analysis/members-only-recruitment-trends-in-the-chinese-communist-party/"> - 8 </a>
 <a href="https://communism.lemmy.ml/pictrs/image/thumbnail256/Gbc3uFTfFY.jpg"> - 9 </a>
+<a href="https://www.solidnet.org/article/f18338b1-e2ca-11e8-a7f8-42723ed76c54/"> - 10 </a>
+<a href="https://chinamediaproject.org/2020/07/27/diplomatic-moves-toward-xi-jinping-thought/"> - 11 </a>
 <a href="https://www.quora.com/How-did-Xi-Jinping-stop-corruption-and-change-China-for-the-better"> -- How Did Xi Stop Corruption and Change China For the Better? </a>
 <a href="https://www.quora.com/What-is-President-Xi-Jing-Pings-salary"> -- Xi Jinping's Salary </a>
 </p>
@@ -1054,7 +1130,9 @@
 <br>
 <p style="text-align:center;">
 <a href="https://docs.google.com/document/d/1we5OEdteZFfAh11v0s_RVh3LWAkVICGrFnvksVynGxw/edit?usp=sharing"> -- DPRK Myths Debunked *Masterpost </a>
-<a href="https://pbs.twimg.com/media/Ebx5FiTX0AoCnr-?format=jpg&name=small"> -- US Intervention </a>
+<a href="https://pbs.twimg.com/media/Ebx5FiTX0AoCnr-?format=jpg&name=small"> -- US Intervention - 1 </a>
+<a href="https://www.aljazeera.com/indepth/opinion/11-presidents-failed-peace-north-korea-180609133308201.html"> - 2 </a>
+<a href="https://mobile.twitter.com/nodutdol/status/1287804357673717761"> - 3 </a>
 <a href="https://www.youtube.com/watch?v=AM0faLccYuQ"> -- Real DPRK Economic Data </a>
 <br>
 <a href="https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=PRK"> -- DPRK Environmentalism and Fight Against Climate Change </a>
@@ -1106,6 +1184,7 @@
 <a href="https://cdn.discordapp.com/attachments/384045127649329153/722158212954193930/blueshirt_wankers.mp4"> - 6 </a>
 <a href="https://pbs.twimg.com/media/EakttxgWkAEsFBU.png:small"> - 7 </a>
 <a href="https://www.independent.ie/irish-news/politics/varadkar-suggested-creating-anonymous-accounts-online-to-make-positive-comments-on-news-37275799.html"> - 8 </a>
+<a href="https://mobile.twitter.com/Jimmy_J_Hickey/status/1287757771367219204"> - 9 </a>
 <a href="https://twitter.com/ginosocialist/status/1273528268998787072?s=21"> -- FG (Israel) </a>
 <a href="https://www.theguardian.com/world/2019/nov/04/irish-pm-leo-varadkar-under-fire-for-extolling-benefits-of-climate-crisis"> -- FG "Science" </a>
 <a href="https://mobile.twitter.com/paddycosgrave/status/1272792731425923073"> -- FG Covid-19 Response </a>
@@ -1233,8 +1312,11 @@
 <p style="text-align:center; color:navy;">
 <br><a href="https://i.redd.it/ai47amxe1nb51.png"> -- Why Socialism Quotes </a>
 <br>
-<br><a href="https://qph.fs.quoracdn.net/main-qimg-4a92d589faa8275d68ea0b094a498475"> -- Anti-Communism </a>	
+<br><a href="https://qph.fs.quoracdn.net/main-qimg-4a92d589faa8275d68ea0b094a498475"> -- Anti-Communism - 1 </a>
+<a href="https://mobile.twitter.com/SpookySocialist/status/1287922989741342720"> - 2 </a>
 <br>
+<br><a href="https://communism.lemmy.ml/post/5978"> -- Electoralism </a>	
+<br>	
 <br><a href="https://cdn.discordapp.com/attachments/449335833816858624/721743937726840923/quote-the-modern-revisionists-and-reactionaries-call-us-stalinists-thinking-that-they-insult-enver-h.png"> -- On The Honour of Being Called "Stalinists" </a>
 <br>
 <br><a href="https://qph.fs.quoracdn.net/main-qimg-44816956f921b1a2d941b9a89b8c217a"> -- Western Hypocrisy </a>
@@ -1582,10 +1664,12 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <br><a href="https://www.youtube.com/watch?v=ZZlxhz_xtM8"> -- Sputnik </a>
 <br><a href="https://www.youtube.com/watch?v=Sgj9Jv8W-YY"> -- Soviet Super Cars </a>
 <br><a href="https://mobile.twitter.com/danthomascomedy/status/1284808430167957504?p=v"> -- Soviet Bus Stops </a>
+<br><a href="https://imgur.com/gallery/ORROC"> -- USSR Gallery </a>
 <br><a href="https://en.wikipedia.org/wiki/Ostern"> -- Ostern (Genre) </a>
 <br><a href="https://www.youtube.com/watch?v=j3H0FjgACjM"> -- Hymn DOS Virus </a>
 <br><a href="https://sputniknews.com/russia/201809031067720827-musk-rockets-soviet-tech/"> -- SpaceX Rockets Based Off of Soviet Tech </a>
-<br><a href="https://www.reddit.com/r/communism/comments/9am8mv/a_detailed_breakdown_of_cyber_communism/"> -- Cyber Communism </a>
+<br><a href="https://www.reddit.com/r/communism/comments/9am8mv/a_detailed_breakdown_of_cyber_communism/"> -- Cyber Communism - 1 </a>
+<a href="https://github.com/dessalines/essays/blob/master/paul_cockshott_cyber_communism.md"> - 2 </a>
 <br><a href="https://www.rt.com/news/490321-musk-soviet-song-deepfake-spacex/"> -- Elon Musk Cosmonaut (Deepfake) </a>
 <br><a href="https://www.youtube.com/watch?v=9i0E7Ayi260&app=desktop"> -- Obama Sings Socialism is Good (Deepfake) </a>
 <br><a href="https://twitter.com/i/status/1276902120617361412"> -- Liberal Shrug </a>
