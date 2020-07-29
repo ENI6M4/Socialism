@@ -54,6 +54,7 @@
 <br><a href="https://www.rt.com/business/493240-coronavirus-drug-remdesivir-cost/"> -- Profit Motivator </a>
 <br><a href="https://www.nbcnews.com/news/amp/ncna1150091"> -- Covid-19 Root Cause = Profit Motive - 1 </a>
 <a href="https://www.reddit.com/r/socialism/comments/hj7z69/coronavirus_in_the_uk_has_shown_capitalism_for/"> - 2 </a>
+<a href="https://www.youtube.com/watch?v=n93ln-weXRw"> - 3 </a>
 <br><a href="https://www.youtube.com/watch?v=zeF2rkyxDIo&"> -- Capitalism and Covid-19 Response </a>
 <br><a href="https://socialistrevolution.org/capitalists-clash-over-hunt-for-covid-19-vaccine/"> -- Intellectual Property </a>
 <br><a href="https://www.jacobinmag.com/2017/05/intellectual-property-prescription-drugs-trans-pacific-partnership"> -- Prescription Drugs Price </a>
@@ -78,6 +79,7 @@
 <br><a href="https://www.youtube.com/watch?v=kNovwPIWr3Q"> -- Why Americans Eat Dessert For Breakfast </a>
 <br><a href="https://www.youtube.com/watch?v=X9Lf1GcG5M4"> -- Cultivated Identities - 1 </a>
 <a href="https://cdn.discordapp.com/attachments/678733491235586048/735158385607180348/7dhjfc7f83c51.png"> - 2 </a>
+<a href="https://cdn.discordapp.com/attachments/698637770062823445/737772619906154506/d26735ec2f50cd4c9384d07d50f0a8a6.png"> - 3 </a>
 <br><a href="https://www.youtube.com/watch?v=Hs39tNLQss8"> -- How Society Makes You Feel Alienated </a>
 <br><a href="https://www.youtube.com/watch?v=TOx74VLSwVQ"> -- Capitalist Alienation (Explained Through Animal Crossing) </a>
 <br><a href="https://www.youtube.com/watch?v=ec-wDiI-Y1Q&app=desktop"> -- Why You Hate Mondays </a>
@@ -147,6 +149,7 @@
 <br><a href="https://www.youtube.com/watch?v=7fQ57NBEUM4"> -- Fascism: Capitalism in Decay </a>
 <br>
 <br><a href="https://imgur.com/9rbR0Ql"> -- Individualism </a>
+<br><a href="https://www.youtube.com/watch?v=2GndZcj_3yI"> -- "Vote With Your Dollar </a>
 <br><a href="https://t.co/ymDcTr9UFX?amp=1"> -- Women, Race and Class </a>
 <br><a href="https://t.co/Kwj1vEdQrB?amp=1"> -- Racism, Birth Control and Reproductive Rights </a>
 <br><a href="https://t.co/F9B3u0JVnN?amp=1"> -- Are Prisons Obsolete? </a>
@@ -173,7 +176,8 @@
 <a href="https://www.youtube.com/watch?v=UoSe66oOKsw&app=desktop"> - 2 </a>
 <a href="https://www.youtube.com/watch?v=6plfLzRDnCA&app=desktop"> - 3 </a>
 <a href="https://www.youtube.com/watch?v=rec1DfWMjGQ&app=desktop"> - 4 </a>
-<a href="https://www.youtube.com/watch?v=cI01-5zhwdA&app=desktop"> - 5 </a>
+<a href="https://www.youtube.com/watch?v=gwtmfuRzEcA&app=desktop"> - 5 </a>
+<a href="https://www.youtube.com/watch?v=cI01-5zhwdA&app=desktop"> - 6 </a>
 <br><a href="https://mobile.twitter.com/lefthandle/status/1267279221539459072"> -- The Necessity of Marxism </a>
 <br><a href="https://www.youtube.com/watch?v=6M7WlWnQ8EM"> -- Measuring the Production of Use Values </a>
 <br><a href="https://www.youtube.com/watch?v=qihG6AGjkRk"> -- How To Fix the Housing Crisis </a>
@@ -435,10 +439,12 @@
 <a href="https://www.youtube.com/watch?v=y5dV3IuNWvU"> - 3 </a>
 <a href="https://www.forbes.com/sites/michaelshellenberger/2019/06/06/why-hbos-chernobyl-gets-nuclear-so-wrong"> - 4 </a>
 <br><a href="https://communismarchive.files.wordpress.com/2017/10/grover-furr-the-mystery-of-the-katyn-massacre_-the-evidence-the-solution-2018-erythros-press-and-media.pdf"> -- Katyn Massacre </a>
-<br><a href="https://mltheory.files.wordpress.com/2017/06/khrushchev-lied.pdf"> -- Khrushchev Lied </a>
-<br><a href="https://mltheory.files.wordpress.com/2017/06/grover_furr_blood_lies_the_evidence_that_every_b-ok-org.pdf"> -- Khrushchev's Lies </a>
-<br><a href="https://communismarchive.files.wordpress.com/2017/10/grover-furr-trotskye28099s-_amalgams__-trotskye28099s-lies-the-moscow-trials-as-evidence-the-dewey-commission.-trotskye28099s-conspiracies-of-the-1930s-volume-one-erythros-press-and-medi.pdf"> -- Trotsky's Lies </a>
-<br><a href="https://msuweb.montclair.edu/~furrg/research/beria_andreev_malenkov012939eng.html"> -- Yezhov </a>
+<br><a href="https://mltheory.files.wordpress.com/2017/06/khrushchev-lied.pdf"> -- Khrushchevites - 1 </a>
+<a href="https://mltheory.files.wordpress.com/2017/06/grover_furr_blood_lies_the_evidence_that_every_b-ok-org.pdf"> - 2 </a>
+<a href="https://communismarchive.files.wordpress.com/2017/10/grover-furr-trotskye28099s-_amalgams__-trotskye28099s-lies-the-moscow-trials-as-evidence-the-dewey-commission.-trotskye28099s-conspiracies-of-the-1930s-volume-one-erythros-press-and-medi.pdf"> - 3 </a>
+<a href="https://msuweb.montclair.edu/~furrg/research/beria_andreev_malenkov012939eng.html"> - 4 </a>
+<br><a href="https://www.mafhoum.com/press7/231P52.htm"> -- Afghan War - 1 </a>
+<a href="https://caitlinjohnstone.com/2020/06/28/this-russia-afghanistan-story-is-western-propaganda-at-its-most-vile/"> - 2 </a>
 <br><a href="https://drive.google.com/file/d/0B_dCRDZKs338NHRTUHZxZkdjZWs/view"> -- Decision Making </a>
 <br><a href="http://isj.org.uk/the-bolsheviks-and-islam/"> -- Religion - 1 </a>
 <a href="https://www.marxists.org/reference/archive/stalin/works/1920/11/13.htm"> - 2 </a>
@@ -496,6 +502,7 @@
 <a href="https://communism.lemmy.ml/post/6280"> - 3 </a>
 <a href="https://mobile.twitter.com/Karl_Was_Right/status/1281283480064634881"> - 4 </a>
 <a href="https://www.newyorker.com/magazine/2015/03/23/a-friend-of-the-devil"> - 5 </a>
+<a href="https://mobile.twitter.com/Garou_Hidalgo/status/1088592546937405440"> - 6 </a>
 <br><a href="https://www.youtube.com/watch?v=m4dfYc96GPs&app=desktop"> -- FBI Infiltration - 1 </a>
 <a href="https://mobile.twitter.com/Louis_Allday/status/1270761520771796992"> - 2 </a>
 <br><a href="https://www.youtube.com/watch?v=4BG0VdanUTs"> -- More Millenials Should Be Socialists </a>
@@ -526,6 +533,11 @@
 <a href="https://www.youtube.com/watch?v=pAokAC2pZWg"> - 2 </a>
 <a href="https://www.youtube.com/watch?v=pST13gSh4fQ"> - 3 </a>
 <a href="https://www.reddit.com/r/communism/comments/chgsnj/toward_a_continued_demystification_of_rojava_its/"> - 4 </a>
+<a href="https://www.reddit.com/r/communism/comments/64wkgf/polemic_the_anarchokulak_bandits_of_russia_and/"> - 5 </a>
+<a href="https://www.isreview.org/issues/53/makhno.shtml"> - 6 </a>
+<a href="https://www.reddit.com/r/communism/comments/chgsnj/toward_a_continued_demystification_of_rojava_its/"> - 7 </a>
+<a href="https://www.reddit.com/r/communism/comments/d00hj6/on_the_myths_of_the_spanish_civil_war/"> - 8 </a>
+<a href="https://classwars526086054.wordpress.com/2019/08/10/debunking-misconceptions-concerning-the-spanish-civil-war/"> - 9 </a>
 <br><a href="https://old.reddit.com/r/DebateCommunism/comments/9ak0wo/whats_the_difference_between_communism_and/e4w0v9n/"> -- Ancoms - 1 </a>
 <a href="https://www.reddit.com/r/DebateCommunism/comments/576t0d/im_an_anarchocommunist_leninise_me/"> - 2 </a>
 <br><a href="https://invidio.us/watch?v=WEkyW9GwbE8&local=1&nojs=0&player_style=youtube&quality=dash"> -- Anarcho-Syndialism </a>
@@ -607,6 +619,7 @@
 <br><a href="https://www.youtube.com/playlist?list=PLIuVy5356xniP-1mHd3wIu22dVEzDovAq"> -- Elon Musk: Idiot </a>
 <br><a href="https://www.youtube.com/watch?v=PaC8ApePLps"> -- Elon Musk - 1 </a>
 <a href="https://www.youtube.com/watch?v=UVyuhVAbO3U"> - 2 </a>
+<a href="https://cdn.discordapp.com/attachments/384045127649329153/738043449520947251/image0.png"> - 3 </a>
 <a href="https://www.businessinsider.co.za/elon-musk-sells-the-family-emeralds-in-new-york-2018-2"> - Emerald Mine </a>
 <a href="https://pbs.twimg.com/media/EOeZmRaWAAIAX-n?format=jpg&name=small"> - Indentured Servitude </a>
 <br><a href="https://cdn.discordapp.com/attachments/355755220090880001/662818376959262745/ElongatedMuskrat.jpg"> -- Muskrats - 1 </a>
@@ -743,6 +756,7 @@
 <br><a href="https://www.quora.com/q/marxismleninismmaoism/Can-we-put-a-likely-time-period-for-the-next-communist-revolution-to-occur-And-if-so-which-country"> -- Revolution </a> 
 <br><a href="https://www.youtube.com/watch?v=_YIb-uK9IrM"> -- We are about to have a GDP with a 30% decline - 1 </a>
 <a href="https://www.nbcnews.com/business/economy/wall-street-slides-inverted-yield-curve-rings-recession-alarm-bells-n1042211"> - 2 </a>
+<a href="https://communism.lemmy.ml/pictrs/image/o7xBXGahbG.png"> - 3 </a>
 </p>
 
 <h2 style="text-align:center;"> - Anti-Imperialism </h2>
@@ -758,6 +772,7 @@
 <br><a href="https://www.globalresearch.ca/hillary-emails-reveal-nato-killed-gaddafi-to-stop-libyan-creation-of-gold-backed-currency/5594742"> -- Gaddafi - 1 </a>
 <a href="https://mobile.twitter.com/Underground_RT/status/1283785830230876160"> - 2 </a>
 <a href="https://www.reddit.com/r/communism/comments/hsdb9n/information_on_muammar_algaddafi/"> - 3 </a>
+	
 <br><a href="https://www.youtube.com/watch?v=mlz3-OzcExI"> -- Clinton on Gaddafi </a>
 <br><a href="https://www.youtube.com/watch?v=bUhZmO6P0NU"> -- Gaddafi Interview </a>
 <br><a href="https://cdn.discordapp.com/attachments/718179491452682260/736705281140195409/unknown.png"> - IRA - 1 </a>
@@ -945,7 +960,8 @@
 <br>
 <p style="text-align:center;">
 <a href="https://pbs.twimg.com/media/EaWDWjFWsAAPH8P?format=jpg&name=medium"> -- Cuban Achievements </a>
-<a href="https://www.youtube.com/watch?v=YIqm075vC1A"> -- Cuba Before and After Revolution </a>
+<a href="https://www.youtube.com/watch?v=YIqm075vC1A"> -- Cuba Before and After Revolution - 1 </a>
+<a href="https://mobile.twitter.com/JoseJuMarti/status/1288112326084722695"> - 2 </a>
 <a href="https://anti-imperialism.org/2014/02/05/debunking-the-che-guevara-was-racist-lie/"> -- Debunking Che Guevara Was a Racist Lie </a>
 <a href="https://www.telesurenglish.net/news/Ex-Cuban-Dictator-Fulgencio-Batistas-Daughter-is-Homeless-in-Florida-20170629-0022.html"> -- Ex Cuban Dictator, Batistas Daughter is Homeless in Florida </a>
 <a href="https://www.architectural-review.com/essays/cubas-urban-farming-revolution-how-to-create-self-sufficient-cities/8660204.article"> -- Cuban Farming - 1 </a>
@@ -995,6 +1011,7 @@
 <a href="https://www.youtube.com/watch?v=b-nl0Hklwvg"> - 2 </a>
 <a href="https://freehker.github.io/index.html"> - 3 </a>
 <a href="https://www.newsweek.com/exclusive-more-hong-kong-say-us-threat-china-poll-1519710"> - 4 </a>
+<a href="https://www.youtube.com/watch?v=kwL7WMrlXf4"> - 5 </a>
 <a href="https://www.scmp.com/comment/opinion/article/3091438/us-has-been-exposed-funding-last-years-hong-kong-protests#click=https://t.co/DRlt1Y2FLu"> - US Funding </a>
 <br>
 	
@@ -1009,6 +1026,7 @@
 <a href="https://observers.france24.com/en/20200103-how-fake-images-uighur-persecution-are-hurting-cause"> - 8 </a>
 <a href="https://mobile.twitter.com/isgoodrum/status/1279938572724826112"> - 9 </a>
 <a href="https://mobile.twitter.com/_tanwho_/status/1287430602325663744"> - 10 </a>
+<a href="https://mobile.twitter.com/ChineseEmbinUS/status/1286318103467446272"> - 11 </a>
 <a href="https://www.youtube.com/watch?v=Wb-MNi8E-TA&app=desktop"> -- Re-Education Camps </a>
 <a href="https://thediplomat.com/2016/08/chinas-nightmare-xinjiang-jihadists-go-global/"> -- Islamic Extremism </a>
 <a href="https://mobile.twitter.com/gobloid3/status/1281404596922060800"> -- Adrian Zenz - 1 </a>
@@ -1019,7 +1037,8 @@
 <a href="https://thecommunists.org/2019/03/05/news/theory/chinese-forum-discusses-humanitys-shared-future/"> - 3 </a>
 <a href="https://i.redd.it/58lbdmfor4b51.jpg"> - 4 </a>
 <a href="https://www.quora.com/Is-China-proof-that-socialism-can-work-if-they-use-Lenins-NEP?share=1"> -- Socialism in China </a>
-<a href="https://www.youtube.com/watch?v=pezX6p5xpW4"> -- Is China Imperialist? </a>
+<a href="https://www.youtube.com/watch?v=pezX6p5xpW4"> -- Is China Imperialist? - 1 </a>
+<a href="https://mobile.twitter.com/joshua_landis/status/1287038931440209922/photo/1"> - 2 </a>
 <a href="https://www.youtube.com/watch?v=iNnTpaN3Z8I"> -- DOTP </a>
 <br>
 <a href="https://www.theodysseyonline.com/most-what-hear-about-china-red-scare-yellow-peril-propaganda"> -- Red Scare Propaganda - 1 </a>
@@ -1077,6 +1096,7 @@
 <a href="https://www.qiaocollective.com/en/articles/china-hysteria-2021-defense-spending"> - 15 </a>
 <a href="https://mobile.twitter.com/StateDept/status/1287460174899314689"> - 16 </a>
 <a href="https://popularresistance.org/with-cold-war-language-pompeo-defines-plan-for-totalitarian-china/"> - 17 </a>
+<a href="https://www.youtube.com/watch?v=CbGYOB9AlIQ&app=desktop"> - 18 </a>
 <br><a href="https://qph.fs.quoracdn.net/main-qimg-510b9974978d5f962580406f247c1011"> -- US Bases Near China - 1 </a>
 <a href="https://mobile.twitter.com/ajitxsingh/status/1287504704927420426"> - 2 </a>
 <br>
@@ -1122,8 +1142,9 @@
 <a href="https://communism.lemmy.ml/pictrs/image/thumbnail256/Gbc3uFTfFY.jpg"> - 9 </a>
 <a href="https://www.solidnet.org/article/f18338b1-e2ca-11e8-a7f8-42723ed76c54/"> - 10 </a>
 <a href="https://chinamediaproject.org/2020/07/27/diplomatic-moves-toward-xi-jinping-thought/"> - 11 </a>
-<a href="https://www.quora.com/How-did-Xi-Jinping-stop-corruption-and-change-China-for-the-better"> -- How Did Xi Stop Corruption and Change China For the Better? </a>
-<a href="https://www.quora.com/What-is-President-Xi-Jing-Pings-salary"> -- Xi Jinping's Salary </a>
+<a href="https://www.thetricontinental.org/working-document-1/"> - 12 </a>
+<a href="https://www.quora.com/How-did-Xi-Jinping-stop-corruption-and-change-China-for-the-better"> -- How Did Xi Stop Corruption </a>
+<a href="https://www.quora.com/What-is-President-Xi-Jing-Pings-salary"> -- Salary </a>
 </p>
 
 <h2 style="text-align:center;"> - DPRK </h2>
@@ -1138,7 +1159,8 @@
 <a href="https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=PRK"> -- DPRK Environmentalism and Fight Against Climate Change </a>
 <a href="https://leftistcritic.wordpress.com/2017/03/08/elections-in-the-socialist-motherland-democracy-in-the-dprk/"> -- DPRK Democracy </a>
 <a href="https://tjen-folket.no/index.php/en/2020/05/14/the-august-incident-the-fight-against-the-right-opportunist-line-in-the-workers-party-of-korea/"> -- WPK </a>
-<a href="https://www.youtube.com/watch?v=ktE_3PrJZO0&app=desktop"> -- DPRK "Defectors" </a>
+<a href="https://www.youtube.com/watch?v=ktE_3PrJZO0&app=desktop"> -- DPRK "Defectors" - 1 </a>
+<a href="https://edition.cnn.com/2018/05/21/asia/north-korea-restaurant-defectors-intl/index.html"> - 2 </a>
 <br><a href="https://www.youtube.com/watch?v=6YtTd31I15g"> -- Homegrown Outcasts
 <a href="https://en.wikipedia.org/wiki/List_of_Western_Bloc_defectors"> -- Western Bloc Defectors </a>
 <br>
@@ -1246,7 +1268,8 @@
 <br><a href="https://alexanderhomich.wordpress.com/"> -- Homitz </a>
 <br><a href="https://alexanderhomich.wordpress.com/about/"> -- "Why Am I a Communist?" </a>
 <br><a href="https://rebel.libsyn.com/ep-36-alex-homits-talks-about-connolly-barracks-capitalism-and-the-left"> -- Rebel podcast, Connolly Barracks </a>
-<br><a href="https://archive.org/details/prolespodarchive/Early_Access_Ep_45_Ireland_and_the_CYM.mp3"> -- Ireland and the CYM </a>
+<br><a href="https://archive.org/details/prolespodarchive/Early_Access_Ep_45_Ireland_and_the_CYM.mp3"> -- Ireland and the CYM - 1 </a>
+<a href="https://cdn.discordapp.com/attachments/721427278826831954/736145639246921738/FB_IMG_15955811563520634.jpg"> - 2 </a>
 <br><a href="https://radicalreflections.podbean.com/e/conversations-with-the-connolly-youth-movement/"> -- Radical Reflections, CYM </a>
 <br><a href="https://radicalreflections.podbean.com/e/irish-election-analysis-our-road-to-socialism/"> -- Radical Reflections, Irish Election 2020: Analysis </a>
 <br><a href="https://www.youtube.com/watch?v=RIBxgyQ7CAI"> -- CYM Speech - 1 </a>
