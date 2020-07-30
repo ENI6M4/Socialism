@@ -11,7 +11,7 @@
       font-size:15px;">
       <header style="text-align:center;">
 		  
-		   <div class="main">
+		<!--   <div class="main">
             <div class="USSRFLAG">
                 <img src="USSRFLAG.jpg">
             </div>
@@ -29,10 +29,10 @@
                      </ol>
                   </div>
                   
-                  <div class="title">
+                  <div class="title"> -->
                       <h1> Communism = "Stateless, Classless, Moneyless Society Operating On Virtue 'From Each According to His Ability, to Each According to His Needs'" 
 <a href="https://media.discordapp.net/attachments/692927141792448573/704091602238308422/comm.png?width=774&height=600"> Socialism = </a> </h1>
-                  </div>
+                <!--  </div> -->
 
 </header>
 	  
