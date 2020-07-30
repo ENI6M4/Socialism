@@ -3,18 +3,41 @@
 <html>
 <head>
 	
+     <link href="Why Socialism.css" rel="stylesheet" type="text/css">
+	
 </head>
 <body style="background-color:red;
       color:white;
       font-size:15px;">
       <header style="text-align:center;">
-
-<h1> Communism = "Stateless, Classless, Moneyless Society Operating On Virtue 'From Each According to His Ability, to Each According to His Needs'" 
+		  
+		   <div class="main">
+            <div class="USSRFLAG">
+                <img src="USSRFLAG.jpg">
+            </div>
+                            
+            <ol type="i"><li><a href="#main1"> Why Not Capitalism </a></li>
+						 <li><a href="#main2"> Reform? </a></li>
+                         <li><a href="#main3"> Why Socialism </a></li>
+                         <li><a href="#main4"> AES </a></li>
+                         <li><a href="#main5"> Obstacles </a></li>
+                         <li><a href="#main6"> Revolution </a></li>
+                         <li><a href="#main15"> China </a></li>
+                         <li><a href="#main21"> Quotes </a></li>
+                         <li><a href="#main22"> Memes </a></li>
+                         <li><a href="#main31"> Feel Good </a></li>
+                     </ol>
+                  </div>
+                  
+                  <div class="title">
+                      <h1> Communism = "Stateless, Classless, Moneyless Society Operating On Virtue 'From Each According to His Ability, to Each According to His Needs'" 
 <a href="https://media.discordapp.net/attachments/692927141792448573/704091602238308422/comm.png?width=774&height=600"> Socialism = </a> </h1>
+                  </div>
 
 </header>
 	  
-	  
+<div class = "container">
+<section id = "main1">  
 <h2 style="text-align:center;"> Books/Articles/Videos - Socialism: </h2>
 
 <br>
@@ -214,8 +237,10 @@
 <br><a href="https://player.fm/series/the-blindboy-podcast/abstract-art-and-the-cia"> -- Abstract Art and the CIA </a>
 <br><a href="https://github.com/chobeat/awesome-critical-tech-reading-list"> -- Critical Tech Reading List </a>
 </p>
+</section>
 
-
+<div class = "container">
+<section id = "main2">
 <h2 style="text-align:center;"> - Reform Impossible </h2>
 <br>
 <p style="text-align:center;">
@@ -277,7 +302,10 @@
 <br><a href="https://www.strike.coop/bullshit-jobs/"> -- The Phenomenon of Bullshit Jobs </a>
 <br><a href="https://www.disenz.net/en/david-graeber-on-harmful-jobs-odious-debt-and-fascists-who-believe-in-global-warming/"> -- Harmful Jobs, Odious Debt and Eco-Fascists </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main3">
 <h2 style="text-align:center;"> - Why Socialism? </h2>
 <br>
 <p style="text-align:center;">
@@ -351,7 +379,10 @@
 <br><a href="http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/aer.pdf"> -- Computers and Socialism </a>
 <br><a href="https://youtu.be/xU2IsaIlxOw"> -- Future of Leftism </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main4">
 <h2 style="text-align:center;"> - Actual Existing Socialism, Authoritarian? </h2>
 <br>
 <p style="text-align:center;">
@@ -471,7 +502,10 @@
 <a href="https://www.globalresearch.ca/the-tragic-failure-of-post-communism-in-eastern-europe/23616"> - 2 </a>
 <a href="https://medium.com/@anonymousanarchy29/socialist-system-design-socialism-as-a-challenging-system-design-problem-85bc0a5d32c4"> -- Forward </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main5">
 <h2 style="text-align:center;"> - Obstacles </h2>
 <br>
 <p style="text-align:center;">
@@ -555,7 +589,10 @@
 <br><a href="https://cdn.discordapp.com/attachments/692367328389890088/729770221111476304/Z.png"> -- Removal of the Cadets </a>
 <br><a href="https://www.blackagendareport.com/western-marxism-loves-purity-and-martyrdom-not-real-revolution"> -- Problems of Western Marxism </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main6">
 <h2 style="text-align:center;"> - Revolution Impossible? </h2>
 <br>
 <p style="text-align:center;">
@@ -596,7 +633,10 @@
 <br><a href="https://socialistra.org/"> -- Socialist Rifle Association </a>
 <br><a href="https://www.youtube.com/watch?v=_YIb-uK9IrM"> -- Incoming Recession </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main7">
 <h2 style="text-align:center;"> - Billionaires </h2>
 <br>
 <p style="text-align:center;">
@@ -645,7 +685,10 @@
 <br><a href="https://www.reddit.com/r/EnoughMuskSpam/"> r/EnoughMuskSpam </a>
 <br><a href="https://www.reddit.com/r/Bill_Gates_Is_Evil/"> r/Bill_Gates_Is_Evil </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main8">
 <h2 style="text-align:center;"> - Alt Right (Pipeline) </h2>
 <br>
 <p style="text-align:center;">
@@ -742,7 +785,10 @@
 <a href="https://mobile.twitter.com/johniadarola/status/1287765819464671235"> - 4 </a>
 <br><a href="https://www.youtube.com/watch?v=bgwS_FMZ3nQ"> -- Antifa explained </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main9">
 <h2 style="text-align:center;"> - American Empire Collapse? </h2>
 <br>
 <p style="text-align:center;">
@@ -759,7 +805,10 @@
 <a href="https://www.nbcnews.com/business/economy/wall-street-slides-inverted-yield-curve-rings-recession-alarm-bells-n1042211"> - 2 </a>
 <a href="https://communism.lemmy.ml/pictrs/image/o7xBXGahbG.png"> - 3 </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main10">
 <h2 style="text-align:center;"> - Anti-Imperialism </h2>
 <br>
 <p style="text-align:center;">
@@ -825,7 +874,10 @@
 <br><a href="https://www.nocoldwar.org/"> -- No to the Cold War - 1 </a>
 <a href="https://www.youtube.com/watch?v=Zz_u-ejEcmQ"> - 2 </a>	
 </p>
+</section>
 
+<div class = "container">
+<section id = "main11">
 <h2 style="text-align:center;"> - DDR </h2>
 <br>
 <p style="text-align:center;">
@@ -857,7 +909,10 @@
 <a href="https://cdn.discordapp.com/attachments/429730153032187924/429845439207047168/Stasi_State_or_Socialist_Paradise_The_German_Democratic_Republic_and_what_became_of_it_2.pdf"> -- Stasi State or Socialist Paradise? </a>
 <a href="http://www.spiegel.de/international/germany/homesick-for-a-dictatorship-majority-of-eastern-germans-feel-life-better-under-communism-a-634122.html"> -- Public Opinion On the DDR 20 Years Later, Ostalgie </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main12">
 <h2 style="text-align:center;"> - Venezeula </h2>
 <br>
 <p style="text-align:center;">
@@ -956,7 +1011,10 @@
 <a href="https://www.youtube.com/watch?v=oAk5WUBuS6k"> -- Coup Foiled By the Venezuelan Working Class </a>
 <br><a href="https://www.youtube.com/watch?v=jiPI7atsGGQ"> -- US Coup in Venezuela Fails Again! </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main13">
 <h2 style="text-align:center;"> - Cuba </h2>
 <br>
 <p style="text-align:center;">
@@ -977,7 +1035,10 @@
 <br><a href="https://mobile.twitter.com/NicholsUprising/status/1241926241810251776"> -- Cuba Exports Doctors, America Bombs - 1 </a>
 <a href="https://mronline.org/2020/07/24/cuban-medical-internationalism-has-been-a-core-component-of-the-revolution/"> - 2 </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main14">
 <h2 style="text-align:center;"> - Vietnam </h2>
 <br>
 <p style="text-align:center;">
@@ -986,7 +1047,10 @@
 <a href="https://www.youtube.com/watch?v=taDiYqwQZdg"> -- USSR and Vietnam </a>
 <a href="https://www.bbc.com/news/world-asia-53196009"> -- How Vietnamese People Rushed To Save Patient 91 </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main15">
 <h2 style="text-align:center;"> - China </h2>
 <br>
 <p style="text-align:center;">
@@ -1147,7 +1211,10 @@
 <a href="https://www.quora.com/How-did-Xi-Jinping-stop-corruption-and-change-China-for-the-better"> -- How Did Xi Stop Corruption </a>
 <a href="https://www.quora.com/What-is-President-Xi-Jing-Pings-salary"> -- Salary </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main16">
 <h2 style="text-align:center;"> - DPRK </h2>
 <br>
 <p style="text-align:center;">
@@ -1185,7 +1252,10 @@
 <a href="https://mobile.twitter.com/soiveid/status/1286475402865672195"> -- Kim Response - 1 </a>	
 <a href="https://cdn.discordapp.com/attachments/575238909575954432/703706932980088902/kim-jong-un-looking-at-video-game.png"> - 2 </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main17">
 <h2 style="text-align:center;"> - Ireland (Neo-Liberal) </h2>
 <br>
 <p style="text-align:center;">
@@ -1277,7 +1347,10 @@
 <a href="https://www.facebook.com/ConnollyYouth/posts/2289021411157556"> - 2 </a>
 <br><a href="https://www.facebook.com/177845365608515/videos/669737043571862/"> -- CYM Disruption of FG Meeting </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main17">
 <h2 style="text-align:center;"> - Security </h2> 
 <br>
 <p style="text-align:center;">
@@ -1301,7 +1374,10 @@
 <br><a href="https://directory.fsf.org/wiki/Main_Page"> -- FSF </a>
 <br><a href="https://www.reddit.com/r/StallmanWasRight/"> r/StallmanWasRight </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main18">
 <h2 style="text-align:center;"> - Conspiracy Theories? </h2>
 <br>
 <p style="text-align:center;">
@@ -1310,7 +1386,10 @@
 <br><a href="https://jacobinmag.com/2020/01/conspiracy-theories-nelson-mandela-anc-south-africa/"> -- Political Struggle Not Conspiracy Theories, the Answer </a>
 <br><a href="https://www.reddit.com/r/conspiracy/"> r/conspiracy </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main19">
 <h2 style="text-align:center;"> - Boring-Dystopia </h2>
 <br>
 <p style="text-align:center;">
@@ -1322,7 +1401,10 @@
 <br><a href="https://www.theatlantic.com/technology/archive/2016/07/what-if-cameras-stopped-telling-the-truth/491150/"> -- What if Cameras Stopped Telling the Truth </a>
 <br><a href="https://mobile.twitter.com/existentialcoms"> -- Existential Comics </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main20">
 <h2 style="text-align:center;"> - Wikipedia? (As a Source) </h2>
 <br>
 <p style="text-align:center;">
@@ -1330,7 +1412,10 @@
 <br><a href="https://thegrayzone.com/2020/06/11/meet-wikipedias-ayn-rand-loving-founder-and-wikimedia-foundations-regime-change-operative-ceo/"> -- Meet Wikipedia's Ayn Rand Loving Founder and Wikimedia Foundation's Regime Change Operative CEO </a>
 <br><a href="https://mobile.twitter.com/Vinncent/status/1273288871736946693?p=v"> -- Regime Change </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main21">
 <h2 style="text-align:center;"> - Quotes </h2>
 <br>
 <p style="text-align:center; color:navy;">
@@ -1396,7 +1481,10 @@ For socialism is merely the next step forward from state-capitalist monopoly. Or
 <br> -- "In our country, the contradiction between the working class and the national bourgeoisie comes under the category of contradictions among the people. By and large, the class struggle between the two is a class struggle within the ranks of the people, because the Chinese national bourgeoisie has a dual character. In the period of the bourgeois-democratic revolution, it had both a revolutionary and a conciliationist side to its character. In the period of the socialist revolution, exploitation of the working class for profit constitutes one side of the character of the national bourgeoisie, while its support of the Constitution and its willingness to accept socialist transformation constitute the other. 
 The national bourgeoisie differs from the imperialists, the landlords and the bureaucrat-capitalists. The contradiction between the national bourgeoisie and the working class is one between exploiter and exploited, and is by nature antagonistic. But in the concrete conditions of China, this antagonistic contradiction between the two classes, if properly handled, can be transformed into a non-antagonistic one and be resolved by peaceful methods. However, the contradiction between the working class and the national bourgeoisie will change into a contradiction between ourselves and the enemy if we do not handle it properly and do not follow the policy of uniting with, criticizing and educating the national bourgeoisie, or if the national bourgeoisie does not accept this policy of ours" - Mao
 </p>
+</section>
 
+<div class = "container">
+<section id = "main22">
 <h2 style="text-align:center;"> - Memes </h2>
 <br>
 <p>
@@ -1467,7 +1555,10 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="https://www.reddit.com/r/communism/comments/dp6ony/rsocialism_mods_are_banning_communists_my_story/"> - 2 </a>
 <a href="https://cdn.discordapp.com/attachments/721041141210022029/733101141214101534/IMG_20200714_141436_502.jpg"> -- Four Day Work Week
 </p>
+</section>
 
+<div class = "container">
+<section id = "main23">
 <h2 style="text-align:center;"> - Games </h2>
 <br>
 <p style="text-align:center;">
@@ -1495,7 +1586,10 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <br>
 <a href="https://www.reddit.com/r/LeftistGamersUnion/comments/h0sd78/it_is_time_for_the_peasant_republic/"> -- The Peasants Republic of Dithmarschen (EU4) </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main24">
 <h2 style="text-align:center;"> - Film/TV </h2>
 <br>
 <p style="text-align:center;">
@@ -1524,7 +1618,10 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="https://www.youtube.com/watch?v=7TNgCeOpdAw"> -- The Capitalist Realism of Black Mirror </a>
 <a href="https://www.youtube.com/watch?v=VNxWA_jemLY"> -- Capitalist Realism and Mr Robot </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main25">
 <h2 style="text-align:center;"> - Music </h2>
 <br>
 <p style="text-align:center;">
@@ -1538,7 +1635,10 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="https://www.youtube.com/watch?v=bvKqGQf0L0c&app=desktop"> -- Fuck Capitalism </a>
 <a href="https://www.youtube.com/watch?v=pgAu5cCQXP0"> -- Bring Back The Guillotine by Lil Guillotine </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main26">
 <h2 style="text-align:center;"> - Extra Books </h2>
 <br>
 <p style="text-align:center;">
@@ -1551,7 +1651,10 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="https://www.goodreads.com/book/show/38914131-the-people-s-republic-of-walmart"> -- People's Republic of Wal-Mart </a>
 <br><a href="http://piketty.pse.ens.fr/en/capital21c2"> -- Thomas Piketty, Capital in the 21st Century </a>
 </p>
+<section>
 
+<div class = "container">
+<section id = "main27">
 <h2 style="text-align:center;"> - Subreddits </h2>
 <br>
 <p style="text-align:center;">
@@ -1583,7 +1686,10 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="https://www.reddit.com/r/accidentallycommunist/"> r/acidentallycommunist </a>
 <a href="https://www.reddit.com/r/ANI_COMMUNISM/"> r/ANI_COMMUNISM </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main28">
 <h2 style="text-align:center;"> - ML Resources </h2>
 <br>
 <p style="text-align:center;">
@@ -1596,7 +1702,10 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="https://www.quora.com/profile/Alexander-Finnegan?share=1"> -- Alexander Finnegan </a>
 <a href="https://www.chapo.chat/home/data_type/post/listing_type/all/sort/hot/page/2"> -- Chapo </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main29">
 <h2 style="text-align:center;"> - Youtubers </h2>
 <br>
 <p style ="text-align:center;">
@@ -1635,7 +1744,10 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="https://www.youtube.com/watch?v=vlHOLLrvquc"> -- Zero Books </a>
 <a href="https://www.youtube.com/channel/UCko8bu6w_OpE8DlKDubg9sQ/playlists"> -- Swoletariat (Useful Playlists)
 </p>
+</section>
 
+<div class = "container">
+<section id = "main30">
 <h2 style="text-align:center;"> - Podcasts </h2>
 <br>
 <p>
@@ -1655,7 +1767,10 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <a href="https://player.fm/series/i4c-trouble-with-daly-and-wallace"> -- I4C </a>
 <a href="https://www.youtube.com/user/ConnollyMediaGroup"> -- The Irish Spark Podcast </a>
 </p>
+</section>
 
+<div class = "container">
+<section id = "main31">
 <h2 style="text-align:center;"> - Feel Good </h2>
 <br>
 <p style="text-align:center;">
@@ -1705,6 +1820,7 @@ The national bourgeoisie differs from the imperialists, the landlords and the bu
 <br><a href="https://www.quora.com/Was-Jesus-a-Communist?share=1"> -- Was Jesus a Communist? </a>
 <br><a href="https://actionnetwork.org/groups/the-underground"> -- Underground Action Network </a>
 </p>
+</section>
 
 <br>
 <br>
