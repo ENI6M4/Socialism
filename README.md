@@ -3,15 +3,13 @@
 <html>
 <head>
 	
-     <link href="Why Socialism.css" rel="stylesheet" type="text/css">
-	
 </head>
 <body style="background-color:red;
       color:white;
       font-size:15px;">
       <header style="text-align:center;">
 		  
-                      <h1> Communism = "Stateless, Classless, Moneyless Society Operating On Virtue 'From Each According to His Ability, to Each According to His Needs'" 
+<h1 style="text-align:center;"> Communism = "Stateless, Classless, Moneyless Society Operating On Virtue 'From Each According to His Ability, to Each According to His Needs'" 
 <a href="https://media.discordapp.net/attachments/692927141792448573/704091602238308422/comm.png?width=774&height=600"> Socialism = </a> </h1>
 
 </header>
