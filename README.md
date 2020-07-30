@@ -11,28 +11,8 @@
       font-size:15px;">
       <header style="text-align:center;">
 		  
-		<!--   <div class="main">
-            <div class="USSRFLAG">
-                <img src="USSRFLAG.jpg">
-            </div>
-                            
-            <ol type="i"><li><a href="#main1"> Why Not Capitalism </a></li>
-						 <li><a href="#main2"> Reform? </a></li>
-                         <li><a href="#main3"> Why Socialism </a></li>
-                         <li><a href="#main4"> AES </a></li>
-                         <li><a href="#main5"> Obstacles </a></li>
-                         <li><a href="#main6"> Revolution </a></li>
-                         <li><a href="#main15"> China </a></li>
-                         <li><a href="#main21"> Quotes </a></li>
-                         <li><a href="#main22"> Memes </a></li>
-                         <li><a href="#main31"> Feel Good </a></li>
-                     </ol>
-                  </div>
-                  
-                  <div class="title"> -->
                       <h1> Communism = "Stateless, Classless, Moneyless Society Operating On Virtue 'From Each According to His Ability, to Each According to His Needs'" 
 <a href="https://media.discordapp.net/attachments/692927141792448573/704091602238308422/comm.png?width=774&height=600"> Socialism = </a> </h1>
-                <!--  </div> -->
 
 </header>
 	  
