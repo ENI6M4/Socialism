@@ -1416,7 +1416,7 @@
 <section id = "main21">
 <h2 style="text-align:center;"> - Quotes </h2>
 <br>
-<p style="text-align:center; color:navy;">
+<p style="text-align:center; color:13198e;">
 <br><a href="https://i.redd.it/ai47amxe1nb51.png"> -- Why Socialism Quotes </a>
 <br>
 <br><a href="https://qph.fs.quoracdn.net/main-qimg-4a92d589faa8275d68ea0b094a498475"> -- Anti-Communism - 1 </a>
