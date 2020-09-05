@@ -42,9 +42,9 @@ ol li.active a {
       background-color: #fff;
       color: #000;
 }
-.USSRFLAG img {
+.raised_fist img {
       float: left;
-      width: 150px;
+      width: 40px;
       height: auto;
 }
 
@@ -80,6 +80,16 @@ body{
    margin:auto;
    overflow:auto;
 }   
+
+a {
+  color: #2c87f0;
+}
+a:visited {
+  color: #636;
+}
+a:hover, a:active, a:focus {
+  color:#c33;
+}
 
 #whynotcapitalism p{
 
