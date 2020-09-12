@@ -3,7 +3,7 @@
 
 <h1> Website </h1>
 <br>
-<p><a href="https://en16ma.neocities.org/site/Why_Socialism.html"> - Why Socialism </a></p>
+<p><a href="https://liberation.neocities.org/site/socialism.html"> - Why Socialism </a></p>
 	
 </head>
 
