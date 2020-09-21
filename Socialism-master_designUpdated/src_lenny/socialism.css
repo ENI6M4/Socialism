@@ -255,3 +255,6 @@ a:hover, a:active, a:focus {
     background-color: #FF0004;
     color: #FFC400;
 }
+.navbar.navbar-expand-lg.navbar-dark.offset-xl-0.col-xl-12 #navbarSupportedContent .form-inline.my-2.my-lg-0 {
+
+}
