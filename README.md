@@ -5,7 +5,7 @@
 <br>
 <p><a href="https://liberation.neocities.org/src/socialism.html"> - Why Socialism </a>
 
-<img src="ws.png" width="350"></p>
+<img src="ws.png" height="500" width="750"></p>
 
 </head>
 
